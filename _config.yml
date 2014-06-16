@@ -1,4 +1,5 @@
 name: Making Learning Work
 markdown: redcarpet
 highlighter: pygments
-baseurl: mlw
+baseurl: /mlw
+permalink: /:categories/:year/:month/:day/:title.html
