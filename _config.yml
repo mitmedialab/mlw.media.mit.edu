@@ -1,4 +1,4 @@
 name: Making Learning Work
 markdown: redcarpet
 highlighter: pygments
-source: mlw
+baseurl: http://learn.media.mit.edu/mlw/
