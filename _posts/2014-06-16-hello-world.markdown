@@ -18,4 +18,4 @@ For now, here are some quick stats on the problem space:
 
 For more context on the project, check out the [recent article](https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit) about the IdeaShop 
 
-[1]: "Yesterday's Dropout's Documentary" - http://breakingground.wamu.org/
+[1]: [Yesterday's Dropouts (Documentary)](http://breakingground.wamu.org/)
