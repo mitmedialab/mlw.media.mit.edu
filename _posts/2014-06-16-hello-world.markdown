@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello (:"
+title:  "Welcome - First Post"
 date:   2014-06-16 15:15:12
 categories: updates
 ---
