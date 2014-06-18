@@ -65,11 +65,19 @@ a:visited { color: #3399FF; }
 /*****************************************************************************/
 
 .site {
+  text-align: left;
+  margin-top: 3em;
+  margin-bottom: 2em; 
   font-size: 115%;
-  text-align: justify;
-  width: 42em;
+  line-height: 1.5em;
+
+/*  font-size: 115%;
+  text-align: justify;*/
+  /*width: 42em;*/
+/*  width: 80%;
   margin: 3em auto 2em;
   line-height: 1.5em;
+  margin: 10px;*/
 }
 
 .header a {
@@ -80,7 +88,7 @@ a:visited { color: #3399FF; }
 .title {
   display: inline-block;
   margin-bottom: 1em;
-  font-size: 2em;
+  font-size: 1.6em;
 }
 
 .title a {
