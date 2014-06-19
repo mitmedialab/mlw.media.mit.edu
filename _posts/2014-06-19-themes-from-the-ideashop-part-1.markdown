@@ -9,7 +9,7 @@ comments: true
 <img src="{{site.baseurl}}/images/sticky_wall_with_numbers.jpg" width="100%">
 __Caption__: Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23
 
-At the IdeaShop on adult learning held at the Media Lab in May, participants worked together to develop the a common list of themes that they felt described the field of adult learning. The original "theme wall" (shown above), will be crucial in helping us determine the motivations and values of adult learners, as well as the barriers they face and the tactics tried in the adult learning field today.
+At the IdeaShop on adult learning held at the Media Lab in May, participants worked together to develop the a common list of themes that they felt described the field of adult learning. The original "theme wall" (shown above), will be crucial in helping us determine the motivations and values of adult learners, as well as the barriers they face and the tactics tried in the adult learning field today. These themes are explained below.
 
 # 1. Emotional Barriers
 Many adult learners who lack basic literacy and math skills have grown up being called dumb in school by their peers (and sometimes their teachers). They often feel embarrased that they do not have these skills, helpless in situations where they need to read or do basic math, and fearful that others will find out. Sometimes even a person's significant other may not be aware. Imagine struggling to count out your pills or read a traffic sign? How would that make you feel? These barriers need to be overcome in order for a person to seek out traditional literacy and basic skills programs.
