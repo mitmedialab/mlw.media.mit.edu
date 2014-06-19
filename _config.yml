@@ -1,9 +1,11 @@
 name: Making Learning Work
+url: http://learn.media.mit.edu/
 markdown: redcarpet
 highlighter: pygments
 baseurl: /mlw
 permalink: /:categories/:year/:month/:day/:title.html
 comments: false
+tags: true
 analytics :
     provider : google
     google : 
