@@ -64,7 +64,7 @@ IdeaShop participant Michael Bettersworth from [Texas State Technical College Sy
 * How do you certify the skills that people develop on the job that are not taught in the classroom? 
 * Is there a way to take the job experience that adult learners already have and repurpose it to count towards credentials that will help them get a job? 
 
-# [Continue to: Themes from the IdeaShop - Part 2](http://learn.media.mit.edu/mlw/drafts/2014/06/20/themes-from-the-ideashop-part-2.html)
+# [Continue to: Themes from the IdeaShop - Part 2 >>>](http://learn.media.mit.edu/mlw/drafts/2014/06/20/themes-from-the-ideashop-part-2.html)
 
 [1][3]: _Illiterate America_ by John Kozol
 <br>
