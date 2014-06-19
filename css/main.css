@@ -81,13 +81,18 @@ a:visited { color: #3399FF; }
 }
 
 .header{
-  margin-bottom: 1em;
+  margin-bottom: 2.5em;
   margin-top: 0.5em;
 }
 
 .header a {
   /*font-weight: bold;*/
   text-decoration: none;
+}
+
+.header-text{
+  padding-left: 0px;
+  color: #aaa;
 }
 
 .title {
@@ -103,13 +108,8 @@ a:visited { color: #3399FF; }
   color: #000;
 }
 
-.title-div{
-  padding-left: 0px;
-}
-
 .header a.extra {
   color: #aaa;
-  margin-left: 1em;
 }
 
 .header a.extra:hover {
