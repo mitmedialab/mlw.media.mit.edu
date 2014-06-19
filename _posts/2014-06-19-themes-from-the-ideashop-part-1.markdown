@@ -9,6 +9,8 @@ comments: true
 <img src="{{site.baseurl}}/images/sticky_wall_with_numbers.jpg" width="100%">
 __Caption__: Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23
 
+At the IdeaShop on adult learning held at the Media Lab in May, participants worked together to develop the a common list of themes that they felt described the field of adult learning. The original "theme wall" (shown above), will be crucial in helping us determine the motivations and values of adult learners, as well as the barriers they face and the tactics tried in the adult learning field today.
+
 # 1. Emotional Barriers
 Many adult learners who lack basic literacy and math skills have grown up being called dumb in school by their peers (and sometimes their teachers). They often feel embarrased that they do not have these skills, helpless in situations where they need to read or do basic math, and fearful that others will find out. Sometimes even a person's significant other may not be aware. Imagine struggling to count out your pills or read a traffic sign? How would that make you feel? These barriers need to be overcome in order for a person to seek out traditional literacy and basic skills programs.
 
@@ -50,6 +52,8 @@ Every learner needs someone that they can turn to for help, who is there to help
 IdeaShop participant Michael Bettersworth from [Texas State Technical College System (TSTCS)](http://www.tstc.edu/frontpage/) told the story of a man who walked through the doors of TSTCS wanting to become certified as a welder. He didn't want to take a course -- he already knew how to weld -- but could not use his welding skills to get a job since he didn't have welding cerification from a American school. After 1 week in the shop, working with the welding instructor, he was able to demonstrate all the techniques that he needed to get his welding certification -- without ever having taken TSTCS's welding course.
 
 Michael's story illustrates a need to help adult learners certify and market the skills that they already have. How do you certify the skills developed on the job that cannot be taught in the classroom? Is there a way to take the job experience that adult learners already have and repurpose it to count towards credintials that will help them get a job? 
+
+# [Continue to: Themes from the IdeaShop - Part 2](http://learn.media.mit.edu/mlw/drafts/2014/06/20/themes-from-the-ideashop-part-2.html)
 
 [1][3]: _Illiterate America_ by John Kozol
 <br>
