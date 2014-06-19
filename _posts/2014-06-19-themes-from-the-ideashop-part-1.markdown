@@ -28,7 +28,7 @@ At the IdeaShop on adult learning held at the Media Lab in May, participants wor
 # 3. Life Barriers
 
 * To attend a traditional skills course, literacy course, or a community college / trade school, there is a significant cost. Even if the program is free, you are giving up time. Time to relax, time with your kids, and even basics like time to sleep.  
-* You may have to find someone to watch your kids in order to attend school (and that might cost money) or give up a job that gives you money to feed your family.
+* You may have to find someone to watch your kids in order to attend school (and that might cost money) or give up a job that helps you earn money to feed your family.
 
 > Jorge Delgado, the assistant principal at Carlos Rosario International Charter School, says many of these adult students make _incredible sacrifices_ to come to class. 40% have school-age children, and some send money home to support their families. The other day, Delgado remarks, he was leaving at 3 o'clock in the morning and when he went to pay for parking, at the cash register was one of his students. I said, "Don't you have class at 8AM? When do you get out?" He responded, "5 in the morning". [2]
 
