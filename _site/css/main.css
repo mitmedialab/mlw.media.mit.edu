@@ -34,6 +34,14 @@ p {
   margin: 1em 0; 
 }
 
+blockquote > p{
+  margin-top: 0px;
+}
+
+blockquote{
+  font-size: 100%;
+}
+
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #3399FF; }
