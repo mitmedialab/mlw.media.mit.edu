@@ -3,6 +3,7 @@ layout: post
 title:  "Hello world"
 date:   2014-06-16
 categories: updates
+comments: true
 ---
 
 And the site is live! 

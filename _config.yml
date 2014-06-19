@@ -3,7 +3,8 @@ markdown: redcarpet
 highlighter: pygments
 baseurl: /mlw
 permalink: /:categories/:year/:month/:day/:title.html
+comments: false
 analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-38544202-3'
+    provider : google
+    google : 
+        tracking_id : 'UA-38544202-3'
