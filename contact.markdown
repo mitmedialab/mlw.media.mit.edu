@@ -9,9 +9,6 @@ comments: true
 
 We'd love to hear your thoughts, questions, and comments.
 
-Please feel free to reach out to:
-
-* [Philipp Schmidt](mailto:ps1@media.mit.edu) (Director's Fellow, Lifelong Kindergarten Group, MIT Media Lab)
-* [Juliana Nazaré](mailto:jnazare@media.mit.edu) (Research Assistant, Lifelong Kindergarten Group, MIT Media Lab)
+[Info on contact coming soon...]
 
 Thanks!
