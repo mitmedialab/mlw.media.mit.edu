@@ -2,7 +2,6 @@
 layout: default
 title:  "Contact Us"
 date:   2014-06-17
-comments: true
 ---
 
 # Contact Us
@@ -31,20 +30,6 @@ We'd love to hear your thoughts, questions, and comments.
 	</form>
 </div>
 
+<!-- Jquery and Contact Form Ajax Script -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript">
-      
-      $('#ajax-form').submit(function(){
-        $.ajax({
-          dataType: 'jsonp',
-          url: "http://getsimpleform.com/messages/ajax?form_api_token=0f83f692a0bfe00f0107337760ddd10e",
-          data: $('#ajax-form').serialize() 
-        }).done(function() {
-          //callback which can be used to show a thank you message
-          //and reset the form
-          $('.contact-alert').show()
-        });
-        return false; //to stop the form from submitting
-      });
-    
-</script>
+<script src="javascripts/contact-form.js"></script>
