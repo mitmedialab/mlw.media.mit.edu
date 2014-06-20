@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "A running list of outside resources"
 date:   2014-06-18
-categories: pages
 comments: true
 ---
 

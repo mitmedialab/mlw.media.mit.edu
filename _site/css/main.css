@@ -115,6 +115,10 @@ a:visited { color: #3399FF; }
     color: #aaa;
 }
 
+.site ul, .site ol {
+    margin-left: 1.35em;
+}
+
 .footer {
     font-size: 70%;
     color: #666;
@@ -140,6 +144,11 @@ a:visited { color: #3399FF; }
 
 .footer .rss img {
     border: 0;
+}
+
+a#lab-logo{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #000;
 }
 
 /*****************************************************************************/

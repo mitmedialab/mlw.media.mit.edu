@@ -9,7 +9,7 @@ comments: true
 <img src="{{site.baseurl}}/images/sticky_wall_with_numbers.jpg" width="100%">
 __Caption__: Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23
 
-At the IdeaShop on adult learning held at the Media Lab in May, participants worked together to develop the a common list of themes that they felt described the field of adult learning. The original "theme wall" (shown above), will be crucial in helping us determine the motivations and values of adult learners, as well as the barriers they face and the tactics tried in the adult learning field today. These themes are explained below.
+This post-it wall was created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). It maps the opportunities, barriers and challenges for adult learners. We are using it to identify promising areas for experimentation and to guide our work. 
 
 # 1. Emotional Barriers
 
