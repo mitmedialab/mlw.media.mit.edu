@@ -75,14 +75,46 @@
 
 <p>We&#39;d love to hear your thoughts, questions, and comments.</p>
 
-<p>Please feel free to reach out to:</p>
+<div class="contact-form-wrapper col-sm-8">
+    <div class="contact-alert alert alert-success">Thanks for contacting us! We will be in touch shortly.</div>
+    <form id="ajax-form" action="#" role="form">
+        <input type='hidden' name='redirect_to' value='' />
+        <div class="row">
+            <div class="col-xs-6 col-md-6 form-group">
+                <input class="form-control contact-form-control" id="name" name="name" placeholder="Name" type="text" required autofocus />
+            </div>
+            <div class="col-xs-6 col-md-6 form-group">
+                <input class="form-control contact-form-control" id="email" name="email" placeholder="Email" type="email" required />
+            </div>
+        </div>
+        <textarea class="form-control contact-form-control" id="message" name="message" placeholder="Questions, comments, thoughts..." rows="5"></textarea>
+        <br />
+        <div class="row">
+            <div class="col-xs-12 col-md-12 form-group">
+                <button class="btn btn-block contact-sumbit-button pull-right" type="submit">Send</button>
+            </div>
+        </div>
+    </form>
+</div>
 
-<ul>
-<li><a href="mailto:ps1@media.mit.edu">Philipp Schmidt</a> (Director&#39;s Fellow, Lifelong Kindergarten Group, MIT Media Lab)</li>
-<li><a href="mailto:jnazare@media.mit.edu">Juliana Nazaré</a> (Research Assistant, Lifelong Kindergarten Group, MIT Media Lab)</li>
-</ul>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-<p>Thanks!</p>
+<script type="text/javascript">
+      
+      $('#ajax-form').submit(function(){
+        $.ajax({
+          dataType: 'jsonp',
+          url: "http://getsimpleform.com/messages/ajax?form_api_token=0f83f692a0bfe00f0107337760ddd10e",
+          data: $('#ajax-form').serialize() 
+        }).done(function() {
+          //callback which can be used to show a thank you message
+          //and reset the form
+          $('.contact-alert').show()
+        });
+        return false; //to stop the form from submitting
+      });
+    
+</script>
 
                         </div>
                     <!-- End dynamic site content -->
@@ -119,7 +151,7 @@
                 </div>
 
         <!-- JQuery -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
         <!-- Bootstrap JS -->
         <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>

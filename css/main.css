@@ -188,3 +188,30 @@ a#lab-logo{
 .post pre.terminal code {
     background-color: #333;
 }
+
+/*****************************************************************************/
+/*
+/* Contact Page
+/*
+/*****************************************************************************/
+
+.contact-form-wrapper{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.contact-alert{
+    display: none;
+    border-radius: 2px;
+}
+
+.contact-form-control{
+    border-radius: 2px;
+}
+
+.contact-sumbit-button{
+    background-color: #3399FF;
+    color: #FFFFFF;
+    border-radius: 2px;
+
+}
