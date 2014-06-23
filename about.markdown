@@ -7,5 +7,6 @@ comments: true
 
 # About Making Learning Work
 
-Insert "about" content here...
+Making / Learning / Work is an adult learning innovation project hosted at the MIT Media Lab. 
+
 
