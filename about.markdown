@@ -5,7 +5,7 @@ date:   2014-06-17
 comments: true
 ---
 
-# Making / Learning / Work is an adult learning innovation project hosted at the MIT Media Lab. 
+# Making/Learning/Work is an adult learning innovation project hosted at the MIT Media Lab 
 
 In the US, 36 Million adults have low basic literacy and numeracy skills ([Download the PDF report](http://skills.oecd.org/Survey_of_Adult_Skills_US.pdf)). Many are stuck in low-paying jobs or unemployment. This is a challenge not just for the individuals and families directly affected, but for the US economy as a whole. "Learning" is the most promising pathways towards family-supporting employment and better futures.
 
@@ -15,16 +15,16 @@ During the last few years, we have seen a burst of innovation in online and tech
 
 # New Solutions
 
-The scale of the problem suggests that new approaches may be needed. This project aims to think outside the typical boundaries and beyond the obvious solutions, to identify novel ways to address the overall goal: give more adult learners a pathway to success. We don’t mean to ignore the tried & tested models, but learn from them. At the same time, we are not interested in technology innovation for the sake of scale alone, but are looking for real impact on peoples’ lives. 
+The scale of the problem suggests that new approaches may be needed. This project aims to think outside the typical boundaries and beyond the obvious solutions, to identify novel ways to address the overall goal: give more adult learners a pathway to success. We don’t mean to ignore the tried & tested models, but to learn from them. At the same time, we are not interested in technology innovation for the sake of scale alone, but are looking for real impact on peoples’ lives. 
 
 We are particularly interested in projects that (a) offer a range of approaches to developing 21st century skills and academic mindsets, to complement more traditional technical training, and (b) use technology to lower the cost of traditional high-touch / high-cost models.
 
-# Project Map
+# Project Outline 
 
-* Background research - Understanding the scope of the problem
-* Ideashop / Workshop - Generating 20 idea sketches
-* Planing - Identifying 2-4 ideas for prototyping
-* Implementation - Co-designing prototopyes together with adult learners. Implement, study, iterate. 
+* **Background research** - Understanding the scope of the problem
+* **Ideashop / Workshop** - Generating 20 idea sketches
+* **Design** - Identifying 2-4 ideas for prototyping
+* **Implementation** - Co-designing prototopyes together with adult learners. Implement, study, iterate. 
 
 
 
