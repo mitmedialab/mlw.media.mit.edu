@@ -111,7 +111,7 @@ This post-it wall was created by participants of the IdeaShop (held at the MIT M
 # 17. Project-Based Learning
 
 * Can we effectively teach basic skills through real-world projects and experiences?
-* Are team projects possible with adult learners' busy schedules
+* Are team projects possible with adult learners' busy schedules?
 
 [1][3]: _Illiterate America_ by John Kozol
 <br>
