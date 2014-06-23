@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Themes from the IdeaShop"
-date:   2014-06-19
-categories: drafts
+date:   2014-06-23
+categories: updates
 comments: true
 ---
 
