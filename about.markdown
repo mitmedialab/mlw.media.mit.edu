@@ -21,10 +21,10 @@ We are particularly interested in projects that (a) offer a range of approaches 
 
 # Project Outline 
 
-* **Background research** - Understanding the scope of the problem
-* **Ideashop / Workshop** - Generating 20 idea sketches
-* **Design** - Identifying 2-4 ideas for prototyping
-* **Implementation** - Co-designing prototopyes together with adult learners. Implement, study, iterate. 
+* _Background research_ - Understanding the scope of the problem
+* _Ideashop / Workshop_ - Generating 20 idea sketches
+* _Design_ - Identifying 2-4 ideas for prototyping
+* _Implementation_ - Co-designing prototopyes together with adult learners. Implement, study, iterate. 
 
 
 
