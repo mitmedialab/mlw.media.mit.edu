@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello world"
 date:   2014-06-16
-categories: updates
+categories: drafts
 comments: true
 ---
 
