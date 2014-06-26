@@ -8,6 +8,7 @@
     position: absolute; 
     top: 5px; 
     right: 7%;
+    z-index: 10000;
 }
 
 #tab-up{
