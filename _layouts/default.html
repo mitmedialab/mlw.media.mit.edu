@@ -37,6 +37,9 @@
                 <!-- Nessecarry div for FB comments -->
                 <div id="fb-root"></div>
 
+                <!-- Projects tab -->
+                {% include navigation-tabs.html %}
+
                 <!-- Responsive wrapper for site -->
                 <div class="site container-fluid">
 
@@ -79,14 +82,6 @@
                     <!-- Footer with sponsor logos -->
                     <div class="row">
                         <div class="footer col-sm-8 col-sm-offset-2">
-                            <!-- Old MIT Media Lab Logo
-                            <div class="contact col-sm-1">
-                                <p>
-                                    <a href="http://media.mit.edu">
-                                        <img src="{{site.baseurl}}/images/ML-logo.png" width="70">
-                                    </a>
-                                </p>
-                            </div> -->
                             <div class="contact col-sm-9">
                                 <p>
                                     <a href="http://learn.media.mit.edu"> Learning Over Education Initiative </a><br />
@@ -105,5 +100,7 @@
 
                 <!-- End responsive site wrapper -->
                 </div>
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script type="text/javascript" src="{{site.baseurl}}/javascripts/navigation-tabs.js"></script>
         </body>
 </html>
