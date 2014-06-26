@@ -57,7 +57,7 @@ This post-it wall was created by participants of the IdeaShop (held at the MIT M
 # 7. Mentorship
 * Every learner needs someone that they can turn to for help, who is there to help motivate them. 
 * Many literacy programs pair volunteers with one student or a small group, which allows them to work closely together and build up trust.
-* The mentorship model is time-intensive, both for the students and for the teacher, requires a long-term commitment on both parts.
+* The mentorship model is time-intensive, both for the students and for the teacher, and requires a long-term commitment on both parts.
 
 # 8. Credentialing
 
@@ -73,7 +73,10 @@ This post-it wall was created by participants of the IdeaShop (held at the MIT M
 
 # 10. Employment
 
-* Help adult learners get to the make step in the careers (dishwasher to waiter, stockroom worker to cashier)
+* Help adult learners learn what the next step in their careers is
+	* E.g. dishwasher to waiter, stockroom worker to cashier
+* Help them identify what skills they need to get to this step in the careers
+* Help them lay out a path to master these skills
 
 # 11. Libraries and Public Spaces
 
@@ -90,17 +93,17 @@ This post-it wall was created by participants of the IdeaShop (held at the MIT M
 # 13. Greater Community & Community Needs
 
 * An inmate enrolled in a basic skills program is 40% less likely to return to prison [5]
-* Improving basic skills improves health care (knowing how to count pills, reading labels to give the right dose)
+* Improving basic skills improves health care (knowing how to count pills, reading labels to take the right dose of medication)
 
 # 14. Scalability
 
-* One-on-one and small-scale instruction impossible to scale
+* One-on-one and small-scale instruction is difficult to scale
 * Many adult learners are too embarrassed or don't have time to schedule and attend classes
 
 # 15. Groupings
 
 * How do you group similar learners when the spread of adult learner's skills is much larger than in K-12 education?
-* What groupings are effective for giving learners a support network: 1st language, location, career goals?
+* What groupings are effective for giving learners a support network: 1st language, location, career goals, friendships?
 
 # 16. Assessment
 
