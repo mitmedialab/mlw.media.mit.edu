@@ -22,7 +22,7 @@ Real Machinists of Detroit is a city-wide intervention that pairs skilled, unemp
 </center>
 
 # 3. Libranet
-In the past decades, the competitive advantage of libraries in a community is less about physical reading material and more about free access to the internet for everybody. A large component of web use in most library systems is job searching - indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet seeks to formalize this role and supplement library services with access to informed job-search guidance. For example, a kitchen worker at 5 Guys might go to the library after work to look into other jobs in the food industry with more opportunity for advancement. On his own, this may seem a daunting task. However, after sharing his interests and validating his skills, he can use Libranet to make informed decisions about other jobs he may be qualified for that have a roadmap for advancement.
+In the past decades, the competitive advantage of libraries in a community is less about physical reading material and more about free access to the internet for everybody. A large component of web use in most library systems is job searching - indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet seeks to formalize this role and supplement library services with access to informed job-search guidance. For example, a kitchen worker at "Five Guys" might go to the library after work to look into other jobs in the food industry with more opportunity for advancement. On his own, this may seem a daunting task. However, after sharing his interests and validating his skills, he can use Libranet to make informed decisions about other jobs he may be qualified for that have a roadmap for advancement.
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/libranet.png" width="50%">
@@ -36,7 +36,7 @@ ESL Pen is a lightweight, non-invasive way to document exploration of the Englis
 </center>
 
 # 5. Asyncronous Audio Learning
-Asynchronous Audio Learning (AAL) is a mobile tool that allows users to record audio and get near real-time translation. In addition to supporting comprehension in that moment, AAL archives recordings, allowing users to not only replay audio but also develop learning modules around text that is relevant to them. For example, a hospital employee may want to attend a lecture but worry that they won't understand everything. By recording on AAL, they can go back and listen on their commute home, supplementing the bits they don't understand with translation in their native language.
+Asynchronous Audio Learning (AAL) is a mobile tool that allows users to record audio and get near real-time translation. In addition to supporting comprehension in that moment, AAL archives recordings, allowing users to not only replay audio but also develop learning modules around text that is relevant to them. For example, a hospital employee may want to attend a lecture but is worried that she won't understand everything. By recording on AAL, she can go back and listen on her commute home, supplementing the bits they don't understand with translation in her native language.
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/async_audio_learning.png" width="50%">
@@ -57,14 +57,14 @@ Random Events Lab is a low-risk environment for individuals to come and receive 
 </center>
 
 # 8. Xpress Me
-Xpress Me is a mobile application designed to help users improve their basic literacy and numeracy skills while on their daily commute. It works by allowing the user to choose to "passively learn" (aka listen or read), or actively learn "aka answer questions and challenges". By making learning accessible during commute times, Xpress Me works to facilitate quick wins that continually motivate the user to keep using the platform. For example, a department store worker who takes the bus to work daily may choose to use Xpress Me to explore the option of becoming a nurse, learn about the profession, identify the skills that she needs, and then gradually do the reading required for the training. That way, when she goes to enroll in a nursing certification program, she is already halfway towards completing the certification. 
+Xpress Me is a mobile application designed to help users improve their literacy and numeracy skills while on their daily commute. It works by allowing the user to choose to "passively learn" (listen or read), or actively learn (answer questions and challenges). By making learning accessible during commute times, Xpress Me works to facilitate quick wins that continually motivate the user to keep using the platform. For example, a department store worker who takes the bus to work daily may choose to use Xpress Me to explore the option of becoming a nurse, learn about the profession, identify the skills that she needs, and then gradually do the reading required for the training. That way, when she goes to enroll in a nursing certification program, she is already halfway towards completing the certification. 
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/xpress_me.png" width="50%">
 </center>
 
 # 9. Rich and Passion
-Rich and Passion seeks to support working students by creating a community for users to interact and offer academic support, motivation and help with non-academic needs. Based on co-located learners, users might ask for a ride to work if their car is broken down or find other students interested in building motorcycles to meet during the week. 
+Rich and Passion seeks to support working students by creating a community for users to interact and offer academic support, motivation and help with non-academic needs. Based on co-located learners, users might ask for a ride to work if their car is broken down or find other students interested in a specific topic to ask questions to or get recommendations for outside learning material. 
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/rich_and_passion.png" width="50%">
@@ -78,7 +78,7 @@ Foursquare for learning aims to identify even the smallest chunk of time that a 
 </center>
 
 # 11. Tech Literacy
-Many adults use smartphones but don't understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with 2 children may need a phone to communicate with his children and look for work. He'd have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.
+Many adults use smartphones but don't understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He'd have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/tech_literacy.png" width="50%">
