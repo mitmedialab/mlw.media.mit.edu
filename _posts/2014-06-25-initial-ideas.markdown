@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Gallery Sketches"
+title:  "Initial Ideas"
 date:   2014-06-25
 categories: drafts
 comments: true
@@ -85,7 +85,31 @@ Many adults use smartphones but don't understand their capabilities beyond basic
 </center>
 
 # 12. Storyteller
-Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is a kit of interactive storybook pieces that allow parents to make up a story by moving the characters around the pages of a storybook. The story is recorded and then parents are able to listen to their story and read it as they listen to the audio. This empowers them to be the “teacher” to their kids and also be creative (making up stories), as well as learning English vocabulary and practicing their speech and reading capabilities. 
+Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is an interactive storybook, allowing parents to drag and drop sentences to customize a story to tell their kids. The sentences can be played outload, letting parents learn how to say the words to their children. This interactive book empowers parents to be the _teachers_ to their kids and be creative (making up stories), while learning English vocabulary and practicing their speech and reading capabilities. 
+
+<center>
+	<img src="{{site.baseurl}}/images/gallery_sketches/storybook.png" width="50%">
+</center>
 
 # 13. DollarCount 
-DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics of addition, subtraction, multiplication, and division while tracking something useful -- their income. Users can scan in their pay stubs, receipts, etc. and then are walked through the exercises of tallying up their expenses and subtracting it from their income. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners not feel stupid (like when they are working from 1st grade textbooks), allows them to discreetly learn and save money while in line at the grocery store,  and empowers them to track their own spending.
+DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful -- their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing nessecarry calculations and empowers them to track their own spending.
+
+<center>
+	<img src="{{site.baseurl}}/images/gallery_sketches/dollarcount.png" width="50%">
+</center>
+
+
+# 14. Project-Based Learning PlugIn
+Utilizing existing technology rooted in natural language processing, this browser plug-in would index and map open education resources (Khan, Youtube, etc.) into a common library through a web crawler. Therefore, whenever a learner is online, they are creating a digital trail of not just their search history, but what academic competencies their browsing maps to.
+This would be a big support for project-based learning, as competencies would be documented as they did their research, rather than requiring an assessment to justify competencies. The core enabling elements of this particular idea are the competency library and NLP engine. The library is actually growing to become a full ontology and the NLP is in test development still. The library will be a public resources accessible through APIs etc. The idea is to drive innovation around this space to improve labor outcomes in general. Similarly, we would like the NLP engine to be public and something that enables more innovation from others through GitHub or other public code spaces.
+
+<center>
+	<img src="{{site.baseurl}}/images/gallery_sketches/project_based_learning_plugin.png" width="50%">
+</center>
+
+# 15. Changing Lives Through Literature Extension
+[Changing Lives Through Literature (CLTL)](http://en.wikipedia.org/wiki/Changing_Lives_Through_Literature) is a bibliotherapy program that offers alternative probation sentences to offenders. The program was created in 1991 by Robert Waxler, an English professor at the [University of Massachusetts Dartmouth](http://cltl.umassd.edu/home-flash.cfm), and Superior Court Judge Robert Kane. At a cost of less than $500 a person, proponents say that CLTL saves the government tens of thousands of dollars when compared with the cost of housing an inmate for a lifetime at an annual rate of $30,000. The program is said to help reduce the recidivism rate among certain segments of the prison population. Former offenders credit the program for giving them a second chance. The program has received a New England Board of Higher Education award for excellence and an Exemplary Education Grant from the National Endowment for the Humanities. What opportunities might exist to scale this project to reach a larger prison population? Moreover, are there opportunities to involve non-prison populations in reading groups with convicts? (This has been attempted by [Drexel’s Inside-Out Course](http://www.drexel.edu/culturecomm/news/archive/inside-out-prison-exchange-course-expands/))
+
+<center>
+	<img src="{{site.baseurl}}/images/gallery_sketches/changing_lives_through_literature.png" width="50%">
+</center>
