@@ -1,8 +1,8 @@
 $('#tabs').click(function() {
   $('#tab-down').toggle();
-  $('#tab-region').toggle();
+  $('#tab-region').slideToggle();
   $('#tab-up').toggle();
-  $('#tab-border').toggle()
+  $('#tab-border').toggle();
   if($('#tab-up').is(':visible')){
     $('#tabs').css("top", $("#tab-region").height()+40);
   }
