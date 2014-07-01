@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://learn.media.mit.edu//mlw/</link>
-    <atom:link href="http://learn.media.mit.edu//mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 01 Jul 2014 14:43:43 -0400</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2014 14:43:43 -0400</lastBuildDate>
+    <link>http://learn.media.mit.edu/mlw/feed.xml</link>
+    <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 01 Jul 2014 14:50:24 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2014 14:50:24 -0400</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
