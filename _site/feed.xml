@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://learn.media.mit.edu//mlw/</link>
+    <atom:link href="http://learn.media.mit.edu//mlw/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 01 Jul 2014 14:43:43 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2014 14:43:43 -0400</lastBuildDate>
+    <generator>Jekyll v2.1.0</generator>
+    
+      <item>
+        <title>Initial Ideas</title>
+        <description>&lt;p&gt;These ideas were created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). They are currently in rough draft form. We welcome any feedback and questions you have as we work to refine these ideas.&lt;/p&gt;
+
+&lt;h1&gt;1. Real Machinists of Detroit&lt;/h1&gt;
+
+&lt;p&gt;Real Machinists of Detroit is a city-wide intervention that pairs skilled, unemployed labor with the needs of a city. RMD identifies a group of workers who have been laid off and seeks to capitalize on their skills whilst supporting them in the development of new skills necessary to take on modern challenges in the city. Each group would be supported by a mentor and in charge of managing and implementing a local project that benefits the community at large. For instance, there are many skilled machinists laid off with the decline of the auto industry whose skills could easily be repurposed to rebuild abandoned public space.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/real_machinists_of_detroit.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;2. What&amp;#39;s My Path Forward?&lt;/h1&gt;
+
+&lt;p&gt;“What’s my path forward?” seeks to make promotion within an organization more coherent and transparent, catering specifically to low-skilled workers. In articulating the specific requirements and expectations of jobs within an organization, this idea helps employees who may otherwise feel stagnant in their role and overwhelmed by what is required to be promoted better manage their own trajectory. For instance, a dishwasher at a restaurant may feel a high barrier to promotion because she never fully understands the requirements of higher-paid jobs. If she could map out the expectations for promotion (fluent English, cash management), she could frame job training around the fastest track to promotion.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/whats_my_path_forward.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;3. Libranet&lt;/h1&gt;
+
+&lt;p&gt;In the past decades, the competitive advantage of libraries in a community is less about physical reading material and more about free access to the internet for everybody. A large component of web use in most library systems is job searching - indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet seeks to formalize this role and supplement library services with access to informed job-search guidance. For example, a kitchen worker at &amp;quot;Five Guys&amp;quot; might go to the library after work to look into other jobs in the food industry with more opportunity for advancement. On his own, this may seem a daunting task. However, after sharing his interests and validating his skills, he can use Libranet to make informed decisions about other jobs he may be qualified for that have a roadmap for advancement.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/libranet.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;4. ESL Pen&lt;/h1&gt;
+
+&lt;p&gt;ESL Pen is a lightweight, non-invasive way to document exploration of the English language for non-native speakers. With a corresponding earpiece, ESL Pen can not only remember what you write and play it back later, but also scan text and read it out loud in either English or native language. For example, a security guard who does not speak excellent English could use the Pen the supplement his work, not just to help him get through the day, but also to document places he is weak so that he can go back and study.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/esl_pen.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;5. Asyncronous Audio Learning&lt;/h1&gt;
+
+&lt;p&gt;Asynchronous Audio Learning (AAL) is a mobile tool that allows users to record audio and get near real-time translation. In addition to supporting comprehension in that moment, AAL archives recordings, allowing users to not only replay audio but also develop learning modules around text that is relevant to them. For example, a hospital employee may want to attend a lecture but is worried that she won&amp;#39;t understand everything. By recording on AAL, she can go back and listen on her commute home, supplementing the bits they don&amp;#39;t understand with translation in her native language.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/async_audio_learning.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;6. Mentor Match&lt;/h1&gt;
+
+&lt;p&gt;Mentor Match pairs skilled, English-speaking community-members with low-skilled adult learners who are seeking new career pathways. Similar to online dating or volunteermatch.org, adult learners submit information about themselves and their goals and are paired with a community-member who can help motivate them and support them in their learning. For example, many banks require employees to do community service each year. These employees could have access to short biographies of adult learners who are looking for a mentor, or vice versa. In a facilitated environment, these pairs could meet and document progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/mentormatch.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;7. Random Events Lab&lt;/h1&gt;
+
+&lt;p&gt;Random Events Lab is a low-risk environment for individuals to come and receive job training, interview support, and mock situations. REL seeks to support users in better understanding expectations in a given workplace while still maintaining their individuality. REL consists of a series of life size projection screens that mimic real-life scenarios. For instance, a recent immigrant with a background in finance may come to better understand the expectations of the U.S. workplace and practice interviewing. Some of these scenarios may be automated but she may also have the opportunity to link up with potential employers and like-minded users who have common or complementary interests.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/random_events_lab.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;8. Xpress Me&lt;/h1&gt;
+
+&lt;p&gt;Xpress Me is a mobile application designed to help users improve their literacy and numeracy skills while on their daily commute. It works by allowing the user to choose to &amp;quot;passively learn&amp;quot; (listen or read), or actively learn (answer questions and challenges). By making learning accessible during commute times, Xpress Me works to facilitate quick wins that continually motivate the user to keep using the platform. For example, a department store worker who takes the bus to work daily may choose to use Xpress Me to explore the option of becoming a nurse, learn about the profession, identify the skills that she needs, and then gradually do the reading required for the training. That way, when she goes to enroll in a nursing certification program, she is already halfway towards completing the certification. &lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/xpress_me.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;9. Rich and Passion&lt;/h1&gt;
+
+&lt;p&gt;Rich and Passion seeks to support working students by creating a community for users to interact and offer academic support, motivation and help with non-academic needs. Based on co-located learners, users might ask for a ride to work if their car is broken down or find other students interested in a specific topic to ask questions to or get recommendations for outside learning material. &lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/rich_and_passion.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;10. Foursquare for Learning&lt;/h1&gt;
+
+&lt;p&gt;Foursquare for learning aims to identify even the smallest chunk of time that a user has to learn and use the context around them to help them learn relevant skills. For example, suppose a user is at the grocery store, waiting in the checkout line after getting food for her kids dinner. Foursquare for learning may suggest some relevant articles on basic child nutrition that she could listen to via her headphones, or prompt her to do a basic calculation to see how much she is spending on bread. &lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/foursquare_for_learning.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;11. Tech Literacy&lt;/h1&gt;
+
+&lt;p&gt;Many adults use smartphones but don&amp;#39;t understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He&amp;#39;d have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/tech_literacy.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;12. Storyteller&lt;/h1&gt;
+
+&lt;p&gt;Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is an interactive storybook, allowing parents to drag and drop sentences to customize a story to tell their kids. The sentences can be played outload, letting parents learn how to say the words to their children. This interactive book empowers parents to be the &lt;em&gt;teachers&lt;/em&gt; to their kids and be creative (making up stories), while learning English vocabulary and practicing their speech and reading capabilities. &lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/storybook.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;13. DollarCount&lt;/h1&gt;
+
+&lt;p&gt;DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful -- their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing nessecarry calculations and empowers them to track their own spending.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/dollarcount.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;14. Project-Based Learning PlugIn&lt;/h1&gt;
+
+&lt;p&gt;Utilizing existing technology rooted in natural language processing, this browser plug-in would index and map open education resources (Khan, Youtube, etc.) into a common library through a web crawler. Therefore, whenever a learner is online, they are creating a digital trail of not just their search history, but what academic competencies their browsing maps to.
+This would be a big support for project-based learning, as competencies would be documented as they did their research, rather than requiring an assessment to justify competencies. The core enabling elements of this particular idea are the competency library and NLP engine. The library is actually growing to become a full ontology and the NLP is in test development still. The library will be a public resources accessible through APIs etc. The idea is to drive innovation around this space to improve labor outcomes in general. Similarly, we would like the NLP engine to be public and something that enables more innovation from others through GitHub or other public code spaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/project_based_learning_plugin.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h1&gt;15. Changing Lives Through Literature Extension&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Changing_Lives_Through_Literature&quot;&gt;Changing Lives Through Literature (CLTL)&lt;/a&gt; is a bibliotherapy program that offers alternative probation sentences to offenders. The program was created in 1991 by Robert Waxler, an English professor at the &lt;a href=&quot;http://cltl.umassd.edu/home-flash.cfm&quot;&gt;University of Massachusetts Dartmouth&lt;/a&gt;, and Superior Court Judge Robert Kane. At a cost of less than $500 a person, proponents say that CLTL saves the government tens of thousands of dollars when compared with the cost of housing an inmate for a lifetime at an annual rate of $30,000. The program is said to help reduce the recidivism rate among certain segments of the prison population. Former offenders credit the program for giving them a second chance. The program has received a New England Board of Higher Education award for excellence and an Exemplary Education Grant from the National Endowment for the Humanities. What opportunities might exist to scale this project to reach a larger prison population? Moreover, are there opportunities to involve non-prison populations in reading groups with convicts? (This has been attempted by &lt;a href=&quot;http://www.drexel.edu/culturecomm/news/archive/inside-out-prison-exchange-course-expands/&quot;&gt;Drexel’s Inside-Out Course&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+    &lt;img src=&quot;/mlw/images/gallery_sketches/changing_lives_through_literature.png&quot; width=&quot;50%&quot;&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu//mlw/drafts/2014/06/25/initial-ideas.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu//mlw/drafts/2014/06/25/initial-ideas.html</guid>
+        
+        
+        <category>drafts</category>
+        
+      </item>
+    
+      <item>
+        <title>Themes from the IdeaShop</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/mlw/images/themes_wall.png&quot; width=&quot;100%&quot;&gt;
+&lt;strong&gt;Caption&lt;/strong&gt;: Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;/p&gt;
+
+&lt;p&gt;This post-it wall was created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). It maps the opportunities, barriers and challenges for adult learners. We are using it to identify promising areas for experimentation and to guide our work. &lt;/p&gt;
+
+&lt;h1&gt;1. Emotional Barriers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adult learners with low-skills often lack effective support environments &lt;/li&gt;
+&lt;li&gt;Past experiences may have lowered their motivation and confidence&lt;/li&gt;
+&lt;li&gt;Low self-esteem limits good learning behaviors like asking for help (learners feel embarrassed to ask)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;2. Literacy&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;36 Million Americans have low numeracy and/or literacy skills (see &lt;a href=&quot;http://nces.ed.gov/surveys/piaac/results/summary.aspx&quot;&gt;2012 PIAAC results&lt;/a&gt; for more details).&lt;/li&gt;
+&lt;li&gt;Few jobs in the US economy do not require basic literacy and numeracy&lt;/li&gt;
+&lt;li&gt;Low literacy also limits access to technology-supported learning programs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A man in California speaks about his own loss of identity, of self-location, definition: &amp;quot;I stood at the bottom of the ramp. My car had broke down on the freeway. There was a phone. I asked for the police. They was nice. They said to tell them where I was. I looked up at the signs. There was one that I had seen before. I read it to them: ONE WAY STREET. They thought it was a joke. I told them I couldn&amp;#39;t read. There was other signs above the ramp. They told me to try. I looked around for somebody to help. All the cars was going by real fast. I couldn&amp;#39;t make them understand that I was lost. The cop was nice. He told me: &amp;#39;Try once more.&amp;#39; I did my best. I couldn&amp;#39;t read. I only knew the sign above my head. The cop was trying to be nice. He knew that I was trapped. &amp;#39;I can&amp;#39;t send out a car to you if you can&amp;#39;t tell me where you are.&amp;#39; I felt afraid. I nearly cried. I&amp;#39;m forty-eight years old. I only said: &amp;#39;I&amp;#39;m on a one-way street ...&amp;#39;&amp;quot; [1]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1&gt;3. Life Barriers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Significant costs (tuition, babysitting, loss of income from job)&lt;/li&gt;
+&lt;li&gt;Significant time loss (loss of time with kids, loss of basics like time to sleep)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jorge Delgado, the assistant principal at Carlos Rosario International Charter School, says many of these adult students make &lt;em&gt;incredible sacrifices&lt;/em&gt; to come to class. 40% have school-age children, and some send money home to support their families. The other day, Delgado remarks, he was leaving at 3 o&amp;#39;clock in the morning and when he went to pay for parking, at the cash register was one of his students. I said, &amp;quot;Don&amp;#39;t you have class at 8AM? When do you get out?&amp;quot; He responded, &amp;quot;5 in the morning&amp;quot;. [2]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1&gt;4. Pathways&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No &amp;quot;tried and true&amp;quot; pathways outside of K-12 education&lt;/li&gt;
+&lt;li&gt;Current pathways to success require attending classes or groups&lt;/li&gt;
+&lt;li&gt;No methods of encouragement through success stories and highlighting personal progress. (This ties into the theme of motivation (5) discussed below.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;5. Motivation&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One of the biggest motivators for adults to go back to school is to help their children.&lt;/li&gt;
+&lt;li&gt;Parents want to be able to converse with their kids, who grew up learning English in school&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A mother speaks about the inability to help her kids to read: &amp;quot;I can&amp;#39;t read to them. Of course that&amp;#39;s leaving them out of something they should have. Oh, it matters. You believe it matters! I ordered all these books. The kids belong to a book club. Donny wanted me to read a book to him. I told Donny: &amp;#39;I can&amp;#39;t read.&amp;#39; He said: &amp;#39;Mommy, you sit down. I&amp;#39;ll read it to you.&amp;#39; I tried it one day, reading from the pictures. Donny looked at me. He said, &amp;#39;Mommy, that&amp;#39;s not right.&amp;#39; He&amp;#39;s only five. He knew I couldn&amp;#39;t read ...&amp;quot; [3]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Improving job prospects. Being able to calculate a hourly rate, understand tipping, recite a menu to customers. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ernsest Robertson is a part-time yard worker. He says no matter how many hours he worked, he only charged $20, because he didn&amp;#39;t know how to make change. Robertson remembers vividly all the times he&amp;#39;s been cheated. &amp;quot;I think it&amp;#39;s one price, and it&amp;#39;s always something else,&amp;quot;&amp;quot; he says. “I think people can tell when you don&amp;#39;t know how to handle money. They know how to get you.&amp;quot; [4]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1&gt;6. Fun and Luxury&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For adult learners, learning is a luxury. To study, they are missing out on other aspects of life. &lt;/li&gt;
+&lt;li&gt;Fun: We talk about basic skills acquisition as a chore, not as an enjoyable activity. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;7. Mentorship&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Every learner needs someone that they can turn to for help, who is there to help motivate them. &lt;/li&gt;
+&lt;li&gt;Many literacy programs pair volunteers with one student or a small group, which allows them to work closely together and build up trust.&lt;/li&gt;
+&lt;li&gt;The mentorship model is time-intensive, both for the students and for the teacher, and requires a long-term commitment on both parts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;8. Credentialing&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Need to help adult learners certify and market the skills that they already have. &lt;/li&gt;
+&lt;li&gt;Is there a way to take the job experience that adult learners already have and repurpose it to count towards credentials that will help them get a job? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;IdeaShop participant Michael Bettersworth from &lt;a href=&quot;http://www.tstc.edu/frontpage/&quot;&gt;Texas State Technical College System (TSTCS)&lt;/a&gt; told the story of a man who walked through the doors of TSTCS wanting to become certified as a welder. He didn&amp;#39;t want to take a course -- he already knew how to weld -- but could not use his welding skills to get a job since he didn&amp;#39;t have any sort of welding certification. After one week in the machine shop working with the welding instructor, he was able to demonstrate all the techniques that he needed to get his welding certification -- without ever having taken TSTCS&amp;#39;s welding course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1&gt;9. Digital&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is it viable to produce a mobile, tablet, or web solution? Do adult learners have sufficient access to these technologies?&lt;/li&gt;
+&lt;li&gt;Will technology be another learning barrier that adult learners will have to overcome to learn? Or will it be a helpful tool?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;10. Employment&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Help adult learners learn what the next step in their careers is
+
+&lt;ul&gt;
+&lt;li&gt;E.g. dishwasher to waiter, stockroom worker to cashier&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Help them identify what skills they need to get to this step in the careers&lt;/li&gt;
+&lt;li&gt;Help them lay out a path to master these skills&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;11. Libraries and Public Spaces&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Severely underutilized by existing adult learning solutions&lt;/li&gt;
+&lt;li&gt;Allows adult learners without Internet access at home to access the Internet&lt;/li&gt;
+&lt;li&gt;Platform for illustrating that low adult literacy and numeracy is a problem that needs to be addressed&lt;/li&gt;
+&lt;li&gt;Free, neutral meeting space&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;12. Skills and Practical Applications&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Traditional education has a lot of overhead that skills acquisition does not require&lt;/li&gt;
+&lt;li&gt;Education typically has a bad connotation for adult learners if they dropped out of the K-12 system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;13. Greater Community &amp;amp; Community Needs&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An inmate enrolled in a basic skills program is 40% less likely to return to prison [5]&lt;/li&gt;
+&lt;li&gt;Improving basic skills improves health care (knowing how to count pills, reading labels to take the right dose of medication)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;14. Scalability&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;One-on-one and small-scale instruction is difficult to scale&lt;/li&gt;
+&lt;li&gt;Many adult learners are too embarrassed or don&amp;#39;t have time to schedule and attend classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;15. Groupings&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do you group similar learners when the spread of adult learner&amp;#39;s skills is much larger than in K-12 education?&lt;/li&gt;
+&lt;li&gt;What groupings are effective for giving learners a support network: 1st language, location, career goals, friendships?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;16. Assessment&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How do you quantify what adult learners need to learn and what they already know?&lt;/li&gt;
+&lt;li&gt;How do you create lightweight assessments that encourage learners, rather than being perceived as barriers?&lt;/li&gt;
+&lt;li&gt;Is there a way to assess students through non-traditional methods that inspire creativity and communication, not recitation? (See #17: Project-Based Learning)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1&gt;17. Project-Based Learning&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Can we effectively teach basic skills through real-world projects and experiences?&lt;/li&gt;
+&lt;li&gt;Are team projects possible with adult learners&amp;#39; busy schedules?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[1][3]: &lt;em&gt;Illiterate America&lt;/em&gt; by John Kozol
+&lt;br&gt;
+[2][4][5]: &lt;em&gt;Yesterday&amp;#39;s Dropouts&lt;/em&gt; by Kavitha Cardoza&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu//mlw/updates/2014/06/23/themes-from-the-ideashop.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu//mlw/updates/2014/06/23/themes-from-the-ideashop.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
+    
+      <item>
+        <title>Hello world</title>
+        <description>&lt;p&gt;And the site is live! &lt;/p&gt;
+
+&lt;p&gt;This is where we will be posting updates on the Making Learning Work project.&lt;/p&gt;
+
+&lt;p&gt;For now, we are just getting started. Working off of the awesome ideas and discussion at the IdeaShop, we will be coming up with prototypes to improve basic adult education in the U.S.&lt;/p&gt;
+
+&lt;p&gt;For more context on the project, check out the &lt;a href=&quot;https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit&quot;&gt;recent EdSurge article&lt;/a&gt; about the IdeaShop &lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu//mlw/drafts/2014/06/16/hello-world.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu//mlw/drafts/2014/06/16/hello-world.html</guid>
+        
+        
+        <category>drafts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
