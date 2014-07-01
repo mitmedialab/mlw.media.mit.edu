@@ -1,9 +1,15 @@
+# Site settings
+title: Making / Learning / Work
 name: Making / Learning / Work
-url: http://learn.media.mit.edu/
-markdown: redcarpet
-highlighter: pygments
+url: http://learn.media.mit.edu
+email: jules.nazare@gmail.com
+description: ""
 baseurl: /mlw
+
+# Build settings
+markdown: redcarpet
 permalink: /:categories/:year/:month/:day/:title.html
+highlighter: pygments
 comments: false
 tags: true
 analytics :
