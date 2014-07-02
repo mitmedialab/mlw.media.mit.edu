@@ -42,7 +42,7 @@ date:   2014-06-18
 * [Recovery: Job Growth and Education Requirements Through 2020](http://cew.georgetown.edu/recovery2020/). Addresses the education and skill requirements of future jobs. 
 
 <br/>
-<h2> More ideas for resources? Leave a comment. </h2>
+<h2> Thought of another resource? Leave a comment. </h2>
 <div class="comments">
     <div class="fb-comments" data-href="{{site.url}}{{ site.baseurl }}{{ page.url }}" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
 </div>
