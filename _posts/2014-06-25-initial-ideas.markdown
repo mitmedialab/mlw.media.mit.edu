@@ -78,21 +78,21 @@ Foursquare for learning aims to identify even the smallest chunk of time that a 
 </center>
 
 # 11. Tech Literacy
-Many adults use smartphones but don't understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He'd have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.
+Many adults use smart phones but don't understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He'd have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/tech_literacy.png" width="50%">
 </center>
 
 # 12. Storyteller
-Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is an interactive storybook, allowing parents to drag and drop sentences to customize a story to tell their kids. The sentences can be played outload, letting parents learn how to say the words to their children. This interactive book empowers parents to be the _teachers_ to their kids and be creative (making up stories), while learning English vocabulary and practicing their speech and reading capabilities. 
+Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is a mobile application that allows parents to drag and drop sentences in order to customize a story to tell their kids. The sentences can be played out load, allowing parents learn how to say the words to their children and practice pronunciation. This interactive application empowers parents to engage their kids in their learning process, telling them compelling bedtime stories while simultaneously learning English vocabulary and practicing their speech and reading capabilities. 
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/storybook.png" width="50%">
 </center>
 
 # 13. DollarCount 
-DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful -- their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing nessecarry calculations and empowers them to track their own spending.
+DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful: their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing necessary calculations and empowers them to track their own spending.
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/dollarcount.png" width="50%">
