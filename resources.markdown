@@ -2,7 +2,6 @@
 layout: default
 title:  "A running list of outside resources"
 date:   2014-06-18
-comments: true
 ---
 
 # Apps / Examples:
@@ -41,4 +40,21 @@ comments: true
 * "AP-NORC Low Wage Employer topline v5." National Survey of Employers on Low-Wage Workers.
 * "Low Wage Worker Topline v1". AP-NORC survey on the Employment Outlook of Low-Wage Workers in America.  
 * [Recovery: Job Growth and Education Requirements Through 2020](http://cew.georgetown.edu/recovery2020/). Addresses the education and skill requirements of future jobs. 
+
+<br/>
+<h2> More ideas for resources? Leave a comment. </h2>
+<div class="comments">
+    <div class="fb-comments" data-href="{{site.url}}{{ site.baseurl }}{{ page.url }}" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+</div>
+
+<script>
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=486603034805006&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
 
