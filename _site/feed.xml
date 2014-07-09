@@ -5,8 +5,8 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 Jul 2014 16:20:22 -0400</pubDate>
-    <lastBuildDate>Wed, 02 Jul 2014 16:20:22 -0400</lastBuildDate>
+    <pubDate>Wed, 09 Jul 2014 15:16:20 -0400</pubDate>
+    <lastBuildDate>Wed, 09 Jul 2014 15:16:20 -0400</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;h1&gt;1. Real Machinists of Detroit&lt;/h1&gt;
 
-&lt;p&gt;Real Machinists of Detroit is a city-wide intervention that pairs skilled, unemployed labor with the needs of a city. RMD identifies a group of workers who have been laid off and seeks to capitalize on their skills whilst supporting them in the development of new skills necessary to take on modern challenges in the city. Each group would be supported by a mentor and in charge of managing and implementing a local project that benefits the community at large. For instance, there are many skilled machinists laid off with the decline of the auto industry whose skills could easily be repurposed to rebuild abandoned public space.&lt;/p&gt;
+&lt;p&gt;Real Machinists of Detroit pairs skilled, unemployed workers with the needs of a city. RMD identifies a group of workers who have been laid off and matches them with real projects. It capitalizes on their existing skills whilst allowing them to develop new skills necessary to take on modern challenges in the city. Each group of machinists is supported by a mentor and in charge of managing and implementing a local project that benefits the community at large. For instance, in Detroit there are many skilled machinists who were laid off with the decline of the auto industry whose skills could easily be repurposed to rebuild abandoned public space.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/real_machinists_of_detroit.png&quot; width=&quot;50%&quot;&gt;
@@ -23,7 +23,7 @@
 
 &lt;h1&gt;2. What&amp;#39;s My Path Forward?&lt;/h1&gt;
 
-&lt;p&gt;“What’s my path forward?” seeks to make promotion within an organization more coherent and transparent, catering specifically to low-skilled workers. In articulating the specific requirements and expectations of jobs within an organization, this idea helps employees who may otherwise feel stagnant in their role and overwhelmed by what is required to be promoted better manage their own trajectory. For instance, a dishwasher at a restaurant may feel a high barrier to promotion because she never fully understands the requirements of higher-paid jobs. If she could map out the expectations for promotion (fluent English, cash management), she could frame job training around the fastest track to promotion.&lt;/p&gt;
+&lt;p&gt;“What’s my path forward?” seeks to make promotion within an organization more coherent and transparent, catering specifically to low-skilled workers. In articulating the specific requirements and expectations of jobs within an organization, this idea helps employees who may otherwise feel stagnant in their role and overwhelmed by what is required to be promoted, better manage their own trajectory. For instance, a dishwasher at a restaurant may feel a high barrier to promotion because she never fully understands the requirements of higher-paid jobs. If she could map out what she needs to be promoted (fluent English, cash management), she could frame job training around the fastest track to promotion.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/whats_my_path_forward.png&quot; width=&quot;50%&quot;&gt;
@@ -31,7 +31,7 @@
 
 &lt;h1&gt;3. Libranet&lt;/h1&gt;
 
-&lt;p&gt;In the past decades, the competitive advantage of libraries in a community is less about physical reading material and more about free access to the internet for everybody. A large component of web use in most library systems is job searching - indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet seeks to formalize this role and supplement library services with access to informed job-search guidance. For example, a kitchen worker at &amp;quot;Five Guys&amp;quot; might go to the library after work to look into other jobs in the food industry with more opportunity for advancement. On his own, this may seem a daunting task. However, after sharing his interests and validating his skills, he can use Libranet to make informed decisions about other jobs he may be qualified for that have a roadmap for advancement.&lt;/p&gt;
+&lt;p&gt;A large component of web use in most library systems is job searching. Indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet is a set of tools and information resources, specifically designed to support librarians who can facilitate access to the tools. For example, a kitchen worker at &amp;quot;Five Guys&amp;quot; might go to the library after work to look into other jobs in the food industry with more opportunity for advancement. On his own, this may seem a daunting task. However, with Libranet, he can work with a librarian to work through the library’s suite of job-search tools and apply to jobs online.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/libranet.png&quot; width=&quot;50%&quot;&gt;
@@ -39,15 +39,15 @@
 
 &lt;h1&gt;4. ESL Pen&lt;/h1&gt;
 
-&lt;p&gt;ESL Pen is a lightweight, non-invasive way to document exploration of the English language for non-native speakers. With a corresponding earpiece, ESL Pen can not only remember what you write and play it back later, but also scan text and read it out loud in either English or native language. For example, a security guard who does not speak excellent English could use the Pen the supplement his work, not just to help him get through the day, but also to document places he is weak so that he can go back and study.&lt;/p&gt;
+&lt;p&gt;English as a second language Pen (ESL Pen) is a lightweight, non-invasive way to document exploration of the English language for non-native speakers. With a corresponding earpiece, ESL Pen can not only remember what you write and play it back later, but also scan text and read it out loud in either English or native language. For example, a security guard who does not speak excellent English could use the Pen the supplement his work, not just to help him get through the day, but also to document places he is weak so that he can go back and study.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/esl_pen.png&quot; width=&quot;50%&quot;&gt;
 &lt;/center&gt;&lt;/p&gt;
 
-&lt;h1&gt;5. Asyncronous Audio Learning&lt;/h1&gt;
+&lt;h1&gt;5. Asynchronous Audio Learning&lt;/h1&gt;
 
-&lt;p&gt;Asynchronous Audio Learning (AAL) is a mobile tool that allows users to record audio and get near real-time translation. In addition to supporting comprehension in that moment, AAL archives recordings, allowing users to not only replay audio but also develop learning modules around text that is relevant to them. For example, a hospital employee may want to attend a lecture but is worried that she won&amp;#39;t understand everything. By recording on AAL, she can go back and listen on her commute home, supplementing the bits they don&amp;#39;t understand with translation in her native language.&lt;/p&gt;
+&lt;p&gt;Asynchronous Audio Learning (AAL) is a mobile tool that allows users to record audio and get near real-time translation. In addition to supporting comprehension in the moment, AAL archives recordings, allowing users to not only replay audio but also develop learning modules around text that is relevant to them. For example, a hospital employee may want to attend a lecture but is worried that she won&amp;#39;t understand everything. By recording on AAL, she can go back and listen on her commute home, supplementing the bits she doesn’t understand with translation in her native language.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/async_audio_learning.png&quot; width=&quot;50%&quot;&gt;
@@ -63,7 +63,7 @@
 
 &lt;h1&gt;7. Random Events Lab&lt;/h1&gt;
 
-&lt;p&gt;Random Events Lab is a low-risk environment for individuals to come and receive job training, interview support, and mock situations. REL seeks to support users in better understanding expectations in a given workplace while still maintaining their individuality. REL consists of a series of life size projection screens that mimic real-life scenarios. For instance, a recent immigrant with a background in finance may come to better understand the expectations of the U.S. workplace and practice interviewing. Some of these scenarios may be automated but she may also have the opportunity to link up with potential employers and like-minded users who have common or complementary interests.&lt;/p&gt;
+&lt;p&gt;Random Events Lab is a low-risk environment for individuals to come and receive job training, interview support, and mock situations. REL seeks to support users in better understanding general expectations in a given workplace while still maintaining their individuality. REL consists of a series of life size projection screens that mimic real-life scenarios. For instance, a recent immigrant with a background in finance may come to better understand the expectations of the U.S. workplace and practice interviewing. Some of these scenarios may be automated but she may also have the opportunity to link up with potential employers and like-minded users who have common or complementary interests. &lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/random_events_lab.png&quot; width=&quot;50%&quot;&gt;
@@ -95,7 +95,7 @@
 
 &lt;h1&gt;11. Tech Literacy&lt;/h1&gt;
 
-&lt;p&gt;Many adults use smartphones but don&amp;#39;t understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He&amp;#39;d have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.&lt;/p&gt;
+&lt;p&gt;Many adults use smart phones but don&amp;#39;t understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He&amp;#39;d have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/tech_literacy.png&quot; width=&quot;50%&quot;&gt;
@@ -103,7 +103,7 @@
 
 &lt;h1&gt;12. Storyteller&lt;/h1&gt;
 
-&lt;p&gt;Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is an interactive storybook, allowing parents to drag and drop sentences to customize a story to tell their kids. The sentences can be played outload, letting parents learn how to say the words to their children. This interactive book empowers parents to be the &lt;em&gt;teachers&lt;/em&gt; to their kids and be creative (making up stories), while learning English vocabulary and practicing their speech and reading capabilities. &lt;/p&gt;
+&lt;p&gt;Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is a mobile application that allows parents to drag and drop sentences in order to customize a story to tell their kids. The sentences can be played out load, allowing parents learn how to say the words to their children and practice pronunciation. This interactive application empowers parents to engage their kids in their learning process, telling them compelling bedtime stories while simultaneously learning English vocabulary and practicing their speech and reading capabilities. &lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/storybook.png&quot; width=&quot;50%&quot;&gt;
@@ -111,7 +111,7 @@
 
 &lt;h1&gt;13. DollarCount&lt;/h1&gt;
 
-&lt;p&gt;DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful -- their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing nessecarry calculations and empowers them to track their own spending.&lt;/p&gt;
+&lt;p&gt;DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful: their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user -- more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing necessary calculations and empowers them to track their own spending.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/dollarcount.png&quot; width=&quot;50%&quot;&gt;
@@ -119,8 +119,7 @@
 
 &lt;h1&gt;14. Project-Based Learning PlugIn&lt;/h1&gt;
 
-&lt;p&gt;Utilizing existing technology rooted in natural language processing, this browser plug-in would index and map open education resources (Khan, Youtube, etc.) into a common library through a web crawler. Therefore, whenever a learner is online, they are creating a digital trail of not just their search history, but what academic competencies their browsing maps to.
-This would be a big support for project-based learning, as competencies would be documented as they did their research, rather than requiring an assessment to justify competencies. The core enabling elements of this particular idea are the competency library and NLP engine. The library is actually growing to become a full ontology and the NLP is in test development still. The library will be a public resources accessible through APIs etc. The idea is to drive innovation around this space to improve labor outcomes in general. Similarly, we would like the NLP engine to be public and something that enables more innovation from others through GitHub or other public code spaces.&lt;/p&gt;
+&lt;p&gt;Utilizing existing technology rooted in natural language processing, this browser plug-in would index and map open education resources (Khan, Youtube, etc.) into a common library through a web crawler. Therefore, whenever a learner is online, they are creating a digital trail of not just their search history, but what academic competencies their browsing maps to. This would be a big support for project-based learning, as competencies would be documented as they did their research, rather than requiring an assessment to justify competencies. The core enabling elements of this particular idea are the competency library and NLP engine. The library is actually growing to become a full ontology and the NLP is in test development still. The library will be a public resources accessible through APIs etc. The idea is to drive innovation around this space to improve labor outcomes in general. Similarly, we would like the NLP engine to be public and something that enables more innovation from others through GitHub or other public code spaces.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/project_based_learning_plugin.png&quot; width=&quot;50%&quot;&gt;
@@ -128,7 +127,7 @@ This would be a big support for project-based learning, as competencies would be
 
 &lt;h1&gt;15. Changing Lives Through Literature Extension&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Changing_Lives_Through_Literature&quot;&gt;Changing Lives Through Literature (CLTL)&lt;/a&gt; is a bibliotherapy program that offers alternative probation sentences to offenders. The program was created in 1991 by Robert Waxler, an English professor at the &lt;a href=&quot;http://cltl.umassd.edu/home-flash.cfm&quot;&gt;University of Massachusetts Dartmouth&lt;/a&gt;, and Superior Court Judge Robert Kane. At a cost of less than $500 a person, proponents say that CLTL saves the government tens of thousands of dollars when compared with the cost of housing an inmate for a lifetime at an annual rate of $30,000. The program is said to help reduce the recidivism rate among certain segments of the prison population. Former offenders credit the program for giving them a second chance. The program has received a New England Board of Higher Education award for excellence and an Exemplary Education Grant from the National Endowment for the Humanities. What opportunities might exist to scale this project to reach a larger prison population? Moreover, are there opportunities to involve non-prison populations in reading groups with convicts? (This has been attempted by &lt;a href=&quot;http://www.drexel.edu/culturecomm/news/archive/inside-out-prison-exchange-course-expands/&quot;&gt;Drexel’s Inside-Out Course&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Changing_Lives_Through_Literature&quot;&gt;Changing Lives Through Literature (CLTL)&lt;/a&gt; is a bibliotherapy program that offers alternative probation sentences to offenders. The program was created in 1991 by Robert Waxler, an English professor at the &lt;a href=&quot;http://cltl.umassd.edu/home-flash.cfm&quot;&gt;University of Massachusetts Dartmouth&lt;/a&gt;, and Superior Court Judge Robert Kane. At a cost of less than $500 a person, proponents say that CLTL saves the government tens of thousands of dollars when compared with the cost of housing an inmate for a lifetime at an annual rate of $30,000. The program is said to help reduce the recidivism rate among certain segments of the prison population. Former offenders credit the program for giving them a second chance. The program has received a New England Board of Higher Education award for excellence and an Exemplary Education Grant from the National Endowment for the Humanities. With technology, we can now scale this program. By creating the ability for students, probation officers, and instructors to access the material online, we hope to minimize the cost for scaling this program and make it accessible to more students in need.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
     &lt;img src=&quot;/mlw/images/gallery_sketches/changing_lives_through_literature.png&quot; width=&quot;50%&quot;&gt;
