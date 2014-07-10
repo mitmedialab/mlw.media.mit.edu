@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Connecting Adult Learners"
+date:   2014-06-19
+categories: updates
+comments: true
+---
+Reblogged from the [DML Central blog post](http://dmlcentral.net/blog/philipp-schmidt/connecting-adult-learners) by Philipp Schmidt
+
+<img src="{{site.baseurl}}/images/dml-adults.jpg" width="100%">
+
+A lot of the work we have been doing as part of the connected learning community has focused on children and young people. We design digital tools that create new ways for young people to learn. We create environments in which learning starts with a young person's interest. And, we are starting to re-design the academic system so that "non-traditional" learning can find the recognition it deserves.
+
+There are many good reasons why we have focused on young people. It's easier to make a difference to someone's life if they are just starting out, if they haven't already fallen behind because they lack access to good schools or other opportunities. And, as everyone who works with children will confirm, it is also very rewarding. Seeing how your work makes a young person's eyes light up is a wonderful experience. Working with adult learners on the other hand is often harder, messier, and less likely to succeed. But, there are at least two reasons why it is important.
+
+There are too many adults with low skills in the U.S. to ignore. The [PIAAC](http://www.oecd.org/site/piaac/surveyofadultskills.htm) study (the PISA study's less famous adult cousin) finds that at least [36 million U.S. Americans score in the lowest two categories of literacy and maths (PDF)](http://skills.oecd.org/Survey_of_Adult_Skills_US.pdf). Many have fallen out of the traditional academic systems. If connected learning can offer learners better ways to connect life and learning, and translate achievements outside the academic environment, into real world benefits, then this is a group that urgently needs it.
+
+Helping adults move toward family-supporting employment, might create more opportunities for their kids to become connected learners in the future. We have made great strides designing technologies that are more accessible and appropriate for learners from diverse backgrounds. And, researchers like [Ricarose Roque](http://www.ricarose.com/) at the MIT Media Lab are involving families to create more supportive learning environments especially for children from low-income backgrounds. We are making progress, but on the whole, children are more likely to pick up tools like Scratch or Minecraft if they come from an opportunity-rich background. And, [learning opportunities increase with income](http://www.nytimes.com/2012/02/10/education/education-gap-grows-between-rich-and-poor-studies-show.html?pagewanted=all&_r=0) — wealthier families not only spend more money on their kids’ learning, but their kids also spend more time in places like museums and after-school programs. So why not use connected learning to increase income?
+
+As part of a new initiative titled “Making / Learning / Work” (in collaboration with the Joyce Foundation) at the MIT Media Lab, we've started reaching out to adult learners, employers, training providers, and to the technology innovators of the Media Lab, to come up with some new solutions for adult learners. During our [kick-off workshop](https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit), we sketched out 14 project ideas and are currently in the process of refining them in order to pick two or three for implementation. In the process, we are finding that connected learning works not just for kids, but also for adults. Interests may be different (think welding rather than wrestling), but having a clear purpose is just as crucial. And, peer support maybe more important yet. Many of the adult learners we are looking at have had unsuccessful experiences with the education system. Having a community they can turn to, connecting with peers who have struggled with similar challenges, and taking the role of mentor as well as mentee, could make all the difference between dropping out and pulling through. Finally, turning real world experiences into academic achievements is necessary in order to turn them into jobs.
+
+Over the next 18 months, we'll be refining our ideas, developing prototypes, and iterating on the design in close collaboration with the adult learners we are trying to support. If others in the DML Central community are interested in this area, and would like to learn more, please don't hesitate to get in touch. We are always interested in finding more collaborators.
+
+Banner image credit: [DML Research Hub](https://www.flickr.com/photos/dmlcentral/12999755585/in/set-72157641962961284)
