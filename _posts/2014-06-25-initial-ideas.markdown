@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial Ideas"
 date:   2014-06-25
-categories: drafts
+categories: updates
 comments: true
 ---
 These ideas were created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). They are currently in rough draft form. We welcome any feedback and questions you have as we work to refine these ideas.
