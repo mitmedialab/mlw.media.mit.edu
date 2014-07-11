@@ -12,4 +12,5 @@ EdSurge's Leonard Medlock has written a fantastic article on the workshop: [Adul
 
 We would like to thank all the workshop participants. Your contributions will help shape our next 18 months of prototyping and testing. We cannot wait to get your feedback as we begin to expand upon these ideas.
 
-- The Making Learning Work Team
+Thanks!
+The Making Learning Work Team
