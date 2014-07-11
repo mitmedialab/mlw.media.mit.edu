@@ -5,8 +5,8 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 11 Jul 2014 12:00:43 -0400</pubDate>
-    <lastBuildDate>Fri, 11 Jul 2014 12:00:43 -0400</lastBuildDate>
+    <pubDate>Fri, 11 Jul 2014 12:09:57 -0400</pubDate>
+    <lastBuildDate>Fri, 11 Jul 2014 12:09:57 -0400</lastBuildDate>
     <generator>Jekyll v2.1.0</generator>
     
       <item>
@@ -362,6 +362,27 @@
         
         
         <category>drafts</category>
+        
+      </item>
+    
+      <item>
+        <title>Adult Learning Innovations - Kickoff Workshop</title>
+        <description>&lt;p&gt;On May 22nd and 23rd, adult learning experts from around the country came to the Media Lab to help us brainstorm ideas for how we can use technology to help improve adult literacy and numeracy in the United States.&lt;/p&gt;
+
+&lt;p&gt;EdSurge&amp;#39;s Leonard Medlock has written a fantastic article on the workshop: &lt;a href=&quot;https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit&quot;&gt;Adult Learning Innovations Take Root at MIT&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank all the workshop participants. Your contributions will help shape our next 18 months of prototyping and testing. We cannot wait to get your feedback as we begin to expand upon these ideas.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Making Learning Work Team&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 29 May 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu/mlw/updates/adult-learning-innovations-workshop.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/updates/adult-learning-innovations-workshop.html</guid>
+        
+        
+        <category>updates</category>
         
       </item>
     
