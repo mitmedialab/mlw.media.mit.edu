@@ -26,10 +26,5 @@ layout: none
         {% endfor %}
       </item>
     {% endfor %}
-    <item>
-        <title>"Adult Learning Innovations Take Root at MIT"</title>
-        <pubDate>{{ "2014-05-29" | date_to_rfc822 }}</pubDate>
-        <link>"https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit"</link>
-      </item>
   </channel>
 </rss>
