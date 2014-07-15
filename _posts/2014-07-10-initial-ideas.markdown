@@ -22,7 +22,7 @@ Real Machinists of Detroit pairs skilled, unemployed workers with the needs of a
 </center>
 
 # 3. Libranet
-A large component of web use in most library systems is job searching. Indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet is a set of tools and information resources, specifically designed to support librarians who can facilitate access to the tools. For example, a kitchen worker at "Five Guys" might go to the library after work to look into other jobs in the food industry with more opportunity for advancement. On his own, this may seem a daunting task. However, with Libranet, he can work with a librarian to work through the library’s suite of job-search tools and apply to jobs online.
+A large component of web use in most library systems is job searching. Indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet is a network facilitated by the library for residents to explore career opportunities and help set their own career goals. Users can see other people's data, their goals, and make and receive suggestions. This could lead to physical meet-ups and peer support groups, and perhaps skills building teams that the library could organize workshops around. By doing this, Libranet finds new ways of collecting, extracting, and organizing data in order to make it sharable and actionable and helps find new ways to renew value in libraries as community spaces of learning.
 
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/libranet.png" width="50%">
