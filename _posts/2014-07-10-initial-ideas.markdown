@@ -112,3 +112,6 @@ Utilizing existing technology rooted in natural language processing, this browse
 <center>
 	<img src="{{site.baseurl}}/images/gallery_sketches/changing_lives_through_literature.png" width="50%">
 </center>
+
+# 16. The Job Graph
+Do you really know what your 1,000+ Facebook friends do on a daily basis? Would you think about reaching out to any of them about a job? For adult learners that have earned up to a high school diploma, most of their social network is on Facebook, as opposed to the professional social-networking site LinkedIn. The Job Graph is a Facebook application that shows the user jobs and industries that their friends work in. Users can restrict their search by location and then search for jobs where they already have a contact. They can click on companies and then search through that company’s job listings. If they have questions, they can contact their friends that works at the company to ask questions such as how the application process works and what prior experience is needed. By enabling users to connect with contacts that they have at the company, The Job Graph aims to take the impersonality out of low-skills job searches and allows learners to understand what “learning path” is needed to achieve a new job.
