@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-with-comments
 title:  "Storyteller"
 date:   2014-08-05
 ---
@@ -18,3 +18,4 @@ Besides providing an opportunity for parents to practice their English, Storytel
 Storyteller is a mobile/iPad app, allowing parents to use it anywhere they want in the house. There would also need to be a web app for story creation, making it easy for contributors (such as art students) to create stories for the storybook "store", complete with tutorials on how to make a good book for adult learners (stories with a lot of repetition, etc.). 
 
 In its most simple form, Storyteller is a compilation of existing children's books. Down the road, authors and artists could get involved creating new books using a storybook-making web app. As a second phase, we could create an interface such that it is easy for a parent to create a book from pictures and then we could facilitate helping them create a story in English to read to their kids. This could become an integral part of the learning experience for the parent.  In a third phase, we could build a community of parents that are using the Storyteller app in order to allow them to recommend stories to each other.
+

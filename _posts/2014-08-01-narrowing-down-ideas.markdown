@@ -2,7 +2,7 @@
 layout: post
 title:  "Narrowing down the ideas"
 date:   2014-07-10
-categories: updates
+categories: drafts
 comments: true
 ---
 

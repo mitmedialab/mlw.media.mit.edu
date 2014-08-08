@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-with-comments
 title:  "Foursquare for Learning"
 date:   2014-08-05
 ---

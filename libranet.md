@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-with-comments
 title:  "Libranet"
 date:   2014-08-05
 ---
