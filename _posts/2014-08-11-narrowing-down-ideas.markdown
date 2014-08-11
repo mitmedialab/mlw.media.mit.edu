@@ -26,9 +26,9 @@ We then added a number of questions that focus on feasibility:
 * Can the idea be deployed with a small pilot (i.e. doesn't require critical mass to become useful)?
 * Have potential partners expressed interest in piloting / deploying it? 
 
-We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix:
+We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix. [[Click here for larger copy]](https://docs.google.com/spreadsheets/d/1eXhDtdGC55haN32PmeNTSRIdJ7LjzKE2oS8Vtr9kJXI/pubhtml):
 
-<center><img src="{{site.baseurl}}/images/criteria_matrix.png" width="70%"></center>
+<center><img src="{{site.baseurl}}/images/criteria_matrix.png" width="100%"></center>
 
 What surfaced were seven solid ideas. Seven? But we wanted five... Looking back through the seven descriptions, we realized that DollarCount and Asynchronous Audio didn't really make sense as stand-alone projects, but could easily be integrated or combined with some of the other projects.
 

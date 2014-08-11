@@ -5,8 +5,8 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Aug 2014 15:49:08 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2014 15:49:08 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2014 16:51:12 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 16:51:12 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -35,9 +35,9 @@
 &lt;li&gt;Have potential partners expressed interest in piloting / deploying it? &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix:&lt;/p&gt;
+&lt;p&gt;We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix. &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1eXhDtdGC55haN32PmeNTSRIdJ7LjzKE2oS8Vtr9kJXI/pubhtml&quot;&gt;[Click here for larger copy]&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/mlw/images/criteria_matrix.png&quot; width=&quot;70%&quot;&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/mlw/images/criteria_matrix.png&quot; width=&quot;100%&quot;&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;What surfaced were seven solid ideas. Seven? But we wanted five... Looking back through the seven descriptions, we realized that DollarCount and Asynchronous Audio didn&amp;#39;t really make sense as stand-alone projects, but could easily be integrated or combined with some of the other projects.&lt;/p&gt;
 
