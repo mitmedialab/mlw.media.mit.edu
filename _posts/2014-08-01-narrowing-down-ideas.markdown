@@ -2,10 +2,44 @@
 layout: post
 title:  "Narrowing down the ideas"
 date:   2014-07-10
-categories: drafts
+categories: updates
 comments: true
 ---
 
-We spent the last few weeks narrowing down the 15 initial ideas. We evaluated the ideas on the basis of a few important questions: Is the tech novel? Is it able to be built in the next year? Is it deployable in a small pilot? Is it scalable through software?
+# 15 > 5 > 2-3. 
 
-What we came up with were five strong ideas that range from helping adult learners with cerfication courses, literacy, basic numeracy and skills building, and employment searches. Please check them out below.
+That's the math that we've been doing over the past few weeks. 
+
+In all seriousness, we've been working on taking the 15 initial ideas created at the IdeaShop and whittling them down to five solid ideas. Of these five ideas, we plan to prototype two or three.
+
+So how did we go about deciding which ideas made the cut? We used a mix of common sense, idealism, and combined them the Media Lab's own criteria for success: uniqueness, impact, and magic. When we ran the IdeaShop, we asked participants to think of the craziest ideas that might be technologically possible in the next ten years. Now we needed to bring them down to what's possible to prototype during the next two years. How did we do that? 
+
+We started with the three core measures of success that the MIT Media Lab applies to all of its projects:
+
+* Uniqueness - Is the idea unique? Is the technology novel and exciting? 
+* Impact - Does it have potential to make a difference in peoples' lives? Can it scale (without massive investment of resources)? 
+* Magic - Does it make you go wow or smile with delight. 
+
+We then added a number of questions that focus on feasibility:
+
+* Is the technology mature enough that we can develop a prototype in the next year? 
+* Can the idea be deployed with a small pilot (i.e. doesn't require critical mass to become useful)?
+* Have potential partners expressed interest in piloting / deploying it? 
+
+We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix:
+
+<center><img src="{{site.baseurl}}/images/criteria_matrix.png" width="70%"></center>
+
+What surfaced were seven solid ideas. Seven? But we wanted five... Looking back through the seven descriptions, we realized that DollarCount and Asynchronous Audio didn't really make sense as stand-alone projects, but could easily be integrated or combined with some of the other projects.
+
+This brings us to 5... drumroll please...
+
+They are:
+
+* [Foursquare for Learning](http://learn.media.mit.edu/mlw/foursquare-for-learning.html)
+* [Xpress Me](http://learn.media.mit.edu/mlw/xpress-me.html)
+* [Storyteller](http://learn.media.mit.edu/mlw/storyteller.html)
+* [Libranet](http://learn.media.mit.edu/mlw/libranet.html)
+* [The Job Graph](http://learn.media.mit.edu/mlw/job-graph.html)
+
+Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at [juliana@media.mit.edu](mailto:juliana@media.mit.edu).

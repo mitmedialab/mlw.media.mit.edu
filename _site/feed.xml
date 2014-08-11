@@ -5,22 +5,62 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 08 Aug 2014 16:23:47 -0400</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2014 16:23:47 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2014 15:43:00 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 15:43:00 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>Narrowing down the ideas</title>
-        <description>&lt;p&gt;We spent the last few weeks narrowing down the 15 initial ideas. We evaluated the ideas on the basis of a few important questions: Is the tech novel? Is it able to be built in the next year? Is it deployable in a small pilot? Is it scalable through software?&lt;/p&gt;
+        <description>&lt;h1&gt;15 &amp;gt; 5 &amp;gt; 2-3.&lt;/h1&gt;
 
-&lt;p&gt;What we came up with were five strong ideas that range from helping adult learners with cerfication courses, literacy, basic numeracy and skills building, and employment searches. Please check them out below.&lt;/p&gt;
+&lt;p&gt;That&amp;#39;s the math that we&amp;#39;ve been doing over the past few weeks. &lt;/p&gt;
+
+&lt;p&gt;In all seriousness, we&amp;#39;ve been working on taking the 15 initial ideas created at the IdeaShop and whittling them down to five solid ideas. Of these five ideas, we plan to prototype two or three.&lt;/p&gt;
+
+&lt;p&gt;So how did we go about deciding which ideas made the cut? We used a mix of common sense, idealism, and combined them the Media Lab&amp;#39;s own criteria for success: uniqueness, impact, and magic. When we ran the IdeaShop, we asked participants to think of the craziest ideas that might be technologically possible in the next ten years. Now we needed to bring them down to what&amp;#39;s possible to prototype during the next two years. How did we do that? &lt;/p&gt;
+
+&lt;p&gt;We started with the three core measures of success that the MIT Media Lab applies to all of its projects:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uniqueness - Is the idea unique? Is the technology novel and exciting? &lt;/li&gt;
+&lt;li&gt;Impact - Does it have potential to make a difference in peoples&amp;#39; lives? Can it scale (without massive investment of resources)? &lt;/li&gt;
+&lt;li&gt;Magic - Does it make you go wow or smile with delight. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We then added a number of questions that focus on feasibility:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is the technology mature enough that we can develop a prototype in the next year? &lt;/li&gt;
+&lt;li&gt;Can the idea be deployed with a small pilot (i.e. doesn&amp;#39;t require critical mass to become useful)?&lt;/li&gt;
+&lt;li&gt;Have potential partners expressed interest in piloting / deploying it? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix:&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&quot;/mlw/images/criteria_matrix.png&quot; width=&quot;70%&quot;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;What surfaced were seven solid ideas. Seven? But we wanted five... Looking back through the seven descriptions, we realized that DollarCount and Asynchronous Audio didn&amp;#39;t really make sense as stand-alone projects, but could easily be integrated or combined with some of the other projects.&lt;/p&gt;
+
+&lt;p&gt;This brings us to 5... drumroll please...&lt;/p&gt;
+
+&lt;p&gt;They are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/foursquare-for-learning.html&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/xpress-me.html&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/storyteller.html&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/libranet.html&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/job-graph.html&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at &lt;a href=&quot;mailto:juliana@media.mit.edu&quot;&gt;juliana@media.mit.edu&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://learn.media.mit.edu/mlw/drafts/narrowing-down-ideas.html</link>
-        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/drafts/narrowing-down-ideas.html</guid>
+        <link>http://learn.media.mit.edu/mlw/updates/narrowing-down-ideas.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/updates/narrowing-down-ideas.html</guid>
         
         
-        <category>drafts</category>
+        <category>updates</category>
         
       </item>
     
