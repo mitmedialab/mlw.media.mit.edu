@@ -14,6 +14,17 @@ Foursquare for Learning is a mobile app that tracks your movement, detecting whe
 
 There are two novel concepts with Foursquare for Learning. The first is location-based prompting, which in theory could push any notification or open app when a user enters a particular location (such as opening a news app when one gets on the subway in the morning). The second concept is designing learning modules that are contextualized to whatever it is that the user is doing at that particular moment. For example, while at a grocery store, a user may be presented with useful phrases to order food from the butcher and cheese counters.
 
-There are a number of apps that use GPS to provide curated content. For example, Spotsy shows Instagram photos taken from nearby and Wikihood catalogues nearby Wikipedia articles. Many IFTTT ("if this then that") recipes also capitalize on geo-referenced information. The most compelling is Moves App, which demonstrates that technology exists to develop location detection on top of the Foursquare API. Developers have begun creating modules embedded within Moves, allowing us the opportunity to design learning modules or prompt certain commands when the user arrives at a particular destination.
+There are a number of apps that use GPS to provide curated content. For example, Spotsy shows Instagram photos taken from nearby and Wikihood catalogs nearby Wikipedia articles. Many IFTTT ("if this then that") recipes also capitalize on geo-referenced information. The most compelling is Moves App, which demonstrates that technology exists to develop location detection on top of the Foursquare API. Developers have begun creating modules embedded within Moves, allowing us the opportunity to design learning modules or prompt certain commands when the user arrives at a particular destination.
 
 To test this idea, we will choose a narrow use case, such as a supermarket, and design a short learning module for users who enter the supermarket. In this instance, a supermarket may be compelled to partner with us as part of their corporate social responsibility, and also because the app could potentially tie into coupons and prompt users to buy a healthy meal around sale items.
+
+# 08/13/14 Update
+
+Q. How do we incentivize people to use this app?
+
+We could partner with a large food supplier to allow users to unlock coupons as they learn.
+
+<br>
+Q. Can we provide users a choice in what content is displayed?
+
+We could make different modules (e.g. budgeting, health and nutrition, tips for cooking with kids) that users could select from.

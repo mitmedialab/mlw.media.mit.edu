@@ -20,3 +20,13 @@ The Job Graph could target any number of subgroups, such as community college st
 
 [Image Credit] [VizWorld.com](http://static.vizworld.com/wp-content/uploads/2010/07/facebook-graph.jpg)
 
+# 08/13/14 Update
+
+It was suggested that "The Job Graph" be renamed "The Job Connection".
+
+Q. Along with helping users identify job opportunities, what can we do to facilitate the job application process?
+
+This could be an opportunity to build "coaching" into the software. For example, users could choose to go through a lesson about how to reach out to employers.
+
+
+

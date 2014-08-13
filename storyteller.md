@@ -19,3 +19,10 @@ Storyteller is a mobile/iPad app, allowing parents to use it anywhere they want 
 
 In its most simple form, Storyteller is a compilation of existing children's books. Down the road, authors and artists could get involved creating new books using a storybook-making web app. As a second phase, we could create an interface such that it is easy for a parent to create a book from pictures and then we could facilitate helping them create a story in English to read to their kids. This could become an integral part of the learning experience for the parent.  In a third phase, we could build a community of parents that are using the Storyteller app in order to allow them to recommend stories to each other.
 
+# 08/13/14 Update
+
+Thoughts to keep in mind:
+
+* Parents should be able to go through "prep" exercises to practice reading and pronunciation.
+* The app needs to be accessible off-line.
+* A lending model model might help more people access devices that can run the storytelling app.
