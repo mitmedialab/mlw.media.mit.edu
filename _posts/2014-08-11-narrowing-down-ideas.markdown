@@ -8,9 +8,9 @@ comments: true
 
 # 15 > 5 > 2-3. 
 
-That's the math that we've been doing over the past few weeks. 
+That's the math that we ([the Learning Over Education team](http://learn.media.mit.edu/)) have been doing over the past few weeks. 
 
-In all seriousness, we've been working on taking the 15 initial ideas created at the IdeaShop and whittling them down to five solid ideas. Of these five ideas, we plan to prototype two or three.
+In all seriousness, we've been working on taking the 15 initial ideas created at the [IdeaShop](https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit) and whittling them down to five solid ideas. Of these five ideas, we plan to prototype two or three.
 
 So how did we go about deciding which ideas made the cut? We used a mix of common sense, idealism, and combined them the Media Lab's own criteria for success: uniqueness, impact, and magic. When we ran the IdeaShop, we asked participants to think of the craziest ideas that might be technologically possible in the next ten years. Now we needed to bring them down to what's possible to prototype during the next two years. How did we do that? 
 
