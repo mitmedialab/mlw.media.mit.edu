@@ -4,6 +4,8 @@ title:  "The Job Graph"
 date:   2014-08-05
 ---
 
+# The Job Graph
+
 _Capitalize on your loose network of connections for jobs at all skill levels_
 
 The Job Graph is an application that allows low-income job seekers to utilize their friend and local community networks to get a job. While LinkedIn does this for high-income job seekers, only 12% of people who have achieved a high school diploma or less use LinkedIn.  However, 71% of this user group use Facebook [2] . While Facebook is not a targeted job-search tool, it does contain employment information that many users add to their profiles. Furthermore, there are a number of other resources such as Craigslist, newspapers and usa.gov that advertise jobs, albeit in an often not intuitive manner.

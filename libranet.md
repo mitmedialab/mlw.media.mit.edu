@@ -4,6 +4,8 @@ title:  "Libranet"
 date:   2014-08-05
 ---
 
+# Libranet
+
 _Beyond book stacks - Utilizing libraries as bridges for meaningful employment_
 
 For generations, libraries have played an integral role in local communities around the world. As libraries evolve to "facilitate knowledge creation" [1] in the digital age, there are many opportunities to support adult learners in their journeys towards a secure and fulfilling future.
