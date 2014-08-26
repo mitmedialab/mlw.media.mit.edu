@@ -24,6 +24,14 @@ With Libranet, libraries benefit because they obtain information about the skill
 
 # 08/13/14 Update
 
-Q. What can we do to give users immediate feedback after that register for Libranet?
+**Q.** What can we do to give users immediate feedback after that register for Libranet?
 
 Once they fill out a short profile, we could immediately present them with jobs targeted at the skill set they already have. We could also display a list of jobs they would need to acquire skills to obtain. Presented with this list would be a "gap analysis" of skills they need to develop for these jobs and steps to obtaining them. This could lead to partnerships with local community colleges, ESOL programs, etc.
+
+# 08/26/14 Update
+
+Thoughts to keep in mind:
+
+* A huge plus for libraries is they are already a public destination that people can access
+* To what extent will library workers have access to Libranet? And how will this be balanced with patron privacy?
+* Creating partnership with local community colleges, ESOL programs, etc. should be an integral part of Libranet

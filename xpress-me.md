@@ -27,3 +27,11 @@ Thoughts to keep in mind:
 
 * What if we could showcase job opportunities along their commuting route?
 * Should we keep users anonymous? For example, if I am using the app on the bus, would it be better if I could only see that there are three other active users on my bus, but not be able to see who they are? This could build in a level of privacy (similar to how Waze App shows users anonymously).
+
+# 08/26/14 Update
+
+Thoughts to keep in mind:
+
+* Would be interesting to look into using Xpress Me for on-boarding training / basic employee training (e.g. safety routine education etc.)
+
+**Q.** Is there a way to expand Xpress Me beyond people who take a bus to commute? In New York and other cities, for example, a lot of people take trains and subways. What if it had both "canned"/offline and online content?

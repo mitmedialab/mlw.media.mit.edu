@@ -22,11 +22,17 @@ To test this idea, we will choose a narrow use case, such as a supermarket, and 
 
 # 08/13/14 Update
 
-Q. How do we incentivize people to use this app?
+**Q.** How do we incentivize people to use this app?
 
 We could partner with a large food supplier to allow users to unlock coupons as they learn.
 
-<br>
-Q. Can we provide users a choice in what content is displayed?
+**Q.** Can we provide users a choice in what content is displayed?
 
 We could make different modules (e.g. budgeting, health and nutrition, tips for cooking with kids) that users could select from.
+
+# 08/26/14 Update
+
+Thoughts to keep in mind:
+
+* We will be competing with Facebook and Candycrush for user's attention
+* Concerned about user comfort with location-based tracking. What percentage of potential users would be comfortable with this?

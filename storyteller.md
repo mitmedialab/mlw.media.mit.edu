@@ -28,3 +28,12 @@ Thoughts to keep in mind:
 * Parents should be able to go through "prep" exercises to practice reading and pronunciation.
 * The app needs to be accessible off-line.
 * A lending model model might help more people access devices that can run the storytelling app.
+
+# 08/26/14 Update:
+
+Thoughts to keep in mind:
+
+* Need to look into research about bilingual kids and parents reading out loud in English and/or their native languages
+* Keep in mind that increasing screen time for kids is not advised
+* Many kids love big colorful pictures and turning pages. Is there a way to replicate this?
+* Could Storyteller toggle in either direction? Parents might want to teach their native language to their predominantly English-speaking kids.
