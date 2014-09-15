@@ -123,44 +123,54 @@
 
 <!-- Post content -->
 <div class="post">
+<p>In this post, we will focus on &quot;Storyteller&quot;, one of the ideas we have been working on to prototype how technology can help adult learners with very basic literacy and numeracy. </p>
+
 <p>Over the past few weeks, we&#39;ve been working on a <em>very</em> rough prototype of Storyteller, as well as fleshing out the idea, user experience, and research questions.</p>
 
 <h1>Background</h1>
 
-<p>Storybooks can be used to engage English language learners of any age. In particular, incorporating storybook reading into adult ESOL curricula can help adult learners: </p>
+<p>Storybooks can be used to engage English language learners of any age. In particular, incorporating storybook reading into adult ESOL (English for Speakers of Other Languages) curricula can help adult learners: </p>
 
 <ul>
-<li>Access ESOL education outside of the class, as they can substitute free or inexpensive storybooks for pricey workbooks</li>
-<li>Practice English language pronunciation with a wide variety of vocabulary, as there are more storybooks than workbooks readily available</li>
 <li>Learn material that has meaning outside of the ESOL classroom and can inspire family collaboration.</li>
+<li>Access ESOL education outside of the class, as they can substitute free or inexpensive storybooks for pricey workbooks.</li>
+<li>Practice English language pronunciation with a wide variety of vocabulary, as there are more storybooks than workbooks readily available.</li>
 </ul>
 
 <p>However, reading and practicing pronunciation on their own can be difficult for learners. So we want to built a technological solution that helps adults practice their reading and pronunciation, allowing them to read along with an English speaker&#39;s voice and imitate their pronunciation. This attempts to emulate how kids learning English practice reading with their parents, following along with their voice and imitating their pronunciation of words.</p>
 
-<p>In thinking about how we want to engage adult learners (our user group) with technology, we opted to use a smartphone, as many adult learners have access to one and it can easily be moved to interact with a physical storybook. One concern we have heard from many educators is that they view the storybook reading experience on paper to be special -- thumbing through big pages and looking at beautiful pictures gives a unique context to the words adult learners, allowing them to discover the meaning of the words themselves as they make associations between the pictures and the text. So we aimed to hold on to that experience in Storyteller&#39;s user experience.</p>
+<p>In thinking about how we want to engage adult learners (our user group) with technology, we opted to use a smartphone, as many adult learners have access to one and it can easily be moved to interact with a physical storybook. One concern we have heard from many educators is that they view the storybook reading experience on paper to be special. Their students enjoy thumbing through big pages and looking at the beautiful pictures. These pictures provide context for the words on the page, allowing learners to discover the meaning of the words themselves as they make associations between the pictures and the text. So we aimed to hold on to that experience in Storyteller&#39;s user experience.</p>
 
 <h1>Walkthrough</h1>
 
 <p>Imagine an adult learner just checked out a new storybook from the library. She sits down to read it, but needs a little bit of facilitation in order to get a meaningful learning experience out of thumbing through the book&#39;s pages. She takes a picture of the book&#39;s cover. Immediately, either:</p>
 
-<p>A copy of the book&#39;s cover appears on her screen, indicating that someone has already read this book and the text and audio from the book is in the app&#39;s system. She clicks &quot;start&quot; to begin the learning experience. The book begins reading the page out loud in a human voice.
-She is asked to use her phone&#39;s camera to take a photo of the first page of the book, as the book is not in the app&#39;s system. She then clicks &quot;start&quot; to begin the learning experience. The book begins reading the page out loud in a somewhat computerized voice.</p>
+<p>A copy of the book&#39;s cover appears on her screen, indicating that someone has already read this book and the text and audio from the book is in the app&#39;s system. She clicks &quot;start&quot; to begin the learning experience. The book begins reading the page out loud in a human voice.</p>
 
-<p>Once the page is done reading, she is able to review the text, practice English pronunciation through a system similar to Duolingo or Rosetta Stone&#39;s voice matcher, view the translation in her native language side-by-side with the English text, and listen to the translation aloud.</p>
+<ul>
+<li>or-</li>
+</ul>
 
-<p>This continues on for the remainder of the book, prompting the learner to photograph the page before reading if the book has not been input into the app&#39;s system. Once the storybook is done, if the story has not been previously input into the system, an Amazon Turk HIT is created, allowing storyteller to double-check the text against the storybook&#39;s pictures and record a human-voice version of the book for $0.05. Once the HIT is completed, the storybook&#39;s data is input into the app&#39;s system. Next time a learner searches for this book, it will have a human voice and translation.</p>
+<p>She is asked to use her phone&#39;s camera to take a photo of the first page of the book, as the book is not in the app&#39;s system. She then clicks &quot;start&quot; to begin the learning experience. The book begins reading the page out loud in a somewhat computerized voice.</p>
+
+<p>Once the page is done reading, she is able to review the text, practice English pronunciation through a system similar to Duolingo or Rosetta Stone&#39;s voice matcher, and listen to / view the translation in her native language side-by-side with the English text in order to provide context for the words on the page.</p>
+
+<p>This continues on for the remainder of the book, prompting the learner to photograph the page before reading if the book has not been input into the app&#39;s system. Once the storybook is done, if the story has not been previously input into the system, the program uses <a href="http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk">Amazon Turk</a> to crowdsource the spell-checking and recording of a human-voice version of the story. Once the Amazon Turk task is completed, the storybook&#39;s data is input into the app&#39;s system. Next time a learner searches for this book, it will have a human voice and translation.</p>
 
 <h1>Rough Prototype</h1>
 
-<p>To test if the idea was feasible, we built a <em>very</em> rough prototype on the computer, utilizing opensource OCR, translation, and speech packages. To get into the technical details. After the user takes a photo, we send it directly from the photo to the computer with no editing.</p>
+<p>To test if the idea was feasible, we built a <em>very</em> rough prototype on the computer, utilizing opensource OCR (optical character recognition), translation, and speech packages. After the user takes a photo, we send it directly from the photo to the computer with no editing.</p>
 
-<p>Then, in one script...
-1. We convert the image from the JPG to the TIF format so that it can be read into the Tesseract OCR package
-2. We run OCR on the image using the Tesseract package, which returns the almost-perfect text
-3. We run a little bit of our own NLP (removing page numbers, weird double punctuations etc.)
-4. We use the Mac OSX &quot;voice&quot; to read the text out loud in English
-6. We send the text to Google translate and request to translate the text into a user&#39;s native language
-7. Once we get the translated text back from Google, we read it out loud in the user&#39;s native language using the correct speech pronounciation packages</p>
+<p>To get into the technical details, in one script...</p>
+
+<ol>
+<li>We convert the image from the JPG to the TIF format so that it can be read into the Tesseract OCR package.</li>
+<li>We run OCR on the image using the Tesseract package, which returns the almost-perfect text.</li>
+<li>We run a little bit of our own natural language processing (removing page numbers, weird double punctuations etc).</li>
+<li>We use the Mac OSX &quot;voice&quot; to read the text out loud in English.</li>
+<li>We send the text to Google translate and request to translate the text into a user&#39;s native language.</li>
+<li>Once we get the translated text back from Google, we read it out loud in the user&#39;s native language using the correct speech pronounciation packages, allowing the user to view and hear the text in their native language alongside the English to provide context.</li>
+</ol>
 
 <p>We were suprised at how well this rudimentary script worked. To give you an idea, here are a few photos from storybooks that we ran. Note: In this case the user&#39;s native language is German.</p>
 
@@ -199,7 +209,7 @@ German: Jetzt stoppen! Max sagte und schickte die wilden Kerle ins Bett, ohne ih
 
 German: Ein Fisch zwei Fische 1 l Red Fish Blue Fish
 </code></pre></div>
-<p>We are pretty excited to keep fleshing out this idea. On the technical side, the next steps will be to do a better job detecting the image in the first place. We are looking into many image technology improvements such as using and Canny Edge Detector to grab edges of photograph, and brightness / contrast filters to help with OCR readability.</p>
+<p>We are pretty excited to keep fleshing out this idea. On the technical side, the next steps will be to do a better job detecting the image in the first place. We are looking into many image technology improvements such as using and <a href="http://scikit-image.org/docs/dev/auto_examples/plot_canny.html">Canny Edge Detector</a> to grab edges of photograph, and brightness / contrast filters to help with OCR readability.</p>
 
 </div>
 
