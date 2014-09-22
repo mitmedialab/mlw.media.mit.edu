@@ -5,8 +5,8 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Sep 2014 14:42:31 -0400</pubDate>
-    <lastBuildDate>Mon, 22 Sep 2014 14:42:31 -0400</lastBuildDate>
+    <pubDate>Mon, 22 Sep 2014 17:35:25 -0400</pubDate>
+    <lastBuildDate>Mon, 22 Sep 2014 17:35:25 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -101,12 +101,12 @@ German: Ein Fisch zwei Fische 1 l Red Fish Blue Fish
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;We are pretty excited to keep fleshing out this idea. On the technical side, the next steps will be to do a better job detecting the image in the first place. We are looking into many image technology improvements such as using and &lt;a href=&quot;http://scikit-image.org/docs/dev/auto_examples/plot_canny.html&quot;&gt;Canny Edge Detector&lt;/a&gt; to grab edges of photograph, and brightness / contrast filters to help with OCR readability.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://learn.media.mit.edu/mlw/drafts/rough-prototyping.html</link>
-        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/drafts/rough-prototyping.html</guid>
+        <pubDate>Mon, 22 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu/mlw/updates/rough-prototyping.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/updates/rough-prototyping.html</guid>
         
         
-        <category>drafts</category>
+        <category>updates</category>
         
       </item>
     
