@@ -28,7 +28,7 @@ Imagine an adult learner just checked out a new storybook from the library. She 
 
 A copy of the book's cover appears on her screen, indicating that someone has already read this book and the text and audio from the book is in the app's system. She clicks "start" to begin the learning experience. The book begins reading the page out loud in a human voice.
 
-- or-
+-or-
 
 She is asked to use her phone's camera to take a photo of the first page of the book, as the book is not in the app's system. She then clicks "start" to begin the learning experience. The book begins reading the page out loud in a somewhat computerized voice.
 
