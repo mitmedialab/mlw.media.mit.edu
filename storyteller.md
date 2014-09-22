@@ -8,6 +8,7 @@ date:   2014-08-05
 
 _Bedtime stories for English learners of all ages._
 
+[__Update: New post on proof-of-concept prototyping for Storyteller (09/22/14)__](http://learn.media.mit.edu/mlw/updates/rough-prototyping.html)
 
 Storyteller is a way for parents to practice speaking English by reading to their kids. When you open up the storyteller app, you are shown a gallery of recommended children's books and you can choose what book to read to your child. The app knows your native language and you can read the text in English and your native language side-by-side (English on top, native language underneath). You can also listen to pages read aloud in English and practice to read to your kids. If you don't understand a word, you can click on it and it give an image-rich explanation and translation. When you're ready to read it to your kids, you can reference how English sounds (via listening to the spoken audio) and know what the text means by reading it in your native language.
 
