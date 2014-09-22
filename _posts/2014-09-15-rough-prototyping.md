@@ -49,7 +49,11 @@ To get into the technical details, in one script...
 6. We send the text to Google translate and request to translate the text into a user's native language.
 7. Once we get the translated text back from Google, we read it out loud in the user's native language using the correct speech pronounciation packages, allowing the user to view and hear the text in their native language alongside the English to provide context.
 
-We were suprised at how well this rudimentary script worked. To give you an idea, here are a few photos from storybooks that we ran. Note: In this case the user's native language is German.
+We were suprised at how well this rudimentary script worked. To give you an idea, here is a short demo.
+
+<iframe src="//player.vimeo.com/video/106844197" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+And here are a few photos from storybooks that we ran. Note: In this case the user's native language is German.
 
 <img src="../images/storyteller_rough_prototype/corduroy.jpg" width="50%">
 
