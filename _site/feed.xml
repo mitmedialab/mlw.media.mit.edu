@@ -5,9 +5,33 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Oct 2014 14:07:07 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Oct 2014 14:07:07 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2014 15:05:43 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2014 15:05:43 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Rough Prototyping Update</title>
+        <description>&lt;p&gt;Over the past few weeks, we have been working on a new edition of the &amp;quot;storyteller&amp;quot; prototype, which I want to introduce briefly here. Back in September, we posted about our &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/rough-prototyping.html&quot;&gt;very rough prototype&lt;/a&gt;, which gave a proof of concept that what we wanted to do was technically feasible. Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/109415916&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This prototype functions in the browser, running locally on my computer. The next step will be to put it online in a manner that allows for it to be used as both a web app and as an iOS/Android application (using a Cordova / PhoneGap wrapper), and then co-designing with adult learners.&lt;/p&gt;
+
+&lt;p&gt;We have already received some initial feedback, both about the functionality and the pedagogy behind the idea.
+On the functionality side, we know that we need to make it more error-proof before it is used by learners, providing more routes to allow learners to retake photos that don&amp;#39;t translate well and more natural language processing to ensure that the text the reader is presented is, in fact, correct.&lt;/p&gt;
+
+&lt;p&gt;On the pedagogy side, we need to add a way to listen to words out loud as they are clicked. We also would like to explore the possibility of having learners be able to record their own voices to check if their pronunciation of the word or sentence is correct.&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any feedback, please feel free to send it my way. More coming soon!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Oct 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu/mlw/drafts/rough_prototyping_update.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/drafts/rough_prototyping_update.html</guid>
+        
+        
+        <category>drafts</category>
+        
+      </item>
     
       <item>
         <title>Visit to an ESOL class for parents</title>
