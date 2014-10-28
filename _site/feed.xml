@@ -5,9 +5,36 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Sep 2014 17:43:11 -0400</pubDate>
-    <lastBuildDate>Mon, 22 Sep 2014 17:43:11 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2014 14:07:07 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2014 14:07:07 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Visit to an ESOL class for parents</title>
+        <description>&lt;p&gt;Last week, I went to sit in on an intermediate ESOL class for parents at a local elementary school in Boston. I wanted to quickly post my findings from the class.&lt;/p&gt;
+
+&lt;p&gt;At the beginning of the class, we did quick introductions. Of the eight students in the class, all were women. Seven out of the eight students were from Latin America (El Salvador in particular) and one from Egypt. They all had kids - their ages spanned from 10 months old to over 18. When I asked where their kids were, I learned that the ESOL program provides free childcare to all children over one year old (which explained why a ten-month-old baby was sitting in class with her mother). &lt;/p&gt;
+
+&lt;p&gt;We did a straw poll survey to see which students in the class had smart phones, and which had significant others at home who spoke (any) English. Six out of the eight students owned smart phones; four had Androids and two had iPhones. All of the students lived with a significant other, but only one wavering hand was raised when we asked if any of them spoke enough English to help them with their ESOL homework.&lt;/p&gt;
+
+&lt;p&gt;We also asked why they wanted to learn English. Overwhelmingly, the answer was &amp;quot;to get a job&amp;quot;. One added in that, besides getting a job, she wanted to be able to help her son with homework. Another said that English was the language of America. Since she lives here, she wants to learn English.&lt;/p&gt;
+
+&lt;p&gt;Fast forward to the lesson of the day - vocabulary that parents need to know to understand the basics of applying to college. On the vocabulary list was &amp;quot;tuition&amp;quot;, &amp;quot;dorm&amp;quot;, &amp;quot;major&amp;quot;, &amp;quot;associates degree&amp;quot;, and &amp;quot;scholarship&amp;quot;. We listened to a recording of a school counselor&amp;#39;s meeting with a parent to discuss what options her daughter had after graduation and answered questions about what was discussed.&lt;/p&gt;
+
+&lt;p&gt;At snack time, a few of the students asked me if I could show them what I was working on, so I showed them a very early prototype of the storyteller app. They loved the idea, and one of them even went to search &amp;quot;storyteller&amp;quot; on the app store before I got the chance to explain that it is still in the prototype stage.&lt;/p&gt;
+
+&lt;p&gt;At the end of the class, the teacher asked her students to each take home a storybook to read -- apparently this is something that they do every week. Walking out of the class, one of the women came over to introduce me to her 5-year-old daughter. The daughter spoke very good English, and stuck her hand out to say hello and shake my hand. &lt;/p&gt;
+
+&lt;p&gt;In that short, 2 hour time period, I learned a ton about some of the technology and methods used to teach adult ESOL, learned about the students - their backgrounds, their motivations for learning English, and their access to technology. Once I am father along in the prototyping of Storyteller, I&amp;#39;m excited to go back to the class and test out our storyteller prototype.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Oct 2014 00:00:00 -0400</pubDate>
+        <link>http://learn.media.mit.edu/mlw/updates/visit_to_esol_classroom.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/updates/visit_to_esol_classroom.html</guid>
+        
+        
+        <category>updates</category>
+        
+      </item>
     
       <item>
         <title>Rough Prototyping</title>
