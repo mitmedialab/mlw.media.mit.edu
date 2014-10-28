@@ -5,13 +5,15 @@
     <description></description>
     <link>http://learn.media.mit.edu/mlw/feed.xml</link>
     <atom:link href="http://learn.media.mit.edu/mlw/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Oct 2014 15:05:43 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Oct 2014 15:05:43 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2014 15:07:36 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2014 15:07:36 -0400</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Rough Prototyping Update</title>
-        <description>&lt;p&gt;Over the past few weeks, we have been working on a new edition of the &amp;quot;storyteller&amp;quot; prototype, which I want to introduce briefly here. Back in September, we posted about our &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/rough-prototyping.html&quot;&gt;very rough prototype&lt;/a&gt;, which gave a proof of concept that what we wanted to do was technically feasible. Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.&lt;/p&gt;
+        <description>&lt;p&gt;Over the past few weeks, we have been working on a new edition of the &amp;quot;storyteller&amp;quot; prototype, which I want to introduce briefly here. Back in September, we posted about our &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/rough-prototyping.html&quot;&gt;very rough prototype&lt;/a&gt;, which gave a proof of concept that what we wanted to do was technically feasible and explain the rationale for the prototype. &lt;/p&gt;
+
+&lt;p&gt;Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.&lt;/p&gt;
 
 &lt;iframe src=&quot;//player.vimeo.com/video/109415916&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -25,11 +27,11 @@ On the functionality side, we know that we need to make it more error-proof befo
 &lt;p&gt;As always, if you have any feedback, please feel free to send it my way. More coming soon!&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://learn.media.mit.edu/mlw/drafts/rough_prototyping_update.html</link>
-        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/drafts/rough_prototyping_update.html</guid>
+        <link>http://learn.media.mit.edu/mlw/update/rough_prototyping_update.html</link>
+        <guid isPermaLink="true">http://learn.media.mit.edu/mlw/update/rough_prototyping_update.html</guid>
         
         
-        <category>drafts</category>
+        <category>update</category>
         
       </item>
     

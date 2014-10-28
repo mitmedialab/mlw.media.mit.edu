@@ -2,11 +2,14 @@
 layout: post
 title:  "Rough Prototyping Update"
 date:   2014-10-28
-categories: drafts
+categories: update
 comments: true
 ---
 
-Over the past few weeks, we have been working on a new edition of the "storyteller" prototype, which I want to introduce briefly here. Back in September, we posted about our [very rough prototype](http://learn.media.mit.edu/mlw/updates/rough-prototyping.html), which gave a proof of concept that what we wanted to do was technically feasible. Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.
+Over the past few weeks, we have been working on a new edition of the "storyteller" prototype, which I want to introduce briefly here. Back in September, we posted about our [very rough prototype](http://learn.media.mit.edu/mlw/updates/rough-prototyping.html), which gave a proof of concept that what we wanted to do was technically feasible and explain the rationale for the prototype. 
+
+
+Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.
 
 <iframe src="//player.vimeo.com/video/109415916" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
