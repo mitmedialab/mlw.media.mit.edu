@@ -8,7 +8,7 @@ image:
 comments: true
 ---
 
-Reblogged from the [EdSurge article](https://www.edsurge.com/n/2015-01-15-is-this-the-future-of-adult-learning) on Making Learning Work by Taylor Bennett
+Reblogged from the [EdSurge article](https://www.edsurge.com/n/2015-01-15-is-this-the-future-of-adult-learning) on Making / Learning / Work by Taylor Bennett
 
 How does the MIT Media Lab develop its adult learning tools? By envisioning them as scaffolding constructed to support learning, according to Juliana Nazare, Masters student at MIT and research assistant for the projects.
 
