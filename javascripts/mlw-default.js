@@ -1,0 +1,1 @@
+$('#ideas-button').popover();

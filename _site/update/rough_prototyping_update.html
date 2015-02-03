@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <!-- Megatagging and Responsiveness-->
+                <meta charset="utf-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+                <title>Rough Prototyping Update</title>
+                <meta name="viewport" content="width=device-width">
+                <meta property="fb:app_id" content="486603034805006">
+                <meta property="fb:admins" content="2917146848115,100000442523140">
+
+                <!-- Bootstrap styles -->
+                <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+                <!-- Google Fonts -->
+                <link href='http://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
+                <!-- Syntax highlighting CSS -->
+                <link rel="stylesheet" href="/mlw/css/syntax.css">
+
+                <!-- Navigation tabs CSS -->
+                <link rel="stylesheet" href="/mlw/css/navbar.css">
+
+                <!-- Custom CSS -->
+                <link rel="stylesheet" href="/mlw/css/main.css">
+
+                <!-- Favicon -->
+                <link rel="icon" type="image/x-icon" href="/mlw/images/favicon-simple-L.ico">
+
+                <!-- Google Analytics -->
+                <script>
+                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                    ga('create', 'UA-38544202-3', 'mit.edu');
+                    ga('send', 'pageview');
+
+                </script>
+        </head>
+        <body>
+                <!-- Nessecarry div for FB comments -->
+                <div id="fb-root"></div>
+
+                <!-- Navigation tabs -->
+                <nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://learn.media.mit.edu/">Learning Over Education</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="http://learn.media.mit.edu/mlw/">Making Learning Work</a></li>
+        <li><a href="http://unhangout.media.mit.edu">Unhangouts</a></li>
+        <li><a href="http://learn.media.mit.edu/lcl/">Learning Creative Learning</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+                <!-- Responsive wrapper for site -->
+                <div class="site container-fluid">
+
+                    <!-- Title and nav bar header -->
+                    <div class="header row">
+                        <div class="col-sm-8 col-sm-offset-2 col-xs-12">
+
+                            <!-- Title -->
+                            <div class="col-sm-5 header-text">
+                                <h2 class="title"><strong><a href="/mlw/">Making / Learning / Work</a></strong></h2>
+                            </div>
+
+                            <!-- Navbar -->
+                            <div class="col-sm-7 header-text">
+                                <a class="extra" href="/mlw/about.html">
+                                    About
+                                </a>
+                                &nbsp;&nbsp;|&nbsp;&nbsp;
+                                <!-- <button type="button" id="ideas-button" class="btn btn-default" data-container="body" data-toggle="popover" html="true" data-placement="bottom" data-content='
+                                    <a href="#"> Test </a>
+                                '>
+                                  Ideas
+                                </button> -->
+                                <a id="ideas-button" class="extra" href="#" data-toggle="popover" data-placement="bottom" data-html="true" 
+                                data-content=
+                                "<div>
+                                    <a href='/mlw/foursquare-for-learning.html'>Foursquare for Learning</a><br>
+                                    <a href='/mlw/xpress-me.html'>Xpress Me</a><br>
+                                    <a href='/mlw/storyteller.html'>Storyteller</a><br>
+                                    <a href='/mlw/libranet.html'>Libranet</a><br>
+                                    <a href='/mlw/job-graph.html'>The Job Graph</a><br>
+                                </div>"
+
+                                >Working Ideas</a>
+                                &nbsp;&nbsp;|&nbsp;&nbsp;
+                                <a class="extra" href="/mlw/resources.html">
+                                    Resources
+                                </a>
+                                &nbsp;&nbsp;|&nbsp;&nbsp;
+                                <a class="extra" href="/mlw/contact.html">
+                                    Contact
+                                </a>
+                            </div>
+
+                        </div>
+                    <!-- End title and nav bar header -->
+                    </div>
+
+                    <!-- Dynamic site content -->
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2">
+                            <!-- Title -->
+<h2>Rough Prototyping Update</h2>
+<p class="meta">28 Oct 2014</p>
+
+<!-- Post content -->
+<div class="post">
+<p>Over the past few weeks, we have been working on a new edition of the &quot;storyteller&quot; prototype, which I want to introduce briefly here. Back in September, we posted about our <a href="http://learn.media.mit.edu/mlw/updates/rough-prototyping.html">very rough prototype</a>, which gave a proof of concept that what we wanted to do was technically feasible and explain the rationale for the prototype. </p>
+
+<p>Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.</p>
+
+<iframe src="//player.vimeo.com/video/109415916" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p>This prototype functions in the browser, running locally on my computer. The next step will be to put it online in a manner that allows for it to be used as both a web app and as an iOS/Android application (using a Cordova / PhoneGap wrapper), and then co-designing with adult learners.</p>
+
+<p>We have already received some initial feedback, both about the functionality and the pedagogy behind the idea.
+On the functionality side, we know that we need to make it more error-proof before it is used by learners, providing more routes to allow learners to retake photos that don&#39;t translate well and more natural language processing to ensure that the text the reader is presented is, in fact, correct.</p>
+
+<p>On the pedagogy side, we need to add a way to listen to words out loud as they are clicked. We also would like to explore the possibility of having learners be able to record their own voices to check if their pronunciation of the word or sentence is correct.</p>
+
+<p>As always, if you have any feedback, please feel free to send it my way. More coming soon!</p>
+
+</div>
+
+<!-- Optional comment functionality -->
+
+    <br/>
+    <h2> Questions, comments? We want to hear them. </h2>
+    <div class="comments">
+        <div class="fb-comments" data-href="http://learn.media.mit.edu/mlw/update/rough_prototyping_update.html" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+    </div>
+    <!-- FB comment JS -->
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=486603034805006&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+                        </div>
+                    <!-- End dynamic site content -->
+                    </div>
+
+                    <!-- Footer with sponsor logos -->
+                    <div class="row">
+                        <div class="footer col-sm-8 col-sm-offset-2">
+                            <div class="contact col-sm-9">
+                                <p>
+                                    <a href="http://learn.media.mit.edu"> Learning Over Education </a><br />
+                                    <a id="lab-logo" href="http://media.mit.edu">
+                                        MIT Media Lab <br/>
+                                    </a>
+                                    <a href="http://www.joycefdn.org/">
+                                        Sponsored by
+                                        <img src="/mlw/images/Joyce_logo-color.png" width="120">
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    <!-- End footer -->
+                    </div>
+
+                <!-- End responsive site wrapper -->
+                </div>
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+            <script type="text/javascript" src="/mlw/javascripts/navigation-tabs.js"></script>
+            <script type="text/javascript" src="/mlw/javascripts/mlw-default.js"></script>
+        </body>
+</html>
