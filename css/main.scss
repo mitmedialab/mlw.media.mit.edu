@@ -38,6 +38,7 @@ body{
 h1, h2, h3, h4, h5, h6, .site-title, .menu li a{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 900;
+	color: #000000;
 }
 
 .page-content>p:first-child{
@@ -55,4 +56,8 @@ ul li{
 #project-updates--news{
 	padding-top: 24px;
 	padding-bottom: 24px;
+}
+
+#site-footer .copyright a{
+	color: #000000 !important;
 }
