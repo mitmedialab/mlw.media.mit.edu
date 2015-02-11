@@ -5,27 +5,27 @@
 
   <title>Making / Learning / Work</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-    <icon>http://learn.media.mit.edu/mlw/apple-touch-icon-precomposed.png</icon>
+    <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
   <subtitle></subtitle>
-  <link href="http://learn.media.mit.edu/mlw/atom.xml" rel="self"/>
-  <link href="http://learn.media.mit.edu/mlw/" rel="alternate" type="text/html"/>
-  <updated>2015-02-11T18:15:44-05:00</updated>
-  <id>http://learn.media.mit.edu/mlw/</id>
+  <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
+  <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
+  <updated>2015-02-11T18:16:35-05:00</updated>
+  <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
-    <uri>http://learn.media.mit.edu/mlw/</uri>
+    <uri>http://learn.media.mit.edu/</uri>
     <email>juliana@media.mit.edu</email>
   </author>
 
   
   <entry>
     <title>Is This The Future of Adult Learning?</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/is_this_the_future_of_adult_learning.html"/>
+    <link href="http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html"/>
     <updated>2015-02-03T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/is_this_the_future_of_adult_learning</id>
+    <id>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -69,12 +69,12 @@
   
   <entry>
     <title>Rough Prototyping Update</title>
-    <link href="http://learn.media.mit.edu/mlw/update/rough_prototyping_update.html"/>
+    <link href="http://learn.media.mit.edu/update/rough_prototyping_update.html"/>
     <updated>2014-10-28T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/update/rough_prototyping_update</id>
+    <id>http://learn.media.mit.edu/update/rough_prototyping_update</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -100,12 +100,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Visit to an ESOL class for parents</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/visit_to_esol_classroom.html"/>
+    <link href="http://learn.media.mit.edu/updates/visit_to_esol_classroom.html"/>
     <updated>2014-10-22T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/visit_to_esol_classroom</id>
+    <id>http://learn.media.mit.edu/updates/visit_to_esol_classroom</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -131,12 +131,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Rough Prototyping</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/rough-prototyping.html"/>
+    <link href="http://learn.media.mit.edu/updates/rough-prototyping.html"/>
     <updated>2014-09-22T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/rough-prototyping</id>
+    <id>http://learn.media.mit.edu/updates/rough-prototyping</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -261,12 +261,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Narrowing down the ideas</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/narrowing-down-ideas.html"/>
+    <link href="http://learn.media.mit.edu/updates/narrowing-down-ideas.html"/>
     <updated>2014-08-11T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/narrowing-down-ideas</id>
+    <id>http://learn.media.mit.edu/updates/narrowing-down-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -306,11 +306,11 @@ On the functionality side, we know that we need to make it more error-proof befo
 &lt;p&gt;They are:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/mlw/foursquare-for-learning.html&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/mlw/xpress-me.html&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/mlw/storyteller.html&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/mlw/concept-libranet.html&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/mlw/job-graph.html&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/foursquare-for-learning.html&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/xpress-me.html&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/storyteller.html&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/concept-libranet.html&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/job-graph.html&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
@@ -320,12 +320,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Initial Ideas</title>
-    <link href="http://learn.media.mit.edu/mlw/pages/initial-ideas.html"/>
+    <link href="http://learn.media.mit.edu/pages/initial-ideas.html"/>
     <updated>2014-07-10T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/pages/initial-ideas</id>
+    <id>http://learn.media.mit.edu/pages/initial-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -445,12 +445,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Themes from the IdeaShop</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/themes-from-the-ideashop.html"/>
+    <link href="http://learn.media.mit.edu/updates/themes-from-the-ideashop.html"/>
     <updated>2014-06-23T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/themes-from-the-ideashop</id>
+    <id>http://learn.media.mit.edu/updates/themes-from-the-ideashop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -622,12 +622,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Connecting Adult Learners</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/connecting-adult-learners.html"/>
+    <link href="http://learn.media.mit.edu/updates/connecting-adult-learners.html"/>
     <updated>2014-06-19T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/connecting-adult-learners</id>
+    <id>http://learn.media.mit.edu/updates/connecting-adult-learners</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -655,12 +655,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Adult Learning Innovations - Kickoff Workshop</title>
-    <link href="http://learn.media.mit.edu/mlw/updates/adult-learning-innovations-workshop.html"/>
+    <link href="http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html"/>
     <updated>2014-05-29T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/mlw/updates/adult-learning-innovations-workshop</id>
+    <id>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/mlw/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
