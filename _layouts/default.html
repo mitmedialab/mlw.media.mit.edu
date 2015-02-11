@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta property="fb:app_id" content="486603034805006">
+    <meta property="fb:admins" content="2917146848115,100000442523140">
     <title>{{ site.title }}</title>
     {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
@@ -47,6 +49,7 @@
   </head>
 
   <body>
+    <div id="fb-root"></div>
     {% include header.html %}
     <!-- {% include navigation-sliding.html %} -->
 
