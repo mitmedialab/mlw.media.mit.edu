@@ -24,7 +24,7 @@ We are particularly interested in projects that (a) offer a range of approaches 
 * _Background research_ - Understanding the scope of the problem
 * _Ideashop / Workshop_ - Generating 20 idea sketches
 * _Design_ - Identifying 2-4 ideas for prototyping
-* _Implementation_ - Co-designing prototopyes together with adult learners. Implement, study, iterate. 
+* _Implementation_ - Co-designing prototopyes together with adult learners. Implement, study, iterate
 
 
 
