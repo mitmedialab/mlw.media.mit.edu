@@ -5,10 +5,11 @@ date:   2014-08-11
 categories: updates
 image:
     teaser: thumbnails/narrowing_down_ideas_thumbnail.jpg
+    creditlink: http://www.skilledup.com/insights/news-rundown-k-12-role-college-career-readiness/
 comments: true
 ---
 
-# 15 > 5 > 2-3. 
+### 15 > 5 > 2-3. 
 
 That's the math that we ([the Learning Over Education team](http://learn.media.mit.edu/)) have been doing over the past few weeks. 
 
@@ -38,10 +39,10 @@ This brings us to 5... drumroll please...
 
 They are:
 
-* [Foursquare for Learning]({{ site.url }}{{site.baseurl}}/foursquare-for-learning.html)
-* [Xpress Me]({{ site.url }}{{site.baseurl}}/xpress-me.html)
-* [Storyteller]({{ site.url }}{{site.baseurl}}/storyteller.html)
-* [Libranet]({{ site.url }}{{site.baseurl}}/concept-libranet.html)
-* [The Job Graph]({{ site.url }}{{site.baseurl}}/job-graph.html)
+* [Foursquare for Learning]({{ site.url }}{{site.baseurl}}/foursquare-for-learning/)
+* [Xpress Me]({{ site.url }}{{site.baseurl}}/xpress-me/)
+* [Storyteller]({{ site.url }}{{site.baseurl}}/storyteller/)
+* [Libranet]({{ site.url }}{{site.baseurl}}/libranet/)
+* [The Job Graph]({{ site.url }}{{site.baseurl}}/job-graph/)
 
 Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at [juliana@media.mit.edu](mailto:juliana@media.mit.edu).

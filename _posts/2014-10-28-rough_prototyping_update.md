@@ -2,7 +2,7 @@
 layout: article
 title:  "Rough Prototyping Update"
 date:   2014-10-28
-categories: update
+categories: update, rol
 image:
     teaser: thumbnails/rough_prototyping_update_thumbnail.jpg
 comments: true

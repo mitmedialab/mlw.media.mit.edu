@@ -31,14 +31,22 @@
 @import "pygments";
 
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6, .site-title, .menu li a{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-weight: 900;
 	color: #000000;
+}
+
+.project-tile:first-child{
+	padding-right: 12px;	
+}
+
+.project-tile:last-child{
+	padding-left: 12px;
 }
 
 .page-content>p:first-child{

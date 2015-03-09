@@ -2,6 +2,7 @@
 layout: archive
 title:  "Foursquare for Learning"
 date:   2014-08-05
+permalink: /foursquare-for-learning/
 ---
 
 _Capitalize on downtime by prompting adult learners to complete learning assignments relevant to whatever it is they happen to be doing that day._
@@ -18,7 +19,7 @@ There are a number of apps that use GPS to provide curated content. For example,
 
 To test this idea, we will choose a narrow use case, such as a supermarket, and design a short learning module for users who enter the supermarket. In this instance, a supermarket may be compelled to partner with us as part of their corporate social responsibility, and also because the app could potentially tie into coupons and prompt users to buy a healthy meal around sale items.
 
-# 08/13/14 Update
+### 08/13/14 Update
 
 **Q.** How do we incentivize people to use this app?
 
@@ -28,7 +29,7 @@ We could partner with a large food supplier to allow users to unlock coupons as 
 
 We could make different modules (e.g. budgeting, health and nutrition, tips for cooking with kids) that users could select from.
 
-# 08/26/14 Update
+### 08/26/14 Update
 
 Thoughts to keep in mind:
 

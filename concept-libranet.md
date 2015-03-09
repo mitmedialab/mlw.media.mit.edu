@@ -2,6 +2,7 @@
 layout: archive
 title:  "Libranet"
 date:   2014-08-05
+permalink: /libranet/
 ---
 
 _Beyond book stacks - Utilizing libraries as bridges for meaningful employment_
@@ -20,13 +21,13 @@ With Libranet, libraries benefit because they obtain information about the skill
 
 [1] R. David Lankes, [The Atlas of New Librarianship](http://mitpress.mit.edu/books/atlas-new-librarianship)
 
-# 08/13/14 Update
+### 08/13/14 Update
 
 **Q.** What can we do to give users immediate feedback after that register for Libranet?
 
 Once they fill out a short profile, we could immediately present them with jobs targeted at the skill set they already have. We could also display a list of jobs they would need to acquire skills to obtain. Presented with this list would be a "gap analysis" of skills they need to develop for these jobs and steps to obtaining them. This could lead to partnerships with local community colleges, ESOL programs, etc.
 
-# 08/26/14 Update
+### 08/26/14 Update
 
 Thoughts to keep in mind:
 

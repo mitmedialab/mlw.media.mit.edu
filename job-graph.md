@@ -2,6 +2,7 @@
 layout: archive
 title:  "The Job Graph"
 date:   2014-08-05
+permalink: /job-graph/
 ---
 
 _Capitalize on your loose network of connections for jobs at all skill levels_
@@ -20,7 +21,7 @@ The Job Graph could target any number of subgroups, such as community college st
 
 [Image Credit] [VizWorld.com](http://static.vizworld.com/wp-content/uploads/2010/07/facebook-graph.jpg)
 
-# 08/13/14 Update
+### 08/13/14 Update
 
 It was suggested that "The Job Graph" be renamed "The Job Connection".
 
@@ -28,7 +29,7 @@ It was suggested that "The Job Graph" be renamed "The Job Connection".
 
 This could be an opportunity to build "coaching" into the software. For example, users could choose to go through a lesson about how to reach out to employers.
 
-# 08/26/14 Update
+### 08/26/14 Update
 
 * What about also including prompts for job fairs and networking opportunities in the software?
 * Providing coaching should be an important part of the software

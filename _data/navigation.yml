@@ -1,11 +1,11 @@
 # Site navigation links
 
 - title: About
-  url: /about.html
+  url: /about/
   excerpt:
   image:
 
 - title: Contact Us
-  url: /contact.html
+  url: /contact/
   excerpt:
   image:

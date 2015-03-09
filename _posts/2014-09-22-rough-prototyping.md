@@ -2,7 +2,7 @@
 layout: article
 title:  "Rough Prototyping"
 date:   2014-09-22
-categories: updates
+categories: updates, rol
 image:
     teaser: thumbnails/rough_prototyping_thumbnail.jpg
 comments: true
@@ -12,7 +12,7 @@ In this post, we will focus on "Storyteller", one of the ideas we have been work
 
 Over the past few weeks, we've been working on a _very_ rough prototype of Storyteller, as well as fleshing out the idea, user experience, and research questions.
 
-# Background
+### Background
 
 Storybooks can be used to engage English language learners of any age. In particular, incorporating storybook reading into adult ESOL (English for Speakers of Other Languages) curricula can help adult learners: 
 
@@ -24,7 +24,7 @@ However, reading and practicing pronunciation on their own can be difficult for 
 
 In thinking about how we want to engage adult learners (our user group) with technology, we opted to use a smartphone, as many adult learners have access to one and it can easily be moved to interact with a physical storybook. One concern we have heard from many educators is that they view the storybook reading experience on paper to be special. Their students enjoy thumbing through big pages and looking at the beautiful pictures. These pictures provide context for the words on the page, allowing learners to discover the meaning of the words themselves as they make associations between the pictures and the text. So we aimed to hold on to that experience in Storyteller's user experience.
 
-# Walkthrough
+### Walkthrough
 
 Imagine an adult learner just checked out a new storybook from the library. She sits down to read it, but needs a little bit of facilitation in order to get a meaningful learning experience out of thumbing through the book's pages. She takes a picture of the book's cover. Immediately, either:
 
@@ -38,7 +38,7 @@ Once the page is done reading, she is able to review the text, practice English 
 
 This continues on for the remainder of the book, prompting the learner to photograph the page before reading if the book has not been input into the app's system. Once the storybook is done, if the story has not been previously input into the system, the program uses [Amazon Turk](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) to crowdsource the spell-checking and recording of a human-voice version of the story. Once the Amazon Turk task is completed, the storybook's data is input into the app's system. Next time a learner searches for this book, it will have a human voice and translation.
 
-# Rough Prototype
+### Rough Prototype
 
 To test if the idea was feasible, we built a _very_ rough prototype on the computer, utilizing opensource OCR (optical character recognition), translation, and speech packages. After the user takes a photo, we send it directly from the photo to the computer with no editing.
 
@@ -82,7 +82,7 @@ And here are a few photos from storybooks that we ran. Note: In this case the us
 
 >German: Jetzt stoppen! Max sagte und schickte die wilden Kerle ins Bett, ohne ihr Abendessen. Und Max, der König aller wilden Kerle war einsam und wollte dort sein, wo ihn jemand am besten von allen geliebt.
 
-# Possible Directions
+### Possible Directions
 
 A few things we've begun to explore simultaneously are:
 

@@ -20,7 +20,7 @@ With these guiding principles in mind and with a mission to make the information
 
 Three of roughly twenty-five initial ideas came to the forefront: Read Out Loud, Express Me, and Citizen Tutoring.
 
-#Families Learning Together
+### Families Learning Together
 
 Read Out Loud, the most developed project to-date, was born out of conversations with adult learners about their motivations for improving literacy. In addition to improving employment and earning power, the majority felt a strong desire to actively engage in the education of their children, most of whom attend schools taught in English. Read Out Loud is a tool originally designed to take the simple educational activity of reading children’s books aloud and turn it into an opportunity for parents and children to learn together.
 
@@ -30,13 +30,13 @@ Perhaps most importantly, Read Out Loud tackles one of the primary themes identi
 
 <iframe src="//player.vimeo.com/video/114384414" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-#Learning While Commuting
+### Learning While Commuting
 
 Still early in the development process, Express Me addresses another one of the major themes for adult education by creating an alternative educational pathway through mobile learning apps that capitalize on the only free time many adult learners have: their commute. Creating bite sized learning modules with content reinforcing skills for professional certification, Express Me will turn any bus, train, or carpool into a classroom that learners can use to improve skills and credentials.
 
 A key feature of this app employs interactive visual input to circumvent the need for lengthy text. One problem with similar tools is the tendency to be text heavy, making them prohibitive for adults who are learning English as a second language or who struggle with literacy. Using interactive visual input to teach learners how to measure volume, for example, rather than presenting a paragraph of text, provides learners of many literacy levels access to pertinent information. Express Me will also include a component enabling learners working on the same certifications or courses in the same geographic area to connect with each other.
 
-#Senior Citizen Tutors
+### Senior Citizen Tutors
 
 Though Citizen Tutoring is the least developed of these ideas, it still possesses incredible potential. Envisioned as a way to connect adult learners with senior citizen tutors via the Internet, this idea aims to provide learners with much needed tutoring and mentorship, and seniors with an opportunity to capitalize on their wealth of knowledge and gain valuable tech skills, all while giving back to their communities. Still in its very early stages, the future of Citizen Tutoring is imagined as a means through which existing online tools can support senior tutors as they provide valuable mentoring and skill building to both groups of adult learners, supporting those transitioning to life in the United States and those who have struggled with the traditional education system. Researchers continue to conceptualize new ways to incorporate the use of public spaces such as libraries and organizing learners and tutors into geographically local groups into this project.
 

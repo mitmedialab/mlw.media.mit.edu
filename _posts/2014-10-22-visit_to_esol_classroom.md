@@ -2,7 +2,7 @@
 layout: article
 title:  "Visit to an ESOL class for parents"
 date:   2014-10-22
-categories: updates
+categories: updates, rol
 image:
     teaser: thumbnails/esol_classroom_thumbnail.jpg
     credit: Conejo Adult School #name of the person or site you want to credit
