@@ -5,7 +5,7 @@ date:   2015-03-05
 permalink: /askii/
 ---
 
-Askii is a SMS-based system that allows adult learners to practice certification content on their commute. When a learner has a spare 5 minutes, they can simply text Askii to begin their customized lesson. Askii will respond with a customized set of questions and links to content that learners can study from on the go.
+Askii is a SMS-based system that allows adult learners to study for a certification exam while on their commute. When a learner has a spare 5 minutes, they can simply text Askii to begin their customized lesson. Askii will respond with a customized set of questions and links to content that learners can study from on the go.
 
 <center>
     INSERT ASKII PHOTO HERE
