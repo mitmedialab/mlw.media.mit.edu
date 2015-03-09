@@ -9,7 +9,7 @@
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
   <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
   <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-03-09T17:40:20-04:00</updated>
+  <updated>2015-03-09T17:42:12-04:00</updated>
   <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
@@ -55,10 +55,6 @@
 &lt;p&gt;I began to think about how we could deliver certification content on-the-go, and honed in on creating a SMS-based-system for helping learners study for the US Naturalization Exam while on their commutes. I chose the US Naturalization Exam because it is one of the most widely taken exams with publicly available study guides.&lt;/p&gt;
 
 &lt;p&gt;My initial thought processes for what the system would behave like look like this, lots of arrows indicating a learner’s discussion with the service via SMS.&lt;/p&gt;
-
-&lt;center&gt; 
-    INSERT PHOTO HERE
-&lt;/center&gt;
 
 &lt;h3 id=&quot;prototyping-again&quot;&gt;Prototyping Again&lt;/h3&gt;
 

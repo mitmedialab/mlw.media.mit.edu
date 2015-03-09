@@ -32,10 +32,6 @@ I began to think about how we could deliver certification content on-the-go, and
 
 My initial thought processes for what the system would behave like look like this, lots of arrows indicating a learner's discussion with the service via SMS.
 
-<center> 
-    INSERT PHOTO HERE
-</center>
-
 ### Prototyping Again
 
 From these system flow charts, I then translated them into a first prototype, which we have named "Askii". Askii is built on [Twilio](http://twilio.com) and [TextIt](http://textit.in), which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with TextIt, is written in Node.js with a Mongoose database of questions, answers, and content.

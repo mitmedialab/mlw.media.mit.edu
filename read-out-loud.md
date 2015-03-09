@@ -17,10 +17,6 @@ By giving adult learners the ability to scan in any page and convert it into lea
 
 The second iteration is now completed and we are testing it in an ESOL classroom.
 
-<center>
-    INSERT FLICKR REEL HERE FROM TESTING
-</center>
-
 We hope to release the app on the Google Play store at the end of May.
 
 ### Updates Regarding Read Out Loud
