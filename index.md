@@ -10,10 +10,10 @@ In the US, 36 Million adults have low basic literacy and numeracy skills. Many a
 
 # Current Prototypes
 
-<a href="{{ site.url }}{{site.baseurl}}/read-out-loud/"> 
+<a class="no-link-style" href="{{ site.url }}{{site.baseurl}}/read-out-loud/"> 
     <img class="project-tile" src="{{site.baseurl}}/images/project_tiles/rol_tile.jpg" width="49%">
 </a>
-<a href="{{ site.url }}{{site.baseurl}}/askii/">
+<a class="no-link-style" href="{{ site.url }}{{site.baseurl}}/askii/">
     <img class="project-tile" src="{{site.baseurl}}/images/project_tiles/askii_tile.jpg" width="49%">
 </a>
 
