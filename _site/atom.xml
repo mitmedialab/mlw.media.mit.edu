@@ -5,27 +5,27 @@
 
   <title>making / learning / work</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-    <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
-  <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
-  <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-03-09T17:43:01-04:00</updated>
-  <id>http://learn.media.mit.edu/</id>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2015-03-09T23:18:46-05:00</updated>
+  <id>http://localhost:4000/</id>
   <author>
     <name>Juliana Nazaré</name>
-    <uri>http://learn.media.mit.edu/</uri>
+    <uri>http://localhost:4000/</uri>
     <email>juliana@media.mit.edu</email>
   </author>
 
   
   <entry>
     <title>Creating Askii</title>
-    <link href="http://learn.media.mit.edu/updates,/askii/creating_askii.html"/>
-    <updated>2015-03-06T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates,/askii/creating_askii</id>
+    <link href="http://localhost:4000/updates,/askii/creating_askii.html"/>
+    <updated>2015-03-06T00:00:00-06:00</updated>
+    <id>http://localhost:4000/updates,/askii/creating_askii</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -56,11 +56,16 @@
 
 &lt;p&gt;My initial thought processes for what the system would behave like look like this, lots of arrows indicating a learner’s discussion with the service via SMS.&lt;/p&gt;
 
+&lt;center&gt;&lt;img src=&quot;/mlw/images/askii_user_flow.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
 &lt;h3 id=&quot;prototyping-again&quot;&gt;Prototyping Again&lt;/h3&gt;
 
 &lt;p&gt;From these system flow charts, I then translated them into a first prototype, which we have named “Askii”. Askii is built on &lt;a href=&quot;http://twilio.com&quot;&gt;Twilio&lt;/a&gt; and &lt;a href=&quot;http://textit.in&quot;&gt;TextIt&lt;/a&gt;, which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with TextIt, is written in Node.js with a Mongoose database of questions, answers, and content.&lt;/p&gt;
 
 &lt;p&gt;The prototype is up and running, and &lt;em&gt;very soon&lt;/em&gt; there will be a demo video of the system right here :)&lt;/p&gt;
+
+&lt;p&gt;For now, here is a screenshot as a placeholder.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;/mlw/images/askii_on_iphone.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 
 &lt;p&gt;In the coming months, we will be fleshing out this prototype (and likely building a more stable code base), with the hopes of beginning user testing with Askii in May 2015. &lt;/p&gt;
 
@@ -72,17 +77,22 @@
   
   <entry>
     <title>Testing Read Out Loud in the Classroom</title>
-    <link href="http://learn.media.mit.edu/updates,/rol/rol_user_testing.html"/>
-    <updated>2015-03-05T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates,/rol/rol_user_testing</id>
+    <link href="http://localhost:4000/updates,/rol/rol_user_testing.html"/>
+    <updated>2015-03-05T00:00:00-06:00</updated>
+    <id>http://localhost:4000/updates,/rol/rol_user_testing</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
       
       &lt;p&gt;On March 3rd, Srishti and I went to a ESOL school for adult learners in East Boston, Massachusetts, to get the students’ feedback on the newest iteration of the Read Out Loud prototype. &lt;/p&gt;
+
+&lt;h3 id=&quot;first-some-photos-from-the-afternoon&quot;&gt;First, Some Photos from the Afternoon&lt;/h3&gt;
+&lt;center&gt;
+    &lt;iframe id=&quot;iframe&quot; src=&quot;http://flickrit.com/slideshowholder.php?height=300&amp;amp;width=500&amp;amp;size=medium&amp;amp;setId=72157648945767513&amp;amp;thumbnails=0&amp;amp;transition=0&amp;amp;layoutType=fixed&amp;amp;sort=0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;310&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
 
 &lt;h3 id=&quot;introductions&quot;&gt;Introductions&lt;/h3&gt;
 
@@ -131,12 +141,12 @@
   
   <entry>
     <title>Is This The Future of Adult Learning?</title>
-    <link href="http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html"/>
-    <updated>2015-02-03T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning</id>
+    <link href="http://localhost:4000/updates/is_this_the_future_of_adult_learning.html"/>
+    <updated>2015-02-03T00:00:00-06:00</updated>
+    <id>http://localhost:4000/updates/is_this_the_future_of_adult_learning</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -180,12 +190,12 @@
   
   <entry>
     <title>Rough Prototyping Update</title>
-    <link href="http://learn.media.mit.edu/update,/rol/rough_prototyping_update.html"/>
-    <updated>2014-10-28T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/update,/rol/rough_prototyping_update</id>
+    <link href="http://localhost:4000/update,/rol/rough_prototyping_update.html"/>
+    <updated>2014-10-28T00:00:00-05:00</updated>
+    <id>http://localhost:4000/update,/rol/rough_prototyping_update</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -211,12 +221,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Visit to an ESOL class for parents</title>
-    <link href="http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom.html"/>
-    <updated>2014-10-22T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom</id>
+    <link href="http://localhost:4000/updates,/rol/visit_to_esol_classroom.html"/>
+    <updated>2014-10-22T00:00:00-05:00</updated>
+    <id>http://localhost:4000/updates,/rol/visit_to_esol_classroom</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -242,12 +252,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Rough Prototyping</title>
-    <link href="http://learn.media.mit.edu/updates,/rol/rough-prototyping.html"/>
-    <updated>2014-09-22T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates,/rol/rough-prototyping</id>
+    <link href="http://localhost:4000/updates,/rol/rough-prototyping.html"/>
+    <updated>2014-09-22T00:00:00-05:00</updated>
+    <id>http://localhost:4000/updates,/rol/rough-prototyping</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -372,12 +382,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Narrowing down the ideas</title>
-    <link href="http://learn.media.mit.edu/updates/narrowing-down-ideas.html"/>
-    <updated>2014-08-11T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/narrowing-down-ideas</id>
+    <link href="http://localhost:4000/updates/narrowing-down-ideas.html"/>
+    <updated>2014-08-11T00:00:00-05:00</updated>
+    <id>http://localhost:4000/updates/narrowing-down-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -417,11 +427,11 @@ On the functionality side, we know that we need to make it more error-proof befo
 &lt;p&gt;They are:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
@@ -431,12 +441,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Initial Ideas</title>
-    <link href="http://learn.media.mit.edu/pages/initial-ideas.html"/>
-    <updated>2014-07-10T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/pages/initial-ideas</id>
+    <link href="http://localhost:4000/pages/initial-ideas.html"/>
+    <updated>2014-07-10T00:00:00-05:00</updated>
+    <id>http://localhost:4000/pages/initial-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -572,12 +582,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Themes from the IdeaShop</title>
-    <link href="http://learn.media.mit.edu/updates/themes-from-the-ideashop.html"/>
-    <updated>2014-06-23T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/themes-from-the-ideashop</id>
+    <link href="http://localhost:4000/updates/themes-from-the-ideashop.html"/>
+    <updated>2014-06-23T00:00:00-05:00</updated>
+    <id>http://localhost:4000/updates/themes-from-the-ideashop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -751,12 +761,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Connecting Adult Learners</title>
-    <link href="http://learn.media.mit.edu/updates/connecting-adult-learners.html"/>
-    <updated>2014-06-19T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/connecting-adult-learners</id>
+    <link href="http://localhost:4000/updates/connecting-adult-learners.html"/>
+    <updated>2014-06-19T00:00:00-05:00</updated>
+    <id>http://localhost:4000/updates/connecting-adult-learners</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -784,12 +794,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Adult Learning Innovations - Kickoff Workshop</title>
-    <link href="http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html"/>
-    <updated>2014-05-29T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop</id>
+    <link href="http://localhost:4000/updates/adult-learning-innovations-workshop.html"/>
+    <updated>2014-05-29T00:00:00-05:00</updated>
+    <id>http://localhost:4000/updates/adult-learning-innovations-workshop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">

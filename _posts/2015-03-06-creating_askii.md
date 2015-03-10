@@ -4,7 +4,7 @@ title:  "Creating Askii"
 date:   2015-03-06
 categories: updates, askii
 image:
-    teaser: thumbnails/creating_askii_thumbnail.jpg
+    teaser: thumbnails/askii_on_iphone_thumbnail.jpg
 comments: true
 ---
 
@@ -32,11 +32,17 @@ I began to think about how we could deliver certification content on-the-go, and
 
 My initial thought processes for what the system would behave like look like this, lots of arrows indicating a learner's discussion with the service via SMS.
 
+<center><img src="{{site.baseurl}}/images/askii_user_flow.jpg" width="50%"></center>
+
 ### Prototyping Again
 
 From these system flow charts, I then translated them into a first prototype, which we have named "Askii". Askii is built on [Twilio](http://twilio.com) and [TextIt](http://textit.in), which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with TextIt, is written in Node.js with a Mongoose database of questions, answers, and content.
 
 The prototype is up and running, and _very soon_ there will be a demo video of the system right here :)
+
+For now, here is a screenshot as a placeholder.
+<center><img src="{{site.baseurl}}/images/askii_on_iphone.jpg" width="50%"></center>
+
 
 In the coming months, we will be fleshing out this prototype (and likely building a more stable code base), with the hopes of beginning user testing with Askii in May 2015. 
 

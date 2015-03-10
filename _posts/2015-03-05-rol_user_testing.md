@@ -10,6 +10,11 @@ comments: true
 
 On March 3rd, Srishti and I went to a ESOL school for adult learners in East Boston, Massachusetts, to get the students' feedback on the newest iteration of the Read Out Loud prototype. 
 
+### First, Some Photos from the Afternoon
+<center>
+    <iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=300&width=500&size=medium&setId=72157648945767513&thumbnails=0&transition=0&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='500' height='310'></iframe>
+</center>
+
 ### Introductions 
 
 When we arrived at the classroom, we introduced ourselves to the students and they did the same. The class was comprised of 6 women from El Salvador and one woman from Algeria, all of which had been studying English at this school for over 6 months. We recognized many of them, as they had been in the class [when we visited in Novemberr]({{site.baseurl}}/updates,/rol/visit_to_esol_classroom.html).
