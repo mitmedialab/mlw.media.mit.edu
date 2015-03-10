@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/updates,/askii/creating_askii.html</loc>
+    <loc>http://learn.media.mit.edu/updates,/askii/creating_askii.html</loc>
     <lastmod>2015-03-06T00:00:00-06:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates,/rol/rol_user_testing.html</loc>
+    <loc>http://learn.media.mit.edu/updates,/rol/rol_user_testing.html</loc>
     <lastmod>2015-03-05T00:00:00-06:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates/is_this_the_future_of_adult_learning.html</loc>
+    <loc>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html</loc>
     <lastmod>2015-02-03T00:00:00-06:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/update,/rol/rough_prototyping_update.html</loc>
+    <loc>http://learn.media.mit.edu/update,/rol/rough_prototyping_update.html</loc>
     <lastmod>2014-10-28T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates,/rol/visit_to_esol_classroom.html</loc>
+    <loc>http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom.html</loc>
     <lastmod>2014-10-22T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates,/rol/rough-prototyping.html</loc>
+    <loc>http://learn.media.mit.edu/updates,/rol/rough-prototyping.html</loc>
     <lastmod>2014-09-22T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates/narrowing-down-ideas.html</loc>
+    <loc>http://learn.media.mit.edu/updates/narrowing-down-ideas.html</loc>
     <lastmod>2014-08-11T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/pages/initial-ideas.html</loc>
+    <loc>http://learn.media.mit.edu/pages/initial-ideas.html</loc>
     <lastmod>2014-07-10T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates/themes-from-the-ideashop.html</loc>
+    <loc>http://learn.media.mit.edu/updates/themes-from-the-ideashop.html</loc>
     <lastmod>2014-06-23T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates/connecting-adult-learners.html</loc>
+    <loc>http://learn.media.mit.edu/updates/connecting-adult-learners.html</loc>
     <lastmod>2014-06-19T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/updates/adult-learning-innovations-workshop.html</loc>
+    <loc>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html</loc>
     <lastmod>2014-05-29T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/about/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/askii/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/askii/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/libranet/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/libranet/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/contact/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/contact/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/foursquare-for-learning/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/foursquare-for-learning/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/job-graph/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/job-graph/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/read-out-loud/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/read-out-loud/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/resources.html</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/resources.html</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/storyteller/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/storyteller/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://localhost:4000/xpress-me/</loc>
-    <lastmod>2015-03-09T23:18:46-05:00</lastmod>
+    <loc>http://learn.media.mit.edu/xpress-me/</loc>
+    <lastmod>2015-03-09T23:19:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
