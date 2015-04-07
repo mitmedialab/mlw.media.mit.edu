@@ -20,7 +20,7 @@ However, in February, we decided to re-think the idea after hearing from experts
 
 When re-thinking "XpressMe", I was fortunate enough to have a conversation with Alison from [Cell-Ed](http://cell-ed.org), where we talked about some of the technological barriers that learners may have to using an application such as "XpressMe". Alison explained Cell-Ed's rationale for using an SMS-based system, and gave me some inspiration to think through what "XpressMe" would look like as an SMS-based-system that was targeted specifically at certification content.
 
-Some of the advantages I saw for creating an SMS-based system:
+Some of the advantages for creating an SMS-based system:
 
 - It would not limit the user group to only adult learners with smart phones, but would allow learners with feature phones to interact with the application as well.
 - Learners may feel like they are interacting with a real person
