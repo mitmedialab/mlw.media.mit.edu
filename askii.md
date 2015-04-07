@@ -5,7 +5,7 @@ date:   2015-03-05
 permalink: /askii/
 ---
 
-Askii is a SMS-based system that allows adult learners to study for a certification exam while on their commute. When a learner has a spare 5 minutes, they can simply text Askii to begin their customized lesson. Askii will respond with a customized set of questions and links to content that learners can study from on the go.
+Askii is a SMS and mobile webpage system that allows adult learners to study for a certification exam while on their commute. When a learner has a spare 5 minutes, they can simply text Askii to begin their customized lesson. Askii will respond with a customized set of questions and links to content that learners can study from on the go.
 
 Askii is designed to incorporate study skills. 
 
@@ -14,7 +14,7 @@ Askii is designed to incorporate study skills.
 
 As some adult learners do not have access to smart phones, Askii has been designed to be both smart phone and feature phone compatible. Any phone with access to basic Internet browsing will be able to use Askii.
 
-The first prototype, focused on helping learners study for the US Naturalization Exam, was just completed in March 2015. We plan to begin user testing with Askii in May.
+The first prototype was just completed in March 2015.
 
 ### Updates Regarding Askii
 

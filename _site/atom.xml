@@ -9,7 +9,7 @@
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
   <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
   <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-03-11T11:45:02-05:00</updated>
+  <updated>2015-04-07T17:21:01-04:00</updated>
   <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
@@ -21,7 +21,7 @@
   <entry>
     <title>Creating Askii</title>
     <link href="http://learn.media.mit.edu/updates,/askii/creating_askii.html"/>
-    <updated>2015-03-06T00:00:00-06:00</updated>
+    <updated>2015-03-06T00:00:00-05:00</updated>
     <id>http://learn.media.mit.edu/updates,/askii/creating_askii</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -52,7 +52,7 @@
 
 &lt;h3 id=&quot;fleshing-out-the-idea&quot;&gt;Fleshing out the Idea&lt;/h3&gt;
 
-&lt;p&gt;I began to think about how we could deliver certification content on-the-go, and honed in on creating a SMS-based-system for helping learners study for the US Naturalization Exam while on their commutes. I chose the US Naturalization Exam because it is one of the most widely taken exams with publicly available study guides.&lt;/p&gt;
+&lt;p&gt;I began to think about how we could deliver certification content on-the-go, and honed in on creating a SMS-based-system for helping learners study exams such as the CPT Exam while on their commutes. As initial test material, I chose the US Naturalization Exam because it is an exam with publicly available study guides.&lt;/p&gt;
 
 &lt;p&gt;My initial thought processes for what the system would behave like look like this, lots of arrows indicating a learner’s discussion with the service via SMS.&lt;/p&gt;
 
@@ -69,7 +69,7 @@
 
 &lt;p&gt;In the coming months, we will be fleshing out this prototype (and likely building a more stable code base), with the hopes of beginning user testing with Askii in May 2015. &lt;/p&gt;
 
-&lt;p&gt;Askii is meant to be a system that can be used for all sorts of certification content, not just to US Naturalization Exam, so if you have more suggestions for content you would like to see put in the system, please feel free to leave a comment or reach out to us by email.&lt;/p&gt;
+&lt;p&gt;Askii is meant to be a system that can be used for all sorts of certification content, so if you have more suggestions for content you would like to see put in the system, please feel free to leave a comment or reach out to us by email.&lt;/p&gt;
 
 
     </content>
@@ -78,7 +78,7 @@
   <entry>
     <title>Testing Read Out Loud in the Classroom</title>
     <link href="http://learn.media.mit.edu/updates,/rol/rol_user_testing.html"/>
-    <updated>2015-03-05T00:00:00-06:00</updated>
+    <updated>2015-03-05T00:00:00-05:00</updated>
     <id>http://learn.media.mit.edu/updates,/rol/rol_user_testing</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -142,7 +142,7 @@
   <entry>
     <title>Is This The Future of Adult Learning?</title>
     <link href="http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html"/>
-    <updated>2015-02-03T00:00:00-06:00</updated>
+    <updated>2015-02-03T00:00:00-05:00</updated>
     <id>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -191,7 +191,7 @@
   <entry>
     <title>Rough Prototyping Update</title>
     <link href="http://learn.media.mit.edu/update,/rol/rough_prototyping_update.html"/>
-    <updated>2014-10-28T00:00:00-05:00</updated>
+    <updated>2014-10-28T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/update,/rol/rough_prototyping_update</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -222,7 +222,7 @@ On the functionality side, we know that we need to make it more error-proof befo
   <entry>
     <title>Visit to an ESOL class for parents</title>
     <link href="http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom.html"/>
-    <updated>2014-10-22T00:00:00-05:00</updated>
+    <updated>2014-10-22T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -253,7 +253,7 @@ On the functionality side, we know that we need to make it more error-proof befo
   <entry>
     <title>Rough Prototyping</title>
     <link href="http://learn.media.mit.edu/updates,/rol/rough-prototyping.html"/>
-    <updated>2014-09-22T00:00:00-05:00</updated>
+    <updated>2014-09-22T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/updates,/rol/rough-prototyping</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -383,7 +383,7 @@ On the functionality side, we know that we need to make it more error-proof befo
   <entry>
     <title>Narrowing down the ideas</title>
     <link href="http://learn.media.mit.edu/updates/narrowing-down-ideas.html"/>
-    <updated>2014-08-11T00:00:00-05:00</updated>
+    <updated>2014-08-11T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/updates/narrowing-down-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -442,7 +442,7 @@ On the functionality side, we know that we need to make it more error-proof befo
   <entry>
     <title>Initial Ideas</title>
     <link href="http://learn.media.mit.edu/pages/initial-ideas.html"/>
-    <updated>2014-07-10T00:00:00-05:00</updated>
+    <updated>2014-07-10T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/pages/initial-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -583,7 +583,7 @@ On the functionality side, we know that we need to make it more error-proof befo
   <entry>
     <title>Themes from the IdeaShop</title>
     <link href="http://learn.media.mit.edu/updates/themes-from-the-ideashop.html"/>
-    <updated>2014-06-23T00:00:00-05:00</updated>
+    <updated>2014-06-23T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/updates/themes-from-the-ideashop</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -762,7 +762,7 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   <entry>
     <title>Connecting Adult Learners</title>
     <link href="http://learn.media.mit.edu/updates/connecting-adult-learners.html"/>
-    <updated>2014-06-19T00:00:00-05:00</updated>
+    <updated>2014-06-19T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/updates/connecting-adult-learners</id>
     <author>
       <name>Juliana Nazaré</name>
@@ -795,7 +795,7 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   <entry>
     <title>Adult Learning Innovations - Kickoff Workshop</title>
     <link href="http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html"/>
-    <updated>2014-05-29T00:00:00-05:00</updated>
+    <updated>2014-05-29T00:00:00-04:00</updated>
     <id>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop</id>
     <author>
       <name>Juliana Nazaré</name>

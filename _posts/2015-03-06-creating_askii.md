@@ -28,7 +28,7 @@ Some of the advantages I saw for creating an SMS-based system:
 
 ### Fleshing out the Idea
 
-I began to think about how we could deliver certification content on-the-go, and honed in on creating a SMS-based-system for helping learners study for the US Naturalization Exam while on their commutes. I chose the US Naturalization Exam because it is one of the most widely taken exams with publicly available study guides.
+I began to think about how we could deliver certification content on-the-go, and honed in on creating a SMS-based-system for helping learners study exams such as the CPT Exam while on their commutes. As initial test material, I chose the US Naturalization Exam because it is an exam with publicly available study guides.
 
 My initial thought processes for what the system would behave like look like this, lots of arrows indicating a learner's discussion with the service via SMS.
 
@@ -46,7 +46,7 @@ For now, here is a screenshot as a placeholder.
 
 In the coming months, we will be fleshing out this prototype (and likely building a more stable code base), with the hopes of beginning user testing with Askii in May 2015. 
 
-Askii is meant to be a system that can be used for all sorts of certification content, not just to US Naturalization Exam, so if you have more suggestions for content you would like to see put in the system, please feel free to leave a comment or reach out to us by email.
+Askii is meant to be a system that can be used for all sorts of certification content, so if you have more suggestions for content you would like to see put in the system, please feel free to leave a comment or reach out to us by email.
 
 
 
