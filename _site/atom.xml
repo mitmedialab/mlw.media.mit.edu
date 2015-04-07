@@ -9,7 +9,7 @@
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
   <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
   <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-04-07T17:22:21-04:00</updated>
+  <updated>2015-04-07T17:38:49-04:00</updated>
   <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
@@ -40,7 +40,7 @@
 
 &lt;p&gt;However, in February, we decided to re-think the idea after hearing from experts in the field that we might want to focus on a system that delivers certification content, not basic numeracy content, as it is more natural to read on the go than do math (makes logical sense).&lt;/p&gt;
 
-&lt;p&gt;When re-thinking “XpressMe”, I was fortunate enough to have a conversation with Alison from &lt;a href=&quot;http://cell-ed.org&quot;&gt;Cell-Ed&lt;/a&gt;, where we talked about some of the technological barriers that learners may have to using an application such as “XpressMe”. Alison explained Cell-Ed’s rationale for using an SMS-based system, and gave me some inspiration to think through what “XpressMe” would look like as an SMS-based-system that was targeted specifically at certification content.&lt;/p&gt;
+&lt;p&gt;When re-thinking “XpressMe”, I was fortunate enough to have a conversation with Alison from &lt;a href=&quot;http://www.celled.org/&quot;&gt;Cell-Ed&lt;/a&gt;, where we talked about some of the technological barriers that learners may have to using an application such as “XpressMe”. Alison explained Cell-Ed’s rationale for using an SMS-based system, and gave me some inspiration to think through what “XpressMe” would look like as an SMS-based-system that was targeted specifically at certification content.&lt;/p&gt;
 
 &lt;p&gt;Some of the advantages for creating an SMS-based system:&lt;/p&gt;
 

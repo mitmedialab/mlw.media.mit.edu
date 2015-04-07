@@ -18,7 +18,7 @@ In January 2015, we created a first prototype of XpressMe, which was a mobile ap
 
 However, in February, we decided to re-think the idea after hearing from experts in the field that we might want to focus on a system that delivers certification content, not basic numeracy content, as it is more natural to read on the go than do math (makes logical sense).
 
-When re-thinking "XpressMe", I was fortunate enough to have a conversation with Alison from [Cell-Ed](http://cell-ed.org), where we talked about some of the technological barriers that learners may have to using an application such as "XpressMe". Alison explained Cell-Ed's rationale for using an SMS-based system, and gave me some inspiration to think through what "XpressMe" would look like as an SMS-based-system that was targeted specifically at certification content.
+When re-thinking "XpressMe", I was fortunate enough to have a conversation with Alison from [Cell-Ed](http://www.celled.org/), where we talked about some of the technological barriers that learners may have to using an application such as "XpressMe". Alison explained Cell-Ed's rationale for using an SMS-based system, and gave me some inspiration to think through what "XpressMe" would look like as an SMS-based-system that was targeted specifically at certification content.
 
 Some of the advantages for creating an SMS-based system:
 
