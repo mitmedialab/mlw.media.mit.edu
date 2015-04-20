@@ -1,8 +1,8 @@
 ---
 layout: article
-title:  "Creating Askii"
+title:  "Creating an SMS Learning System with Askii"
 date:   2015-03-06
-categories: updates, askii
+categories: updates askii
 image:
     teaser: thumbnails/askii_on_iphone_thumbnail.jpg
 comments: true
@@ -37,7 +37,7 @@ My initial thought processes for what the system would behave like is shown belo
 
 From these system flow charts, I then translated them into a first prototype, which we have named "Askii". Askii is built on [Twilio](http://twilio.com), which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with a Twilio app, is written in Node.js with a Mongoose database of questions, answers, and content.
 
-The prototype is up and running, and _very soon_ there will be a demo video of the system right here :)
+The prototype is up and running, and _very soon_ there will be a demo video of the system on our site.
 
 For now, here is a screen shot as a placeholder.
 <center><img src="{{site.baseurl}}/images/askii_on_iphone.jpg" width="50%"></center>

@@ -4,12 +4,12 @@
   
 
   <title>making / learning / work</title>
-  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
     <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
   <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
   <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-04-07T17:49:44-04:00</updated>
+  <updated>2015-04-19T20:19:18-04:00</updated>
   <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
@@ -19,10 +19,10 @@
 
   
   <entry>
-    <title>Creating Askii</title>
-    <link href="http://learn.media.mit.edu/updates,/askii/creating_askii.html"/>
-    <updated>2015-03-06T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates,/askii/creating_askii</id>
+    <title>Askii as an API</title>
+    <link href="http://learn.media.mit.edu/updates/askii/askii_as_an_api.html"/>
+    <updated>2015-04-19T00:00:00-04:00</updated>
+    <id>http://learn.media.mit.edu/updates/askii/askii_as_an_api</id>
     <author>
       <name>Juliana Nazaré</name>
       <uri>http://learn.media.mit.edu/</uri>
@@ -30,7 +30,34 @@
     </author>
     <content type="html">
       
-      &lt;p&gt;Askii began first as a mobile application called “XpressMe”, which originated from &lt;a href=&quot;/mlw/xpress-me/&quot;&gt;one of the ideas&lt;/a&gt; at the IdeaShop in May 2014. &lt;/p&gt;
+      &lt;p&gt;As we built the SMS and mobile webpage learning system discussed in the post, &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates,/askii/creating_askii.html&quot;&gt;Creating Askii&lt;/a&gt;, we found we were most interested the algorithms behind the system. What are the algorithms that work best for interleaving review content? How do we do this in a short, confined timespan that is often needed in adult learning?&lt;/p&gt;
+
+&lt;p&gt;Given this interest, we divided the Askii concept into two parts:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The client-side applications, which include the SMS and mobile webpage system for on-the-go learning.&lt;/li&gt;
+  &lt;li&gt;The back-end, which is an API (application programming interface) for question and answer learning.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More about this API will be coming out soon. And it will all be open-source. So please check back for more details.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Creating an SMS Learning System with Askii</title>
+    <link href="http://learn.media.mit.edu/updates/askii/creating_askii.html"/>
+    <updated>2015-03-06T00:00:00-05:00</updated>
+    <id>http://learn.media.mit.edu/updates/askii/creating_askii</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Askii began first as a mobile application called “XpressMe”, which originated from &lt;a href=&quot;/mlw/xpress-me/&quot;&gt;one of the ideas&lt;/a&gt; at the IdeaShop in May 2014.&lt;/p&gt;
 
 &lt;h3 id=&quot;initial-prototyping&quot;&gt;Initial Prototyping&lt;/h3&gt;
 
@@ -61,7 +88,7 @@
 
 &lt;p&gt;From these system flow charts, I then translated them into a first prototype, which we have named “Askii”. Askii is built on &lt;a href=&quot;http://twilio.com&quot;&gt;Twilio&lt;/a&gt;, which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with a Twilio app, is written in Node.js with a Mongoose database of questions, answers, and content.&lt;/p&gt;
 
-&lt;p&gt;The prototype is up and running, and &lt;em&gt;very soon&lt;/em&gt; there will be a demo video of the system right here :)&lt;/p&gt;
+&lt;p&gt;The prototype is up and running, and &lt;em&gt;very soon&lt;/em&gt; there will be a demo video of the system on our site.&lt;/p&gt;
 
 &lt;p&gt;For now, here is a screen shot as a placeholder.&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;/mlw/images/askii_on_iphone.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
@@ -86,7 +113,7 @@
     </author>
     <content type="html">
       
-      &lt;p&gt;On March 3rd, Srishti and I went to a ESOL school for adult learners in East Boston, Massachusetts, to get the students’ feedback on the newest iteration of the Read Out Loud prototype. &lt;/p&gt;
+      &lt;p&gt;On March 3rd, Srishti and I went to a ESOL school for adult learners in East Boston, Massachusetts, to get the students’ feedback on the newest iteration of the Read Out Loud prototype.&lt;/p&gt;
 
 &lt;h3 id=&quot;first-some-photos-from-the-afternoon&quot;&gt;First, Some Photos from the Afternoon&lt;/h3&gt;
 &lt;center&gt;
@@ -103,11 +130,11 @@
 
 &lt;h3 id=&quot;letting-the-learners-explore&quot;&gt;Letting The Learners Explore&lt;/h3&gt;
 
-&lt;p&gt;Next, we passed out iPhones and iPad Minis with Read Out Loud pre-installed and copies of &lt;em&gt;The Very Hungry Caterpillar&lt;/em&gt; by Eric Carle, which was the book we had chosen for testing. &lt;/p&gt;
+&lt;p&gt;Next, we passed out iPhones and iPad Minis with Read Out Loud pre-installed and copies of &lt;em&gt;The Very Hungry Caterpillar&lt;/em&gt; by Eric Carle, which was the book we had chosen for testing.&lt;/p&gt;
 
 &lt;p&gt;They began by splitting off into all corners of the room (since Read Out Loud makes noise and it was easier for multiple learners to test individually this way). They then customized their language preferences and opened the book. We began to here the app’s computerized voice fill the room.&lt;/p&gt;
 
-&lt;p&gt;We purposefully did not walk learners through all the capabilities of the app, since we wanted to see what features were intuitive for them to discover and which they liked the best. It was only about five minutes into the testing when learners realized that they could click on the words to get the translation in their native language. Once on of them found this feature, news spread like wildfire and soon we could here translations being read aloud. &lt;/p&gt;
+&lt;p&gt;We purposefully did not walk learners through all the capabilities of the app, since we wanted to see what features were intuitive for them to discover and which they liked the best. It was only about five minutes into the testing when learners realized that they could click on the words to get the translation in their native language. Once on of them found this feature, news spread like wildfire and soon we could here translations being read aloud.&lt;/p&gt;
 
 &lt;p&gt;We could hear students all over the room sounding out words, reading along with the app’s voice, and looking up words. There were no major problems with the app’s infrastructure (i.e. it didn’t crash), which was a huge relief, as this was the first time we were testing it with multiple users at once.&lt;/p&gt;
 
@@ -182,7 +209,7 @@
 
 &lt;p&gt;Though Citizen Tutoring is the least developed of these ideas, it still possesses incredible potential. Envisioned as a way to connect adult learners with senior citizen tutors via the Internet, this idea aims to provide learners with much needed tutoring and mentorship, and seniors with an opportunity to capitalize on their wealth of knowledge and gain valuable tech skills, all while giving back to their communities. Still in its very early stages, the future of Citizen Tutoring is imagined as a means through which existing online tools can support senior tutors as they provide valuable mentoring and skill building to both groups of adult learners, supporting those transitioning to life in the United States and those who have struggled with the traditional education system. Researchers continue to conceptualize new ways to incorporate the use of public spaces such as libraries and organizing learners and tutors into geographically local groups into this project.&lt;/p&gt;
 
-&lt;p&gt;Much of the success of these projects will be their scalability for use by a wide range of adult learners. Whether they will be available via popular sites such as the App store or iTunes is still up for debate, Nazare says. Read Out Loud is currently in the user testing phase and will need to undergo beta testing and a private release before it can be made publicly available. &lt;/p&gt;
+&lt;p&gt;Much of the success of these projects will be their scalability for use by a wide range of adult learners. Whether they will be available via popular sites such as the App store or iTunes is still up for debate, Nazare says. Read Out Loud is currently in the user testing phase and will need to undergo beta testing and a private release before it can be made publicly available.&lt;/p&gt;
 
     </content>
   </entry>
@@ -199,7 +226,7 @@
     </author>
     <content type="html">
       
-      &lt;p&gt;Over the past few weeks, we have been working on a new edition of the “storyteller” prototype, which I want to introduce briefly here. Back in September, we posted about our &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/rough-prototyping.html&quot;&gt;very rough prototype&lt;/a&gt;, which gave a proof of concept that what we wanted to do was technically feasible and explain the rationale for the prototype. &lt;/p&gt;
+      &lt;p&gt;Over the past few weeks, we have been working on a new edition of the “storyteller” prototype, which I want to introduce briefly here. Back in September, we posted about our &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/rough-prototyping.html&quot;&gt;very rough prototype&lt;/a&gt;, which gave a proof of concept that what we wanted to do was technically feasible and explain the rationale for the prototype.&lt;/p&gt;
 
 &lt;p&gt;Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.&lt;/p&gt;
 
@@ -232,7 +259,7 @@ On the functionality side, we know that we need to make it more error-proof befo
       
       &lt;p&gt;Last week, I went to sit in on an intermediate ESOL class for parents at a local elementary school in Boston. I wanted to quickly post my findings from the class.&lt;/p&gt;
 
-&lt;p&gt;At the beginning of the class, we did quick introductions. Of the eight students in the class, all were women. Seven out of the eight students were from Latin America (El Salvador in particular) and one from Egypt. They all had kids - their ages spanned from 10 months old to over 18. When I asked where their kids were, I learned that the ESOL program provides free childcare to all children over one year old (which explained why a ten-month-old baby was sitting in class with her mother). &lt;/p&gt;
+&lt;p&gt;At the beginning of the class, we did quick introductions. Of the eight students in the class, all were women. Seven out of the eight students were from Latin America (El Salvador in particular) and one from Egypt. They all had kids - their ages spanned from 10 months old to over 18. When I asked where their kids were, I learned that the ESOL program provides free childcare to all children over one year old (which explained why a ten-month-old baby was sitting in class with her mother).&lt;/p&gt;
 
 &lt;p&gt;We did a straw poll survey to see which students in the class had smart phones, and which had significant others at home who spoke (any) English. Six out of the eight students owned smart phones; four had Androids and two had iPhones. All of the students lived with a significant other, but only one wavering hand was raised when we asked if any of them spoke enough English to help them with their ESOL homework.&lt;/p&gt;
 
@@ -242,7 +269,7 @@ On the functionality side, we know that we need to make it more error-proof befo
 
 &lt;p&gt;At snack time, a few of the students asked me if I could show them what I was working on, so I showed them a very early prototype of the storyteller app. They loved the idea, and one of them even went to search “storyteller” on the app store before I got the chance to explain that it is still in the prototype stage.&lt;/p&gt;
 
-&lt;p&gt;At the end of the class, the teacher asked her students to each take home a storybook to read – apparently this is something that they do every week. Walking out of the class, one of the women came over to introduce me to her 5-year-old daughter. The daughter spoke very good English, and stuck her hand out to say hello and shake my hand. &lt;/p&gt;
+&lt;p&gt;At the end of the class, the teacher asked her students to each take home a storybook to read – apparently this is something that they do every week. Walking out of the class, one of the women came over to introduce me to her 5-year-old daughter. The daughter spoke very good English, and stuck her hand out to say hello and shake my hand.&lt;/p&gt;
 
 &lt;p&gt;In that short, 2 hour time period, I learned a ton about some of the technology and methods used to teach adult ESOL, learned about the students - their backgrounds, their motivations for learning English, and their access to technology. Once I am father along in the prototyping of Storyteller, I’m excited to go back to the class and test out our storyteller prototype.&lt;/p&gt;
 
@@ -261,13 +288,13 @@ On the functionality side, we know that we need to make it more error-proof befo
     </author>
     <content type="html">
       
-      &lt;p&gt;In this post, we will focus on “Storyteller”, one of the ideas we have been working on to prototype how technology can help adult learners with very basic literacy and numeracy. &lt;/p&gt;
+      &lt;p&gt;In this post, we will focus on “Storyteller”, one of the ideas we have been working on to prototype how technology can help adult learners with very basic literacy and numeracy.&lt;/p&gt;
 
 &lt;p&gt;Over the past few weeks, we’ve been working on a &lt;em&gt;very&lt;/em&gt; rough prototype of Storyteller, as well as fleshing out the idea, user experience, and research questions.&lt;/p&gt;
 
 &lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 
-&lt;p&gt;Storybooks can be used to engage English language learners of any age. In particular, incorporating storybook reading into adult ESOL (English for Speakers of Other Languages) curricula can help adult learners: &lt;/p&gt;
+&lt;p&gt;Storybooks can be used to engage English language learners of any age. In particular, incorporating storybook reading into adult ESOL (English for Speakers of Other Languages) curricula can help adult learners:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Learn material that has meaning outside of the ESOL classroom and can inspire family collaboration.&lt;/li&gt;
@@ -393,26 +420,26 @@ On the functionality side, we know that we need to make it more error-proof befo
       
       &lt;h3 id=&quot;section&quot;&gt;15 &amp;gt; 5 &amp;gt; 2-3.&lt;/h3&gt;
 
-&lt;p&gt;That’s the math that we (&lt;a href=&quot;http://learn.media.mit.edu/&quot;&gt;the Learning Over Education team&lt;/a&gt;) have been doing over the past few weeks. &lt;/p&gt;
+&lt;p&gt;That’s the math that we (&lt;a href=&quot;http://learn.media.mit.edu/&quot;&gt;the Learning Over Education team&lt;/a&gt;) have been doing over the past few weeks.&lt;/p&gt;
 
 &lt;p&gt;In all seriousness, we’ve been working on taking the 15 initial ideas created at the &lt;a href=&quot;https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit&quot;&gt;IdeaShop&lt;/a&gt; and whittling them down to five solid ideas. Of these five ideas, we plan to prototype two or three.&lt;/p&gt;
 
-&lt;p&gt;So how did we go about deciding which ideas made the cut? We used a mix of common sense, idealism, and combined them the Media Lab’s own criteria for success: uniqueness, impact, and magic. When we ran the IdeaShop, we asked participants to think of the craziest ideas that might be technologically possible in the next ten years. Now we needed to bring them down to what’s possible to prototype during the next two years. How did we do that? &lt;/p&gt;
+&lt;p&gt;So how did we go about deciding which ideas made the cut? We used a mix of common sense, idealism, and combined them the Media Lab’s own criteria for success: uniqueness, impact, and magic. When we ran the IdeaShop, we asked participants to think of the craziest ideas that might be technologically possible in the next ten years. Now we needed to bring them down to what’s possible to prototype during the next two years. How did we do that?&lt;/p&gt;
 
 &lt;p&gt;We started with the three core measures of success that the MIT Media Lab applies to all of its projects:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Uniqueness - Is the idea unique? Is the technology novel and exciting? &lt;/li&gt;
-  &lt;li&gt;Impact - Does it have potential to make a difference in peoples’ lives? Can it scale (without massive investment of resources)? &lt;/li&gt;
-  &lt;li&gt;Magic - Does it make you go wow or smile with delight. &lt;/li&gt;
+  &lt;li&gt;Uniqueness - Is the idea unique? Is the technology novel and exciting?&lt;/li&gt;
+  &lt;li&gt;Impact - Does it have potential to make a difference in peoples’ lives? Can it scale (without massive investment of resources)?&lt;/li&gt;
+  &lt;li&gt;Magic - Does it make you go wow or smile with delight.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;We then added a number of questions that focus on feasibility:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Is the technology mature enough that we can develop a prototype in the next year? &lt;/li&gt;
+  &lt;li&gt;Is the technology mature enough that we can develop a prototype in the next year?&lt;/li&gt;
   &lt;li&gt;Can the idea be deployed with a small pilot (i.e. doesn’t require critical mass to become useful)?&lt;/li&gt;
-  &lt;li&gt;Have potential partners expressed interest in piloting / deploying it? &lt;/li&gt;
+  &lt;li&gt;Have potential partners expressed interest in piloting / deploying it?&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix. &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1eXhDtdGC55haN32PmeNTSRIdJ7LjzKE2oS8Vtr9kJXI/pubhtml&quot;&gt;[Click here for larger copy]&lt;/a&gt;:&lt;/p&gt;
@@ -502,7 +529,7 @@ On the functionality side, we know that we need to make it more error-proof befo
 
 &lt;h3 id=&quot;random-events-lab&quot;&gt;7. Random Events Lab&lt;/h3&gt;
 
-&lt;p&gt;Random Events Lab is a low-risk environment for individuals to come and receive job training, interview support, and mock situations. REL seeks to support users in better understanding general expectations in a given workplace while still maintaining their individuality. REL consists of a series of life size projection screens that mimic real-life scenarios. For instance, a recent immigrant with a background in finance may come to better understand the expectations of the U.S. workplace and practice interviewing. Some of these scenarios may be automated but she may also have the opportunity to link up with potential employers and like-minded users who have common or complementary interests. &lt;/p&gt;
+&lt;p&gt;Random Events Lab is a low-risk environment for individuals to come and receive job training, interview support, and mock situations. REL seeks to support users in better understanding general expectations in a given workplace while still maintaining their individuality. REL consists of a series of life size projection screens that mimic real-life scenarios. For instance, a recent immigrant with a background in finance may come to better understand the expectations of the U.S. workplace and practice interviewing. Some of these scenarios may be automated but she may also have the opportunity to link up with potential employers and like-minded users who have common or complementary interests.&lt;/p&gt;
 
 &lt;center&gt;
 	&lt;img src=&quot;/mlw/images/gallery_sketches/random_events_lab.png&quot; width=&quot;50%&quot; /&gt;
@@ -510,7 +537,7 @@ On the functionality side, we know that we need to make it more error-proof befo
 
 &lt;h3 id=&quot;xpress-me&quot;&gt;8. Xpress Me&lt;/h3&gt;
 
-&lt;p&gt;Xpress Me is a mobile application designed to help users improve their literacy and numeracy skills while on their daily commute. It works by allowing the user to choose to “passively learn” (listen or read), or actively learn (answer questions and challenges). By making learning accessible during commute times, Xpress Me works to facilitate quick wins that continually motivate the user to keep using the platform. For example, a department store worker who takes the bus to work daily may choose to use Xpress Me to explore the option of becoming a nurse, learn about the profession, identify the skills that she needs, and then gradually do the reading required for the training. That way, when she goes to enroll in a nursing certification program, she is already halfway towards completing the certification. &lt;/p&gt;
+&lt;p&gt;Xpress Me is a mobile application designed to help users improve their literacy and numeracy skills while on their daily commute. It works by allowing the user to choose to “passively learn” (listen or read), or actively learn (answer questions and challenges). By making learning accessible during commute times, Xpress Me works to facilitate quick wins that continually motivate the user to keep using the platform. For example, a department store worker who takes the bus to work daily may choose to use Xpress Me to explore the option of becoming a nurse, learn about the profession, identify the skills that she needs, and then gradually do the reading required for the training. That way, when she goes to enroll in a nursing certification program, she is already halfway towards completing the certification.&lt;/p&gt;
 
 &lt;center&gt;
 	&lt;img src=&quot;/mlw/images/gallery_sketches/xpress_me.png&quot; width=&quot;50%&quot; /&gt;
@@ -518,7 +545,7 @@ On the functionality side, we know that we need to make it more error-proof befo
 
 &lt;h3 id=&quot;rich-and-passion&quot;&gt;9. Rich and Passion&lt;/h3&gt;
 
-&lt;p&gt;Rich and Passion seeks to support working students by creating a community for users to interact and offer academic support, motivation and help with non-academic needs. Based on co-located learners, users might ask for a ride to work if their car is broken down or find other students interested in a specific topic to ask questions to or get recommendations for outside learning material. &lt;/p&gt;
+&lt;p&gt;Rich and Passion seeks to support working students by creating a community for users to interact and offer academic support, motivation and help with non-academic needs. Based on co-located learners, users might ask for a ride to work if their car is broken down or find other students interested in a specific topic to ask questions to or get recommendations for outside learning material.&lt;/p&gt;
 
 &lt;center&gt;
 	&lt;img src=&quot;/mlw/images/gallery_sketches/rich_and_passion.png&quot; width=&quot;50%&quot; /&gt;
@@ -526,7 +553,7 @@ On the functionality side, we know that we need to make it more error-proof befo
 
 &lt;h3 id=&quot;foursquare-for-learning&quot;&gt;10. Foursquare for Learning&lt;/h3&gt;
 
-&lt;p&gt;Foursquare for learning aims to identify even the smallest chunk of time that a user has to learn and use the context around them to help them learn relevant skills. For example, suppose a user is at the grocery store, waiting in the checkout line after getting food for her kids dinner. Foursquare for learning may suggest some relevant articles on basic child nutrition that she could listen to via her headphones, or prompt her to do a basic calculation to see how much she is spending on bread. &lt;/p&gt;
+&lt;p&gt;Foursquare for learning aims to identify even the smallest chunk of time that a user has to learn and use the context around them to help them learn relevant skills. For example, suppose a user is at the grocery store, waiting in the checkout line after getting food for her kids dinner. Foursquare for learning may suggest some relevant articles on basic child nutrition that she could listen to via her headphones, or prompt her to do a basic calculation to see how much she is spending on bread.&lt;/p&gt;
 
 &lt;center&gt;
 	&lt;img src=&quot;/mlw/images/gallery_sketches/foursquare_for_learning.png&quot; width=&quot;50%&quot; /&gt;
@@ -542,7 +569,7 @@ On the functionality side, we know that we need to make it more error-proof befo
 
 &lt;h3 id=&quot;storyteller&quot;&gt;12. Storyteller&lt;/h3&gt;
 
-&lt;p&gt;Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is a mobile application that allows parents to drag and drop sentences in order to customize a story to tell their kids. The sentences can be played out load, allowing parents learn how to say the words to their children and practice pronunciation. This interactive application empowers parents to engage their kids in their learning process, telling them compelling bedtime stories while simultaneously learning English vocabulary and practicing their speech and reading capabilities. &lt;/p&gt;
+&lt;p&gt;Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is a mobile application that allows parents to drag and drop sentences in order to customize a story to tell their kids. The sentences can be played out load, allowing parents learn how to say the words to their children and practice pronunciation. This interactive application empowers parents to engage their kids in their learning process, telling them compelling bedtime stories while simultaneously learning English vocabulary and practicing their speech and reading capabilities.&lt;/p&gt;
 
 &lt;center&gt;
 	&lt;img src=&quot;/mlw/images/gallery_sketches/storybook.png&quot; width=&quot;50%&quot; /&gt;
@@ -594,12 +621,12 @@ On the functionality side, we know that we need to make it more error-proof befo
       &lt;p&gt;&lt;img src=&quot;/mlw/images/themes_wall.png&quot; width=&quot;100%&quot; /&gt;
 Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;/p&gt;
 
-&lt;p&gt;This post-it wall was created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). It maps the opportunities, barriers and challenges for adult learners. We are using it to identify promising areas for experimentation and to guide our work. &lt;/p&gt;
+&lt;p&gt;This post-it wall was created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). It maps the opportunities, barriers and challenges for adult learners. We are using it to identify promising areas for experimentation and to guide our work.&lt;/p&gt;
 
 &lt;h3 id=&quot;emotional-barriers&quot;&gt;1. Emotional Barriers&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Adult learners with low-skills often lack effective support environments &lt;/li&gt;
+  &lt;li&gt;Adult learners with low-skills often lack effective support environments&lt;/li&gt;
   &lt;li&gt;Past experiences may have lowered their motivation and confidence&lt;/li&gt;
   &lt;li&gt;Low self-esteem limits good learning behaviors like asking for help (learners feel embarrassed to ask)&lt;/li&gt;
 &lt;/ul&gt;
@@ -647,7 +674,7 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Improving job prospects. Being able to calculate a hourly rate, understand tipping, recite a menu to customers. &lt;/li&gt;
+  &lt;li&gt;Improving job prospects. Being able to calculate a hourly rate, understand tipping, recite a menu to customers.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
@@ -657,14 +684,14 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
 &lt;h3 id=&quot;fun-and-luxury&quot;&gt;6. Fun and Luxury&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;For adult learners, learning is a luxury. To study, they are missing out on other aspects of life. &lt;/li&gt;
-  &lt;li&gt;Fun: We talk about basic skills acquisition as a chore, not as an enjoyable activity. &lt;/li&gt;
+  &lt;li&gt;For adult learners, learning is a luxury. To study, they are missing out on other aspects of life.&lt;/li&gt;
+  &lt;li&gt;Fun: We talk about basic skills acquisition as a chore, not as an enjoyable activity.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;mentorship&quot;&gt;7. Mentorship&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Every learner needs someone that they can turn to for help, who is there to help motivate them. &lt;/li&gt;
+  &lt;li&gt;Every learner needs someone that they can turn to for help, who is there to help motivate them.&lt;/li&gt;
   &lt;li&gt;Many literacy programs pair volunteers with one student or a small group, which allows them to work closely together and build up trust.&lt;/li&gt;
   &lt;li&gt;The mentorship model is time-intensive, both for the students and for the teacher, and requires a long-term commitment on both parts.&lt;/li&gt;
 &lt;/ul&gt;
@@ -672,8 +699,8 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
 &lt;h3 id=&quot;credentialing&quot;&gt;8. Credentialing&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Need to help adult learners certify and market the skills that they already have. &lt;/li&gt;
-  &lt;li&gt;Is there a way to take the job experience that adult learners already have and repurpose it to count towards credentials that will help them get a job? &lt;/li&gt;
+  &lt;li&gt;Need to help adult learners certify and market the skills that they already have.&lt;/li&gt;
+  &lt;li&gt;Is there a way to take the job experience that adult learners already have and repurpose it to count towards credentials that will help them get a job?&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;

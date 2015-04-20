@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <meta property="fb:app_id" content="486603034805006">
     <title>making / learning / work</title>
-    <meta name="description" content="Askii began first as a mobile application called “XpressMe”, which originated from one of the ideas at the IdeaShop in May 2014. 
+    <meta name="description" content="As we built the SMS and mobile webpage learning system discussed in the post, Creating Askii, we found we were most interested the algorithms behind the system. What are the algorithms that work best for interleaving review content? How do we do this in a short, confined timespan that is often needed in adult learning?
 
 ">
     <meta name="keywords" content="">
     
     
     	<!-- Twitter Cards -->
-	<meta name="twitter:title" content="Creating Askii">
-	<meta name="twitter:description" content="Askii began first as a mobile application called “XpressMe”, which originated from one of the ideas at the IdeaShop in May 2014. 
+	<meta name="twitter:title" content="Askii as an API">
+	<meta name="twitter:description" content="As we built the SMS and mobile webpage learning system discussed in the post, Creating Askii, we found we were most interested the algorithms behind the system. What are the algorithms that work best for interleaving review content? How do we do this in a short, confined timespan that is often needed in adult learning?
 
 ">
 	<meta name="twitter:site" content="@medialab">
@@ -24,14 +24,14 @@
 	<!-- Open Graph -->
 	<meta property="og:locale" content="Cambirdge MA USA">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="Creating Askii">
-	<meta property="og:description" content="Askii began first as a mobile application called “XpressMe”, which originated from one of the ideas at the IdeaShop in May 2014. 
+	<meta property="og:title" content="Askii as an API">
+	<meta property="og:description" content="As we built the SMS and mobile webpage learning system discussed in the post, Creating Askii, we found we were most interested the algorithms behind the system. What are the algorithms that work best for interleaving review content? How do we do this in a short, confined timespan that is often needed in adult learning?
 
 ">
-	<meta property="og:url" content="http://learn.media.mit.edu/updates,/askii/creating_askii.html">
+	<meta property="og:url" content="http://learn.media.mit.edu/updates/askii/askii_as_an_api.html">
 	<meta property="og:site_name" content="making / learning / work">
 
-    <link rel="canonical" href="http://learn.media.mit.edu/updates,/askii/creating_askii.html">
+    <link rel="canonical" href="http://learn.media.mit.edu/updates/askii/askii_as_an_api.html">
 
     <link href="http://learn.media.mit.edu/mlw/atom.xml" type="application/atom+xml" rel="alternate" title="making / learning / work Atom Feed">
     <link href="http://learn.media.mit.edu/mlw/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
@@ -122,60 +122,31 @@
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		
 		<div class="page-title">
-			<h1>Creating Askii</h1>
+			<h1>Askii as an API</h1>
 		</div>
 		<div class="inner-wrap">
 			<nav class="toc"></nav><!-- /.toc -->
 			<div id="content" class="page-content" itemprop="articleBody">
-				<p>Askii began first as a mobile application called “XpressMe”, which originated from <a href="/mlw/xpress-me/">one of the ideas</a> at the IdeaShop in May 2014. </p>
+				<p>As we built the SMS and mobile webpage learning system discussed in the post, <a href="http://learn.media.mit.edu/mlw/updates,/askii/creating_askii.html">Creating Askii</a>, we found we were most interested the algorithms behind the system. What are the algorithms that work best for interleaving review content? How do we do this in a short, confined timespan that is often needed in adult learning?</p>
 
-<h3 id="initial-prototyping">Initial Prototyping</h3>
+<p>Given this interest, we divided the Askii concept into two parts:</p>
 
-<p>In January 2015, we created a first prototype of XpressMe, which was a mobile app that would deliver basic numeracy content in small chunks of time that  a learner could utilize on their commute.</p>
+<ol>
+  <li>The client-side applications, which include the SMS and mobile webpage system for on-the-go learning.</li>
+  <li>The back-end, which is an API (application programming interface) for question and answer learning.</li>
+</ol>
 
-<h3 id="re-thinking-the-concept">Re-Thinking the Concept</h3>
-
-<p>However, in February, we decided to re-think the idea after hearing from experts in the field that we might want to focus on a system that delivers certification content, not basic numeracy content, as it is more natural to read on the go than do math (makes logical sense).</p>
-
-<p>When re-thinking “XpressMe”, I was fortunate enough to have a conversation with Alison from <a href="http://www.celled.org/">Cell-Ed</a>, where we talked about some of the technological barriers that learners may have to using an application such as “XpressMe”. Alison explained Cell-Ed’s rationale for using an SMS-based system, and gave me inspiration to think through what “XpressMe” would look like as a system that blended SMS and mobile website content.</p>
-
-<p>Some of the advantages for creating an SMS-based system:</p>
-
-<ul>
-  <li>It would not limit the user group to only adult learners with smart phones, but would allow learners with feature phones to interact with the application as well.</li>
-  <li>Learners may feel like they are interacting with a real person</li>
-</ul>
-
-<h3 id="fleshing-out-the-idea">Fleshing out the Idea</h3>
-
-<p>I began to think about how we could deliver certification content on-the-go, and honed in on creating a combined SMS and web-based system for helping learners study for exams such as the CPT Exam while on their commutes. As initial test material, I chose the US Naturalization Exam because it is an exam with publicly available study guides.</p>
-
-<p>My initial thought processes for what the system would behave like is shown below, with lots of arrows indicating a learner’s discussion with the service via SMS and web.</p>
-
-<center><img src="/mlw/images/askii_user_flow.jpg" width="50%" /></center>
-
-<h3 id="prototyping-again">Prototyping Again</h3>
-
-<p>From these system flow charts, I then translated them into a first prototype, which we have named “Askii”. Askii is built on <a href="http://twilio.com">Twilio</a>, which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with a Twilio app, is written in Node.js with a Mongoose database of questions, answers, and content.</p>
-
-<p>The prototype is up and running, and <em>very soon</em> there will be a demo video of the system right here :)</p>
-
-<p>For now, here is a screen shot as a placeholder.</p>
-<center><img src="/mlw/images/askii_on_iphone.jpg" width="50%" /></center>
-
-<p>In the coming months, we will be fleshing out this prototype and focusing on improving the algorithms behind what the learner sees, with the hopes of beginning user testing this summer to better understand how learners could study certification content on-the-go.</p>
-
-<p>Askii is meant to be a system that can be used for all sorts of certification content, so if you have more suggestions for content you would like to see put in the system or thoughts on potential collaborations, please feel free to leave a comment or reach out to us by email.</p>
+<p>More about this API will be coming out soon. And it will all be open-source. So please check back for more details.</p>
 
 
 				<hr />
 				<footer class="page-footer">
 					<div class="inline-btn">
-	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text=Creating%20Askii&amp;url=http://learn.media.mit.edu/updates,/askii/creating_askii.html&amp;via=medialab" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
-	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://learn.media.mit.edu/updates,/askii/creating_askii.html" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
+	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text=Askii%20as%20an%20API&amp;url=http://learn.media.mit.edu/updates/askii/askii_as_an_api.html&amp;via=medialab" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
+	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://learn.media.mit.edu/updates/askii/askii_as_an_api.html" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
 </div><!-- /.share-this -->
 					<div class="page-meta">
-	<p>Updated <time datetime="2015-03-06T00:00:00Z" itemprop="datePublished">March 06, 2015</time></p>
+	<p>Updated <time datetime="2015-04-19T00:00:00Z" itemprop="datePublished">April 19, 2015</time></p>
 </div><!-- /.page-meta -->
 				</footer><!-- /.footer -->
 				<aside>
@@ -195,7 +166,7 @@
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> -->
 <h3> Questions, comments? We want to hear them. </h3>
 		<div class="comments">
-		<div class="fb-comments" data-href="http://learn.media.mit.edu/mlw/updates,/askii/creating_askii.html" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+		<div class="fb-comments" data-href="http://learn.media.mit.edu/mlw/updates/askii/askii_as_an_api.html" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
 		</div>
 <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
