@@ -9,7 +9,7 @@
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
   <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
   <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-04-19T20:19:18-04:00</updated>
+  <updated>2015-04-19T20:25:10-04:00</updated>
   <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
@@ -39,7 +39,7 @@
   &lt;li&gt;The back-end, which is an API (application programming interface) for question and answer learning.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;More about this API will be coming out soon. And it will all be open-source. So please check back for more details.&lt;/p&gt;
+&lt;p&gt;More about this API will be coming out soon, including details of the API design. And it will all be open-source. So please check back for more details.&lt;/p&gt;
 
 
     </content>

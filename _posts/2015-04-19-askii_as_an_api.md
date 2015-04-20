@@ -15,7 +15,7 @@ Given this interest, we divided the Askii concept into two parts:
 1. The client-side applications, which include the SMS and mobile webpage system for on-the-go learning.
 2. The back-end, which is an API (application programming interface) for question and answer learning. 
 
-More about this API will be coming out soon. And it will all be open-source. So please check back for more details.
+More about this API will be coming out soon, including details of the API design. And it will all be open-source. So please check back for more details.
 
 
 
