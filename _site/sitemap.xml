@@ -1,84 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/askii/askii_as_an_api.html</loc>
+    <loc>http://localhost:4000/mlw/updates/askii/askii_as_an_api.html</loc>
     <lastmod>2015-04-19T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/askii/creating_askii.html</loc>
+    <loc>http://localhost:4000/mlw/updates/askii/creating_askii.html</loc>
     <lastmod>2015-03-06T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates,/rol/rol_user_testing.html</loc>
+    <loc>http://localhost:4000/mlw/updates,/rol/rol_user_testing.html</loc>
     <lastmod>2015-03-05T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/is_this_the_future_of_adult_learning.html</loc>
+    <loc>http://localhost:4000/mlw/updates/is_this_the_future_of_adult_learning.html</loc>
     <lastmod>2015-02-03T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/update,/rol/rough_prototyping_update.html</loc>
+    <loc>http://localhost:4000/mlw/update,/rol/rough_prototyping_update.html</loc>
     <lastmod>2014-10-28T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates,/rol/visit_to_esol_classroom.html</loc>
+    <loc>http://localhost:4000/mlw/updates,/rol/visit_to_esol_classroom.html</loc>
     <lastmod>2014-10-22T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates,/rol/rough-prototyping.html</loc>
+    <loc>http://localhost:4000/mlw/updates,/rol/rough-prototyping.html</loc>
     <lastmod>2014-09-22T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/narrowing-down-ideas.html</loc>
+    <loc>http://localhost:4000/mlw/updates/narrowing-down-ideas.html</loc>
     <lastmod>2014-08-11T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/pages/initial-ideas.html</loc>
+    <loc>http://localhost:4000/mlw/updates,/libranet/libranet-initial-concept.html</loc>
+    <lastmod>2014-08-05T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:4000/mlw/pages/initial-ideas.html</loc>
     <lastmod>2014-07-10T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/themes-from-the-ideashop.html</loc>
+    <loc>http://localhost:4000/mlw/updates/themes-from-the-ideashop.html</loc>
     <lastmod>2014-06-23T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/connecting-adult-learners.html</loc>
+    <loc>http://localhost:4000/mlw/updates/connecting-adult-learners.html</loc>
     <lastmod>2014-06-19T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/updates/adult-learning-innovations-workshop.html</loc>
+    <loc>http://localhost:4000/mlw/updates/adult-learning-innovations-workshop.html</loc>
     <lastmod>2014-05-29T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/about/</loc>
+    <loc>http://localhost:4000/mlw/about/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/askii/</loc>
+    <loc>http://localhost:4000/mlw/askii/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/libranet/</loc>
+    <loc>http://localhost:4000/mlw/libranet/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/contact/</loc>
+    <loc>http://localhost:4000/mlw/contact/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/foursquare-for-learning/</loc>
+    <loc>http://localhost:4000/mlw/foursquare-for-learning/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/</loc>
+    <loc>http://localhost:4000/mlw/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/job-graph/</loc>
+    <loc>http://localhost:4000/mlw/job-graph/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/read-out-loud/</loc>
+    <loc>http://localhost:4000/mlw/read-out-loud/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/resources.html</loc>
+    <loc>http://localhost:4000/mlw/resources.html</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/storyteller/</loc>
+    <loc>http://localhost:4000/mlw/storyteller/</loc>
   </url>
   <url>
-    <loc>http://learn.media.mit.edu/mlw/xpress-me/</loc>
+    <loc>http://localhost:4000/mlw/xpress-me/</loc>
   </url>
 </urlset>

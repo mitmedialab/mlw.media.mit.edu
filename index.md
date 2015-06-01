@@ -10,12 +10,23 @@ In the US, 36 Million adults have low basic literacy and numeracy skills. Many a
 
 # Current Prototypes
 
-<a class="no-link-style" href="{{ site.url }}{{site.baseurl}}/read-out-loud/"> 
-    <img class="project-tile" src="{{site.baseurl}}/images/project_tiles/rol_tile.jpg" width="49%">
-</a>
-<a class="no-link-style" href="{{ site.url }}{{site.baseurl}}/askii/">
-    <img class="project-tile" src="{{site.baseurl}}/images/project_tiles/askii_tile.jpg" width="49%">
-</a>
+<div class="tiles" style="min-width: 100%; min-height: 30vh;">
+	<article class="tile" itemscope itemtype="http://schema.org/Article">
+  		<a href="{{ site.url }}{{site.baseurl}}/read-out-loud/" title="Read Out Loud">
+  			<img src="{{ site.url }}{{site.baseurl}}/images/project_tiles/rol_tile.jpg" alt="teaser" itemprop="image">
+    	</a>
+	</article>
+	<article class="tile" itemscope itemtype="http://schema.org/Article">
+  		<a href="{{ site.url }}{{site.baseurl}}/askii/" title="Askii">
+  			<img src="{{ site.url }}{{site.baseurl}}/images/project_tiles/askii_tile.jpg" alt="teaser" itemprop="image">
+    	</a>
+	</article>
+	<article class="tile" itemscope itemtype="http://schema.org/Article">
+  		<a href="{{ site.url }}{{site.baseurl}}/libranet/" title="Libranet">
+  			<img src="{{ site.url }}{{site.baseurl}}/images/project_tiles/libranet_tile.jpg" alt="teaser" itemprop="image">
+    	</a>
+	</article><!-- /.tile -->
+</div>
 
 # Project Updates
 

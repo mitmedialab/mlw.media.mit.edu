@@ -5,27 +5,27 @@
 
   <title>making / learning / work</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
-    <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
-  <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
-  <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-04-19T20:41:57-04:00</updated>
-  <id>http://learn.media.mit.edu/</id>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2015-06-01T13:36:56-04:00</updated>
+  <id>http://localhost:4000/</id>
   <author>
     <name>Juliana Nazaré</name>
-    <uri>http://learn.media.mit.edu/</uri>
+    <uri>http://localhost:4000/</uri>
     <email>juliana@media.mit.edu</email>
   </author>
 
   
   <entry>
     <title>Askii as an API</title>
-    <link href="http://learn.media.mit.edu/updates/askii/askii_as_an_api.html"/>
+    <link href="http://localhost:4000/updates/askii/askii_as_an_api.html"/>
     <updated>2015-04-19T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/askii/askii_as_an_api</id>
+    <id>http://localhost:4000/updates/askii/askii_as_an_api</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -47,12 +47,12 @@
   
   <entry>
     <title>Creating an SMS Learning System with Askii</title>
-    <link href="http://learn.media.mit.edu/updates/askii/creating_askii.html"/>
+    <link href="http://localhost:4000/updates/askii/creating_askii.html"/>
     <updated>2015-03-06T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates/askii/creating_askii</id>
+    <id>http://localhost:4000/updates/askii/creating_askii</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -103,12 +103,12 @@
   
   <entry>
     <title>Testing Read Out Loud in the Classroom</title>
-    <link href="http://learn.media.mit.edu/updates,/rol/rol_user_testing.html"/>
+    <link href="http://localhost:4000/updates,/rol/rol_user_testing.html"/>
     <updated>2015-03-05T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates,/rol/rol_user_testing</id>
+    <id>http://localhost:4000/updates,/rol/rol_user_testing</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -167,12 +167,12 @@
   
   <entry>
     <title>Is This The Future of Adult Learning?</title>
-    <link href="http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html"/>
+    <link href="http://localhost:4000/updates/is_this_the_future_of_adult_learning.html"/>
     <updated>2015-02-03T00:00:00-05:00</updated>
-    <id>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning</id>
+    <id>http://localhost:4000/updates/is_this_the_future_of_adult_learning</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -216,12 +216,12 @@
   
   <entry>
     <title>Rough Prototyping Update</title>
-    <link href="http://learn.media.mit.edu/update,/rol/rough_prototyping_update.html"/>
+    <link href="http://localhost:4000/update,/rol/rough_prototyping_update.html"/>
     <updated>2014-10-28T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/update,/rol/rough_prototyping_update</id>
+    <id>http://localhost:4000/update,/rol/rough_prototyping_update</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -247,12 +247,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Visit to an ESOL class for parents</title>
-    <link href="http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom.html"/>
+    <link href="http://localhost:4000/updates,/rol/visit_to_esol_classroom.html"/>
     <updated>2014-10-22T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom</id>
+    <id>http://localhost:4000/updates,/rol/visit_to_esol_classroom</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -278,12 +278,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Rough Prototyping</title>
-    <link href="http://learn.media.mit.edu/updates,/rol/rough-prototyping.html"/>
+    <link href="http://localhost:4000/updates,/rol/rough-prototyping.html"/>
     <updated>2014-09-22T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates,/rol/rough-prototyping</id>
+    <id>http://localhost:4000/updates,/rol/rough-prototyping</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -408,12 +408,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Narrowing down the ideas</title>
-    <link href="http://learn.media.mit.edu/updates/narrowing-down-ideas.html"/>
+    <link href="http://localhost:4000/updates/narrowing-down-ideas.html"/>
     <updated>2014-08-11T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/narrowing-down-ideas</id>
+    <id>http://localhost:4000/updates/narrowing-down-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -453,11 +453,11 @@ On the functionality side, we know that we need to make it more error-proof befo
 &lt;p&gt;They are:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
@@ -466,13 +466,60 @@ On the functionality side, we know that we need to make it more error-proof befo
   </entry>
   
   <entry>
-    <title>Initial Ideas</title>
-    <link href="http://learn.media.mit.edu/pages/initial-ideas.html"/>
-    <updated>2014-07-10T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/pages/initial-ideas</id>
+    <title>Libranet Initial Concept</title>
+    <link href="http://localhost:4000/updates,/libranet/libranet-initial-concept.html"/>
+    <updated>2014-08-05T00:00:00-04:00</updated>
+    <id>http://localhost:4000/updates,/libranet/libranet-initial-concept</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;&lt;em&gt;Beyond book stacks - Utilizing libraries as bridges for meaningful employment&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For generations, libraries have played an integral role in local communities aound the world. As libraries evolve to “facilitate knowledge creation” [1] in the digital age, there are many opportunities to support adult learners in their journeys towards a secure and fulfilling future.&lt;/p&gt;
+
+&lt;p&gt;At many libraries, a large component of web use is job search, especially for those adults who do not have consistent access to the Internet at home or need the support of an intuitive path towards finding work. Indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet seeks to embrace this trend by creating a network facilitated by the library for residents to explore career opportunities and help set their own career goals.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/five_ideas/libranet.png&quot; width=&quot;75%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;When job seekers enter the library, they will log into Libranet on a local computer. Once logged in, they will be able to set and edit goals, search for jobs, and interact with a community of fellow job-seekers.  By doing this, Libranet finds new ways of collecting, extracting, and organizing data in order to make it sharable and actionable and helps find new ways to create value in libraries as community spaces of learning. Elucidating this previously hidden network of job seekers could lead to physical meet-ups, peer support groups, and perhaps skills building needs that the library could organize workshops around.&lt;/p&gt;
+
+&lt;p&gt;With Libranet, libraries benefit because they obtain information about the skills employees have and the skills employers seek and then design seminars to match employees and employers (job training, information sessions, interviews). Employers may be prompted to come in for info sessions, interview practice, skills training, resume review, etc. For them the benefit is threefold: They get access to potential employees, gain professional development as teachers, and have the opportunity to increase brand awareness in local community. By expanding job search as a service at the library, librarians will also be able to serve their clients more effectively.&lt;/p&gt;
+
+&lt;p&gt;[1] R. David Lankes, &lt;a href=&quot;http://mitpress.mit.edu/books/atlas-new-librarianship&quot;&gt;The Atlas of New Librarianship&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;update&quot;&gt;08/13/14 Update&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Q.&lt;/strong&gt; What can we do to give users immediate feedback after that register for Libranet?&lt;/p&gt;
+
+&lt;p&gt;Once they fill out a short profile, we could immediately present them with jobs targeted at the skill set they already have. We could also display a list of jobs they would need to acquire skills to obtain. Presented with this list would be a “gap analysis” of skills they need to develop for these jobs and steps to obtaining them. This could lead to partnerships with local community colleges, ESOL programs, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;update-1&quot;&gt;08/26/14 Update&lt;/h3&gt;
+
+&lt;p&gt;Thoughts to keep in mind:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A huge plus for libraries is they are already a public destination that people can access&lt;/li&gt;
+  &lt;li&gt;To what extent will library workers have access to Libranet? And how will this be balanced with patron privacy?&lt;/li&gt;
+  &lt;li&gt;Creating partnership with local community colleges, ESOL programs, etc. should be an integral part of Libranet&lt;/li&gt;
+&lt;/ul&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Initial Ideas</title>
+    <link href="http://localhost:4000/pages/initial-ideas.html"/>
+    <updated>2014-07-10T00:00:00-04:00</updated>
+    <id>http://localhost:4000/pages/initial-ideas</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -608,12 +655,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Themes from the IdeaShop</title>
-    <link href="http://learn.media.mit.edu/updates/themes-from-the-ideashop.html"/>
+    <link href="http://localhost:4000/updates/themes-from-the-ideashop.html"/>
     <updated>2014-06-23T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/themes-from-the-ideashop</id>
+    <id>http://localhost:4000/updates/themes-from-the-ideashop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -787,12 +834,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Connecting Adult Learners</title>
-    <link href="http://learn.media.mit.edu/updates/connecting-adult-learners.html"/>
+    <link href="http://localhost:4000/updates/connecting-adult-learners.html"/>
     <updated>2014-06-19T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/connecting-adult-learners</id>
+    <id>http://localhost:4000/updates/connecting-adult-learners</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -820,12 +867,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Adult Learning Innovations - Kickoff Workshop</title>
-    <link href="http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html"/>
+    <link href="http://localhost:4000/updates/adult-learning-innovations-workshop.html"/>
     <updated>2014-05-29T00:00:00-04:00</updated>
-    <id>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop</id>
+    <id>http://localhost:4000/updates/adult-learning-innovations-workshop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://learn.media.mit.edu/</uri>
+      <uri>http://localhost:4000/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
