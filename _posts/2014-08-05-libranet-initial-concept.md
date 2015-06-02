@@ -4,7 +4,7 @@ title:  "Libranet Initial Concept"
 date:   2014-08-05
 categories: updates, libranet
 image:
-    teaser: five_ideas/libranet.png
+    teaser: thumbnails/libranet-initial-idea-thumbnail.jpg
 ---
 
 _Beyond book stacks - Utilizing libraries as bridges for meaningful employment_
