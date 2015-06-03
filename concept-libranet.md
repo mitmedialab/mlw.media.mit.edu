@@ -8,7 +8,7 @@ For generations, libraries have played an integral role in local communities aro
 
 __Libranet is a model for facilitating in-person study groups at community libraries, organized around open online learning courses and content. On top of these materials, the model scaffolds a community learning environment to actively foster academic mindsets that are critical to deeper learning and future success.__
 
-Our first pilot of this model took place in May 2015, when we convened groups of learners in partnership with Chicago Public Libraries.
+Our first pilot of this model took place in May 2015, in collaboration with [Peer 2 Peer University](https://p2pu.org/en/) and [Chicago Public Libraries](http://www.chipublib.org/).
 
 ##### Questions or Comments?
 

@@ -21,4 +21,4 @@ With these observations in mind, the new Libranet emerged: __How might we levera
 
 The new Libranet is a model for facilitating in-person study groups at community libraries, organized around open online learning courses and content. On top of these materials, the model will scaffold a community learning environment to actively foster academic mindsets that are critical to deeper learning and future success of adult learners. 
 
-To begin this project, we are partnering with Chicago Public Libraries to run a pilot study group focused on mastering basic math skills in order to prepare for the GED Mathematical Reasoning test. We hope to start running this first study group in May 2015. 
+To begin this project, we are collaborating with [Peer 2 Peer University](https://p2pu.org/en/) and [Chicago Public Libraries](http://www.chipublib.org/). We hope to start running the first study group in May 2015. 
