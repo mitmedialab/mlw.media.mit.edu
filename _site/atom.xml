@@ -5,27 +5,27 @@
 
   <title>making / learning / work</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
-    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+    <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2015-06-03T15:44:34-04:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
+  <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
+  <updated>2015-10-01T12:54:23-04:00</updated>
+  <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>http://learn.media.mit.edu/</uri>
     <email>juliana@media.mit.edu</email>
   </author>
 
   
   <entry>
     <title>Read Out Loud Alpha Released!</title>
-    <link href="http://localhost:4000/updates/rol/rol-alpha-release.html"/>
+    <link href="http://learn.media.mit.edu/updates/rol/rol-alpha-release.html"/>
     <updated>2015-06-02T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates/rol/rol-alpha-release</id>
+    <id>http://learn.media.mit.edu/updates/rol/rol-alpha-release</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -44,11 +44,11 @@
 &lt;p&gt;For now, we are using free and openly available books from &lt;a href=&quot;https://www.gutenberg.org/&quot;&gt;Project Gutenberg&lt;/a&gt;. We are currently in the process of adding more books. You can find a PDF copy of the books on this page.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;The Tale of Peter Rabbit&lt;/em&gt; by Beatrix Potter &lt;a href=&quot;http://localhost:4000/mlw/assets/TheTaleofPeterRabbit.pdf&quot;&gt;[PDF link]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Tale of Peter Rabbit&lt;/em&gt; by Beatrix Potter &lt;a href=&quot;http://learn.media.mit.edu/mlw/assets/TheTaleofPeterRabbit.pdf&quot;&gt;[PDF link]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;issues-troubleshooting&quot;&gt;Issues, Troubleshooting?&lt;/h3&gt;
-&lt;p&gt;Please keep in mind that this is an alpha release. There are bound to be bugs in the application. If you find any, please don’t hesitate to &lt;a href=&quot;http://localhost:4000/mlw/contact&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please keep in mind that this is an alpha release. There are bound to be bugs in the application. If you find any, please don’t hesitate to &lt;a href=&quot;http://learn.media.mit.edu/mlw/contact&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 
 
     </content>
@@ -56,12 +56,12 @@
   
   <entry>
     <title>Askii as an API</title>
-    <link href="http://localhost:4000/updates/askii/askii_as_an_api.html"/>
+    <link href="http://learn.media.mit.edu/updates/askii/askii_as_an_api.html"/>
     <updated>2015-04-19T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates/askii/askii_as_an_api</id>
+    <id>http://learn.media.mit.edu/updates/askii/askii_as_an_api</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -82,13 +82,61 @@
   </entry>
   
   <entry>
-    <title>The New Libranet</title>
-    <link href="http://localhost:4000/updates,/libranet/the_new_libranet.html"/>
-    <updated>2015-04-02T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates,/libranet/the_new_libranet</id>
+    <title>Looking for Libranet Content</title>
+    <link href="http://learn.media.mit.edu/updates,/libranet/libranet-choosing-content.html"/>
+    <updated>2015-04-09T00:00:00-04:00</updated>
+    <id>http://learn.media.mit.edu/updates,/libranet/libranet-choosing-content</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;After &lt;a href=&quot;/mlw/updates,/libranet/the_new_libranet.html&quot;&gt;redefining the goals of Libranet&lt;/a&gt; we needed to start looking for content!&lt;/p&gt;
+
+&lt;p&gt;To begin, we wanted to get a better sense of what kinds of basic education online learning content was out there. Because one of our other prototypes, &lt;a href=&quot;/mlw/read-out-loud/&quot;&gt;Read Out Loud&lt;/a&gt;, is focused on developing basic literacy skills, we decided to narrow our search to basic numeracy content that was available freely online.&lt;/p&gt;
+
+&lt;p&gt;After a quick initial search for online and offline adult basic education courses designed to teach basic numeracy, we noticed that many courses had the explicit goal of preparing learners to take the GED (or other high school equivalency exam) and/or a college placement exam (e.g. COMPASS or Accuplacer). With this in mind, we defined our target learners as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Individuals who are not college-ready, needing remedial math to prepare for the GED or a college placement exam.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next, we defined our content selection criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Length&lt;/strong&gt;: Can the content be easily chunked into a 6-8 week study path?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cost&lt;/strong&gt;: Is the content free and openly available to anyone with a computer and internet access?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Format&lt;/strong&gt;: Is the content preformatted into a coherent course of study?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality of instruction&lt;/strong&gt;: Is the content’s instruction high-quality and designed for an adult learning audience? Is the instruction interface easy to navigate?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality of feedback&lt;/strong&gt;: Does the content provide mechanisms for delivering meaningful and helpful feedback to users?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality of assessments&lt;/strong&gt;: Are the assessments easy to use? Do the assessments adapt to learner needs and enhance the learning experience?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With our target learners and content selection criteria defined, we set out to compile a list of potential content to choose from. However, this search process proved to be much more difficult than we initially anticipated. There really isn’t much online learning content out there that falls into the basic education category. The majority of course offerings start at the university level, and those that do focus on basic education topics are often explicitly designed for a high school audience, a feature that can be discouraging for adult learners. And even some of the basic math courses that we found to be intentionally built for an adult audience were unnecessarily “kiddie-fied” in their design.&lt;/p&gt;
+
+&lt;p&gt;Yet despite some of these initial findings, we were able to identify three potential choices for content: &lt;a href=&quot;https://edready.org/home&quot;&gt;EdReady&lt;/a&gt;, &lt;a href=&quot;https://www.khanacademy.org/math&quot;&gt;Khan Academy Math&lt;/a&gt;, and &lt;a href=&quot;https://www.udacity.com/course/intro-algebra-review--ma004&quot;&gt;Udacity’s Intro Algebra Review&lt;/a&gt;. To choose between these three, we used a decision matrix and the six selection criteria defined above. We assigned a weighting to each criterion, with the constraint that the total weighting score be equal to 10. Then, we rated each potential choice as to how well it achieved the criteria on a scale from 1-3 (1= slight extent, 2= some extent, 3= great extent). Finally, we applied the weighting to each individual score and summed them up to get overall scores for each of the choices.&lt;/p&gt;
+
+&lt;p&gt;Here you can see our final matrix:&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;/mlw/images/libranet-decision-matrix.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;With a score of 25, Khan Academy Math emerged as the winner. And if we look closely at the decision matrix, we can see that Khan Academy’s high quality of feedback and assessment were the two criterion that really set this solution out from the others. Khan Academy uses an adaptive web-based exercise system that generates problems for the user based on performance. These exercises also feature a fairly robust system of hints that allow the user to get help when they are struggling with a problem. Neither Udacity’s Intro Algebra course nor EdReady featured practice problems and assessments that we felt were this helpful to the learner. In fact, EdReady’s initial diagnostic test takes at least an hour to complete and makes it so that the learner never receives any feedback on how she did. With this as the first step in using the EdReady platform, we were worried that many learners might get overly discouraged, resulting in EdReady’s score of 1 in Assessment. So while EdReady had a great score in Instruction because of its contextual videos used for lesson introductions, its overall score was the lowest because of feedback and assessments. Udacity’s Intro Alegebra Review performed moderately well in most categories, with its most impressive feature being its format as a structured weekly course. But again, with fairly standard assessment and feedback, it did not surpass Khan Academy in overall score.&lt;/p&gt;
+
+&lt;p&gt;Given these results, we are planning to move forward with using Khan Academy Math for our initial pilot round. In the coming weeks, we will be playing around more with this platform and exploring how we might tailor the math content to align with the GED curriculum. 
+In the future, we plan on revisiting the selection criteria defined here and tweaking them, given all that we will have learned from the pilot. It is very likely that our current criteria are skewed toward what we think will work best, and the hope is that as we try this out, we will be able to make better decisions about what types of content work best for small study groups of adult learners.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>The New Libranet</title>
+    <link href="http://learn.media.mit.edu/updates,/libranet/the_new_libranet.html"/>
+    <updated>2015-04-02T00:00:00-04:00</updated>
+    <id>http://learn.media.mit.edu/updates,/libranet/the_new_libranet</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -114,12 +162,12 @@
   
   <entry>
     <title>Creating an SMS Learning System with Askii</title>
-    <link href="http://localhost:4000/updates/askii/creating_askii.html"/>
+    <link href="http://learn.media.mit.edu/updates/askii/creating_askii.html"/>
     <updated>2015-03-06T00:00:00-05:00</updated>
-    <id>http://localhost:4000/updates/askii/creating_askii</id>
+    <id>http://learn.media.mit.edu/updates/askii/creating_askii</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -170,12 +218,12 @@
   
   <entry>
     <title>Testing Read Out Loud in the Classroom</title>
-    <link href="http://localhost:4000/updates,/rol/rol_user_testing.html"/>
+    <link href="http://learn.media.mit.edu/updates,/rol/rol_user_testing.html"/>
     <updated>2015-03-05T00:00:00-05:00</updated>
-    <id>http://localhost:4000/updates,/rol/rol_user_testing</id>
+    <id>http://learn.media.mit.edu/updates,/rol/rol_user_testing</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -234,12 +282,12 @@
   
   <entry>
     <title>Is This The Future of Adult Learning?</title>
-    <link href="http://localhost:4000/updates/is_this_the_future_of_adult_learning.html"/>
+    <link href="http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html"/>
     <updated>2015-02-03T00:00:00-05:00</updated>
-    <id>http://localhost:4000/updates/is_this_the_future_of_adult_learning</id>
+    <id>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -283,12 +331,12 @@
   
   <entry>
     <title>Rough Prototyping Update</title>
-    <link href="http://localhost:4000/update,/rol/rough_prototyping_update.html"/>
+    <link href="http://learn.media.mit.edu/update,/rol/rough_prototyping_update.html"/>
     <updated>2014-10-28T00:00:00-04:00</updated>
-    <id>http://localhost:4000/update,/rol/rough_prototyping_update</id>
+    <id>http://learn.media.mit.edu/update,/rol/rough_prototyping_update</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -314,12 +362,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Visit to an ESOL class for parents</title>
-    <link href="http://localhost:4000/updates,/rol/visit_to_esol_classroom.html"/>
+    <link href="http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom.html"/>
     <updated>2014-10-22T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates,/rol/visit_to_esol_classroom</id>
+    <id>http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -345,12 +393,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Rough Prototyping</title>
-    <link href="http://localhost:4000/updates,/rol/rough-prototyping.html"/>
+    <link href="http://learn.media.mit.edu/updates,/rol/rough-prototyping.html"/>
     <updated>2014-09-22T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates,/rol/rough-prototyping</id>
+    <id>http://learn.media.mit.edu/updates,/rol/rough-prototyping</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -475,12 +523,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Narrowing down the ideas</title>
-    <link href="http://localhost:4000/updates/narrowing-down-ideas.html"/>
+    <link href="http://learn.media.mit.edu/updates/narrowing-down-ideas.html"/>
     <updated>2014-08-11T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates/narrowing-down-ideas</id>
+    <id>http://learn.media.mit.edu/updates/narrowing-down-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -520,11 +568,11 @@ On the functionality side, we know that we need to make it more error-proof befo
 &lt;p&gt;They are:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
@@ -534,12 +582,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Libranet Initial Concept</title>
-    <link href="http://localhost:4000/updates,/libranet/libranet-initial-concept.html"/>
+    <link href="http://learn.media.mit.edu/updates,/libranet/libranet-initial-concept.html"/>
     <updated>2014-08-05T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates,/libranet/libranet-initial-concept</id>
+    <id>http://learn.media.mit.edu/updates,/libranet/libranet-initial-concept</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -581,12 +629,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Initial Ideas</title>
-    <link href="http://localhost:4000/pages/initial-ideas.html"/>
+    <link href="http://learn.media.mit.edu/pages/initial-ideas.html"/>
     <updated>2014-07-10T00:00:00-04:00</updated>
-    <id>http://localhost:4000/pages/initial-ideas</id>
+    <id>http://learn.media.mit.edu/pages/initial-ideas</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -722,12 +770,12 @@ On the functionality side, we know that we need to make it more error-proof befo
   
   <entry>
     <title>Themes from the IdeaShop</title>
-    <link href="http://localhost:4000/updates/themes-from-the-ideashop.html"/>
+    <link href="http://learn.media.mit.edu/updates/themes-from-the-ideashop.html"/>
     <updated>2014-06-23T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates/themes-from-the-ideashop</id>
+    <id>http://learn.media.mit.edu/updates/themes-from-the-ideashop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -901,12 +949,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Connecting Adult Learners</title>
-    <link href="http://localhost:4000/updates/connecting-adult-learners.html"/>
+    <link href="http://learn.media.mit.edu/updates/connecting-adult-learners.html"/>
     <updated>2014-06-19T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates/connecting-adult-learners</id>
+    <id>http://learn.media.mit.edu/updates/connecting-adult-learners</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
@@ -934,12 +982,12 @@ Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;
   
   <entry>
     <title>Adult Learning Innovations - Kickoff Workshop</title>
-    <link href="http://localhost:4000/updates/adult-learning-innovations-workshop.html"/>
+    <link href="http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html"/>
     <updated>2014-05-29T00:00:00-04:00</updated>
-    <id>http://localhost:4000/updates/adult-learning-innovations-workshop</id>
+    <id>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop</id>
     <author>
       <name>Juliana Nazaré</name>
-      <uri>http://localhost:4000/</uri>
+      <uri>http://learn.media.mit.edu/</uri>
       <email>juliana@media.mit.edu</email>
     </author>
     <content type="html">
