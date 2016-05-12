@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  
-
   <title>making / learning / work</title>
-  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.0.1</generator>
     <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
   <subtitle>Adult learning project at the MIT Media Lab</subtitle>
   <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
   <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
-  <updated>2015-10-01T12:54:23-04:00</updated>
+  <updated>2016-05-12T12:47:34-04:00</updated>
   <id>http://learn.media.mit.edu/</id>
   <author>
     <name>Juliana Nazaré</name>
