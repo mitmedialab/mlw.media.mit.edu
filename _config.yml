@@ -35,7 +35,7 @@ disqus-shortname:
 analytics :
     provider : google
     google : 
-        tracking_id : 'UA-77641995-6'
+        tracking_id : 'UA-38544202-3'
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
