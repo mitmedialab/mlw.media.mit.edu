@@ -5,6 +5,8 @@ date:   2015-03-05
 permalink: /askii/
 ---
 
+<p class="disclaimer"> Making / Learning / Work was an adult learning innovation project hosted at the MIT Media Lab from September 2014 to May 2016. This site is an archive of the project documentation. </p>
+
 In low-income jobs, certification exams are often a pathway to better employment prospects. Just in the healthcare field alone, passing an exam such as the Phlebotomy Technician Certification (CPT) and EKG Technician Certification (CET) can drastically improve your employability and annual income.
 
 __Askii is an open-source API (application programming interface) for question and answer learning. Askii focuses on delivering a learning experience that helps adult learners study for certification exams. It can be used as the back-end to SMS, mobile, and web-based learning systems.__

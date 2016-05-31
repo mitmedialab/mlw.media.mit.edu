@@ -5,6 +5,8 @@ date:   2014-08-05
 permalink: /xpress-me/
 ---
 
+<p class="disclaimer"> Making / Learning / Work was an adult learning innovation project hosted at the MIT Media Lab from September 2014 to May 2016. This site is an archive of the project documentation. </p>
+
 _Get certified and find a new job all on your commute to work._
 
 

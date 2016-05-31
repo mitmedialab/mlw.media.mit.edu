@@ -5,6 +5,8 @@ date:   2015-03-05
 permalink: /read-out-loud/
 ---
 
+<p class="disclaimer"> Making / Learning / Work was an adult learning innovation project hosted at the MIT Media Lab from September 2014 to May 2016. This site is an archive of the project documentation. </p>
+
 Read Out Loud is an application that empowers adults who are learning English to turn almost any reading material into an experience to help them learn English. 
 
 Learners can take a picture of page of text and the app then scans in the page and presents the learner with a host of additional tools to facilitate reading. They can read the text out loud, which helps learners who are more comfortable with spoken English understand what is being said on the page. They can select words to translate them into their native language. And coming soon, they can save words to a list for review. 

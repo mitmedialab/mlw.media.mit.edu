@@ -5,6 +5,8 @@ date:   2014-08-05
 permalink: /foursquare-for-learning/
 ---
 
+<p class="disclaimer"> Making / Learning / Work was an adult learning innovation project hosted at the MIT Media Lab from September 2014 to May 2016. This site is an archive of the project documentation. </p>
+
 _Capitalize on downtime by prompting adult learners to complete learning assignments relevant to whatever it is they happen to be doing that day._
 
 Foursquare for Learning is a mobile app that tracks your movement, detecting when you've entered a grocery store, a laundromat, or another "errand-like" location and prompting you with contextualized learning modules. For example, if you enter a grocery store you may be prompted with a nutritional budget that can help you plan a meal given your monetary constraints. Foursquare for Learning may also suggest some relevant articles on basic child nutrition that the user could listen to via his or her headphones, or prompt the user to do a basic calculation to see how much they are spending on bread. To the end user, the app hides out in the background most of the day, only popping up an alert when you are in an "errand location".  When you are in an errand location, you see a smartphone alert, asking you if you'd like to complete an exercise. 

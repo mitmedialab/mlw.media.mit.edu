@@ -6,7 +6,7 @@ comments: true
 permalink: /about/
 ---
 
-__Making / Learning / Work is an adult learning innovation project hosted at the MIT Media Lab__
+<p class="disclaimer"> Making / Learning / Work was an adult learning innovation project hosted at the MIT Media Lab from September 2014 to May 2016. This site is an archive of the project documentation. </p>
 
 In the US, 36 Million adults have low basic literacy and numeracy skills ([Download the PDF report](http://skills.oecd.org/Survey_of_Adult_Skills_US.pdf)). Many are stuck in low-paying jobs or unemployment. This is a challenge not just for the individuals and families directly affected, but for the US economy as a whole. "Learning" is the most promising pathways towards family-supporting employment and better futures.
 
